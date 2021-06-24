@@ -86,6 +86,34 @@ characters = {
     },
 }
 
+places = {
+    "cystal empire": {
+        "description": "The Crystal Empire is a location that first appears in the two-part third season premiere of My Little Pony Friendship is Magic as the home of the Crystal Ponies. It is ruled by Princess Cadance and Prince Shining Armor and formerly Princess Amore and King Sombra.",
+        "ruler": "Princess Cadance and Prince Shining Armor"
+        "first-appearance": "Season 3 Episode 1"
+    },
+    "equestria": {
+        "description": "Equestria is the main setting of the My Little Pony Friendship is Magic franchise. Equestria is inhabited by magical ponies and other talking creatures, such as griffons and dragons. Other animals and creatures also live in Equestria. Equestria is called a kingdom in the first episode of the show and in other media, though it does contain other \"kingdoms\" within it such as the Crystal Empire; the show and other media take place in many locations and their exact affiliation with Equestria is not explored. Equestria was co-ruled by Princess Celestia and Princess Luna, who resided in a palace in the city of Canterlot until The Last Problem, when they retire with Twilight Sparkle taking their place. The name \"Equestria\" is derived from the word \"equestrian\", which denotes a relation to horseback riding. Consequently, it also has an origin in equus, the Latin word for \"horse.\"",
+        "ruler": "Princess Celestia and Princess Luna, after Season 9 Episode 26 Twilight Sparkle",
+        "first-appearance": "Season 1 Episode 1"
+    },
+    "ponyville": {
+        "description": "Ponyville is a town in Equestria, the main setting of the series My Little Pony Friendship is Magic, and home to the leading characters. Ponyville is first featured in the first episode and is the setting for most of the episodes.",
+        "ruler": "N/A",
+        "first-appearance": "Season 1 Episode 1"
+    },
+    "everfree forest": {
+        "description": "The Everfree Forest is a wild wooded area on the outskirts of Ponyville that is introduced in Friendship is Magic, part 2. It is presented as a mysterious place that is home to a variety of creatures and animals, and it possesses a quality that allows plants and animals to thrive without pony intervention, which ponies consider "unnatural". It is also where Zecora makes her residence and contains other locations such as the Castle of the Two Sisters and the Tree of Harmony.",
+        "ruler": "N/A",
+        "first-appearance": "Season 1 Episode 2"
+    },
+    "canterlot": {
+        "description": "Canterlot is a city first featured in the series' premiere episode as the residence of Twilight Sparkle, where she studies under Princess Celestia. The city holds the royal castle, making it the capital of Equestria. It is also the venue of important cultural events like the Grand Galloping Gala. The name of the city is a portmanteau of "canter," a three-beat horse gait, and Camelot, a British kingdom from Arthurian legends.",
+        "ruler": "Princess Celestia, Twilight Sparkle after Season 9 Episode 26",
+        "first-appearance": "Season 1 Episode 1"
+    }
+}
+
 def character_get(name):
     for n in characters:
         if name == n:
