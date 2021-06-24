@@ -107,7 +107,7 @@ def character(name):
 def _characters():
     t = []
     for n in characters:
-        t.append(n.title())
+        t.append(n)
     return jsonify(t)
 
 app.run()
