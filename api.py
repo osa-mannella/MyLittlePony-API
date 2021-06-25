@@ -36,9 +36,9 @@ def home():
     return info
 
 @app.route("/place/<place_name>/")
-def place(place):
+def place(place_name):
     for n in places:
-        if place == n:
+        if place_name == n:
             return places[n]
     return "No Result"
 
