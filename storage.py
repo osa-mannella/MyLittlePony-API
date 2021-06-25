@@ -147,7 +147,7 @@ places = {
     }
 }
 
-episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1] titled '
+episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1] titled '
                                      '2,4,5 Greaaat by some sources, is the '
                                      'fifteenth episode of season nine of My '
                                      'Little Pony Friendship is Magic and the '
@@ -163,8 +163,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-02-11',
                       'season': '9',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9e/Ponyville_buckball_team%27s_cheer_squad_S9E15.png/revision/latest?cb=20190812013905',
+                      'title': '2, 4, 6, Greaaat',
                       'writer': 'Kaita Mpambara'},
- '28 Pranks Later': {'description': '28 Pranks Later is the fifteenth episode '
+ '28 pranks later': {'description': '28 Pranks Later is the fifteenth episode '
                                     'of season six of My Little Pony '
                                     'Friendship is Magic and the one hundred '
                                     'and thirty-second overall. The title and '
@@ -179,8 +180,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2011-02-11',
                      'season': '6',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/95/The_ponies_enter_the_barn_S6E15.png/revision/latest?cb=20160814171323',
+                     'title': '28 Pranks Later',
                      'writer': 'Meghan McCarthy'},
- 'A Bird in the Hoof': {'description': 'A Bird in the Hoof is the '
+ 'a bird in the hoof': {'description': 'A Bird in the Hoof is the '
                                        'twenty-second episode of the first '
                                        'season of My Little Pony Friendship is '
                                        'Magic. In this episode, during a visit '
@@ -197,8 +199,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-04-08',
                         'season': '1',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/ff/Fluttershy_holding_Philomena_S01E22.png/revision/latest?cb=20200312150711',
+                        'title': 'A Bird in the Hoof',
                         'writer': 'Charlotte Fullerton'},
- 'A Canterlot Wedding - Part 1': {'description': 'A Canterlot Wedding - Part 1 '
+ 'a canterlot wedding - part 1': {'description': 'A Canterlot Wedding - Part 1 '
                                                  'is the twenty-fifth episode '
                                                  'of the second season of My '
                                                  'Little Pony Friendship is '
@@ -219,8 +222,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'release-date': '2011-04-29',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/7d/Cadance_being_possessive_of_Shining_Armor_S2E25.png/revision/latest?cb=20120424080046',
+                                  'title': 'A Canterlot Wedding - Part 1',
                                   'writer': 'Meghan McCarthy'},
- 'A Canterlot Wedding - Part 2': {'description': 'A Canterlot Wedding - Part 2 '
+ 'a canterlot wedding - part 2': {'description': 'A Canterlot Wedding - Part 2 '
                                                  'is the twenty-sixth episode '
                                                  'of the second season of My '
                                                  'Little Pony Friendship is '
@@ -238,8 +242,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'release-date': '2011-05-06',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8c/Chrysalis_on_ruling_the_world_S2E26.png/revision/latest?cb=20120701130303',
+                                  'title': 'A Canterlot Wedding - Part 2',
                                   'writer': 'Meghan McCarthy'},
- 'A Dog and Pony Show': {'description': 'A Dog and Pony Show is the nineteenth '
+ 'a dog and pony show': {'description': 'A Dog and Pony Show is the nineteenth '
                                         'episode of the first season of My '
                                         'Little Pony Friendship is Magic. In '
                                         'this episode, Rarity is searching for '
@@ -253,8 +258,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-03-11',
                          'season': '1',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f6/Rarity_in_front_of_the_Diamond_Dogs_S1E19.png/revision/latest?cb=20130104080716',
+                         'title': 'A Dog and Pony Show',
                          'writer': 'Amy Keating Rogers'},
- 'A Flurry of Emotions': {'description': 'A Flurry of Emotions is the third '
+ 'a flurry of emotions': {'description': 'A Flurry of Emotions is the third '
                                          'episode of season seven of My Little '
                                          'Pony Friendship is Magic and the one '
                                          'hundred and forty-sixth overall. In '
@@ -266,8 +272,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-10-29',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/47/Twilight_smiling_at_Flurry_Heart_while_levitating_a_teddy_bear_S7E3.png/revision/latest?cb=20170423132816',
+                          'title': 'A Flurry of Emotions',
                           'writer': 'Sammie Crowley and Whitney Wetta'},
- 'A Friend in Deed': {'description': 'A Friend in Deed is the eighteenth '
+ 'a friend in deed': {'description': 'A Friend in Deed is the eighteenth '
                                      'episode of the second season of My '
                                      'Little Pony Friendship is Magic and the '
                                      'forty-fourth episode overall. When a '
@@ -284,8 +291,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-03-04',
                       'season': '2',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3d/Pinkie_Pie_Introduce_Myself_S2E18.png/revision/latest?cb=20120220051007',
+                      'title': 'A Friend in Deed',
                       'writer': 'Amy Keating Rogers'},
- 'A Health of Information': {'description': 'A Health of Information is the '
+ 'a health of information': {'description': 'A Health of Information is the '
                                             'twentieth episode of season seven '
                                             'of My Little Pony Friendship is '
                                             'Magic and the one hundred and '
@@ -301,8 +309,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2011-03-18',
                              'season': '7',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/45/Zecora_notices_she%27s_covered_in_orange_spots_S7E20.png/revision/latest?cb=20170924120255',
+                             'title': 'A Health of Information',
                              'writer': 'Sammie Crowley and Whitney Wetta'},
- "A Hearth's Warming Tail": {'description': "A Hearth's Warming Tail is the "
+ "a hearth's warming tail": {'description': "A Hearth's Warming Tail is the "
                                             'eighth episode of season six of '
                                             'My Little Pony Friendship is '
                                             'Magic and the one hundred and '
@@ -324,8 +333,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2010-12-03',
                              'season': '6',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a9/Ponies_sing_together_in_the_Castle_of_Friendship_S6E8.png/revision/latest?cb=20160517002332',
+                             'title': "A Hearth's Warming Tail",
                              'writer': 'Michael Vogel'},
- 'A Horse Shoe-In': {'description': 'A Horse Shoe-In is the twentieth episode '
+ 'a horse shoe-in': {'description': 'A Horse Shoe-In is the twentieth episode '
                                     'of season nine of My Little Pony '
                                     "Friendship is Magic and the show's two "
                                     'hundred and sixteenth episode overall.[1] '
@@ -337,8 +347,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2011-03-18',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/47/Starlight_declares_%22substituting_for_the_teachers%22_S9E20.png/revision/latest?cb=20190916005426',
+                     'title': 'A Horse Shoe-In',
                      'writer': 'Ariel Shepherd-Oppenheim'},
- 'A Matter of Principals': {'description': 'A Matter of Principals is the '
+ 'a matter of principals': {'description': 'A Matter of Principals is the '
                                            'fourteenth episode of season eight '
                                            'of My Little Pony Friendship is '
                                            'Magic and the one hundred and '
@@ -354,8 +365,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2011-02-04',
                             'season': '8',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/48/Discord_trolling_Starlight_Glimmer_S8E15.png/revision/latest?cb=20180806010429',
+                            'title': 'A Matter of Principals',
                             'writer': 'Nicole Dubuc'},
- 'A Rockhoof and a Hard Place': {'description': 'A Rockhoof and a Hard Place '
+ 'a rockhoof and a hard place': {'description': 'A Rockhoof and a Hard Place '
                                                 'is the twenty-first episode '
                                                 'of season eight of My Little '
                                                 'Pony Friendship is Magic and '
@@ -374,8 +386,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2011-03-25',
                                  'season': '8',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f1/Rockhoof_telling_the_class_an_exciting_story_S8E21.png/revision/latest?cb=20180916170735',
+                                 'title': 'A Rockhoof and a Hard Place',
                                  'writer': 'Kaita Mpambara'},
- 'A Royal Problem': {'description': 'A Royal Problem is the tenth episode of '
+ 'a royal problem': {'description': 'A Royal Problem is the tenth episode of '
                                     'season seven of My Little Pony Friendship '
                                     'is Magic and the one hundred and '
                                     'fifty-third overall. In this episode, '
@@ -388,8 +401,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-12-17',
                      'season': '7',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Celestia_and_Luna_shocked_by_their_switched_cutie_marks_S7E10.png/revision/latest?cb=20170611153225',
+                     'title': 'A Royal Problem',
                      'writer': 'Joanna Lewis and Kristine Songco'},
- 'A Trivial Pursuit': {'description': 'A Trivial Pursuit, incorrectly titled '
+ 'a trivial pursuit': {'description': 'A Trivial Pursuit, incorrectly titled '
                                       'as A Trivial Problem by some sources, '
                                       'is the sixteenth episode of season nine '
                                       'of My Little Pony Friendship is Magic '
@@ -406,8 +420,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-02-18',
                        'season': '9',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f3/First_round_of_Trivia_Trot_begins_S9E16.png/revision/latest?cb=20190812013958',
+                       'title': 'A Trivial Pursuit',
                        'writer': 'Brittany Jo Flores'},
- 'All Bottled Up': {'description': 'All Bottled Up is the second episode of '
+ 'all bottled up': {'description': 'All Bottled Up is the second episode of '
                                    'season seven of My Little Pony Friendship '
                                    'is Magic and the one hundred and '
                                    'forty-fifth overall. Notably, this is the '
@@ -422,8 +437,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2010-10-22',
                     'season': '7',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fa/Trixie_%22should_have_told_me_all_the_steps%22_S7E2.png/revision/latest?cb=20170417045858',
+                    'title': 'All Bottled Up',
                     'writer': 'Joanna Lewis and Kristine Songco'},
- 'Amending Fences': {'description': 'Amending Fences is the twelfth episode of '
+ 'amending fences': {'description': 'Amending Fences is the twelfth episode of '
                                     'the fifth season of My Little Pony '
                                     'Friendship is Magic and the one hundred '
                                     'and third episode overall. In this '
@@ -435,8 +451,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2011-01-07',
                      'season': '5',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Twilight%2C_Spike%2C_and_old_friends_gather_around_Moon_Dancer_S5E12.png/revision/latest?cb=20150706133859',
+                     'title': 'Amending Fences',
                      'writer': 'M. A. Larson'},
- 'Apple Family Reunion': {'description': 'Apple Family Reunion is the eighth '
+ 'apple family reunion': {'description': 'Apple Family Reunion is the eighth '
                                          'episode of the third season of My '
                                          'Little Pony Friendship is Magic and '
                                          'the sixtieth overall. In this '
@@ -453,8 +470,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-12-03',
                           'season': '3',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/08/Photo_album_0_%28Family_picture%29_S3E8.png/revision/latest?cb=20121223041810',
+                          'title': 'Apple Family Reunion',
                           'writer': 'Cindy Morrow'},
- 'Applebuck Season': {'description': 'Applebuck Season is the fourth episode '
+ 'applebuck season': {'description': 'Applebuck Season is the fourth episode '
                                      'of the first season of My Little Pony '
                                      'Friendship is Magic. In this episode, '
                                      'Applejack attempts to harvest the apple '
@@ -469,8 +487,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2010-11-05',
                       'season': '1',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/85/Big_McIntosh_and_Applejack_looking_at_Sweet_Apple_Acres_S01E04.png/revision/latest?cb=20200311194616',
+                      'title': 'Applebuck Season',
                       'writer': 'Amy Keating Rogers'},
- 'Applejack\'s "Day" Off': {'description': 'Applejack\'s "Day" Off is the '
+ 'applejack\'s "day" off': {'description': 'Applejack\'s "Day" Off is the '
                                            'tenth episode of season six of My '
                                            'Little Pony Friendship is Magic '
                                            'and the one hundred and '
@@ -484,9 +503,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-12-17',
                             'season': '6',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ea/Spike%2C_Twilight%2C_and_Rarity_see_AJ_hanging_from_a_rope_S6E10.png/revision/latest?cb=20160529201206',
+                            'title': 'Applejack\'s "Day" Off',
                             'writer': 'Neal Dusedau, Michael P. Fox, and Wil '
                                       'Fox'},
- "Appleoosa's Most Wanted": {'description': "Appleoosa's[sic] Most Wanted is "
+ "appleoosa's most wanted": {'description': "Appleoosa's[sic] Most Wanted is "
                                             'the sixth episode of the fifth '
                                             'season of My Little Pony '
                                             'Friendship is Magic and the '
@@ -502,8 +522,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2010-11-19',
                              'season': '5',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/83/The_Crusaders_meet_Trouble_Shoes_S5E6.png/revision/latest?cb=20150504215655',
+                             'title': "Appleoosa's Most Wanted",
                              'writer': 'Dave Polsky'},
- 'Baby Cakes': {'description': 'Baby Cakes is the thirteenth episode of the '
+ 'baby cakes': {'description': 'Baby Cakes is the thirteenth episode of the '
                                'second season of My Little Pony Friendship is '
                                'Magic and the thirty-ninth episode overall. '
                                'Pinkie Pie babysits the newborn twins of Mr. '
@@ -513,8 +534,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                 'release-date': '2011-01-28',
                 'season': '2',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/83/Pinkie_Pie_as_a_pig_S2E13.png/revision/latest?cb=20130325042948',
+                'title': 'Baby Cakes',
                 'writer': 'Charlotte Fullerton'},
- 'Bats!': {'description': 'Bats! is the seventh episode of the fourth season '
+ 'bats!': {'description': 'Bats! is the seventh episode of the fourth season '
                           'of My Little Pony Friendship is Magic and the '
                           'seventy-second episode overall. When vampire fruit '
                           'bats take over Sweet Apple Acres on Apple Bucking '
@@ -528,8 +550,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
            'release-date': '2010-11-26',
            'season': '4',
            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/07/Flutterbat_in_the_moonlight_S4E07.png/revision/latest?cb=20131230175435',
+           'title': 'Bats!',
            'writer': 'Merriwether Williams[1]'},
- 'Between Dark and Dawn': {'description': 'Between Dark and Dawn is the '
+ 'between dark and dawn': {'description': 'Between Dark and Dawn is the '
                                           'thirteenth episode of season nine '
                                           'of My Little Pony Friendship is '
                                           "Magic and the show's two hundred "
@@ -545,8 +568,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2011-01-28',
                            'season': '9',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cb/Princess_Luna_%22while_we%27re_gone%22_S9E13.png/revision/latest?cb=20190623212011',
+                           'title': 'Between Dark and Dawn',
                            'writer': 'Gail Simone'},
- 'Bloom & Gloom': {'description': 'Bloom & Gloom (spelled as Bloom and Gloom '
+ 'bloom & gloom': {'description': 'Bloom & Gloom (spelled as Bloom and Gloom '
                                   'by some sources) is the fourth episode of '
                                   'the fifth season of My Little Pony '
                                   'Friendship is Magic and the ninety-fifth '
@@ -558,8 +582,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-05',
                    'season': '5',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2d/Apple_Bloom_confronted_by_her_shadow_S5E4.png/revision/latest?cb=20150420202246',
+                   'title': 'Bloom & Gloom',
                    'writer': 'Josh Haber'},
- 'Boast Busters': {'description': 'Boast Busters is the sixth episode of the '
+ 'boast busters': {'description': 'Boast Busters is the sixth episode of the '
                                   'first season of My Little Pony Friendship '
                                   'is Magic. In this episode, a new unicorn '
                                   'going by the name of "The Great and '
@@ -572,8 +597,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-19',
                    'season': '1',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/ab/Trixie%27s_flashy_stage_S1E06.png/revision/latest?cb=20121009174325',
+                   'title': 'Boast Busters',
                    'writer': 'Chris Savino'},
- 'Bridle Gossip': {'description': 'Bridle Gossip is the ninth episode of the '
+ 'bridle gossip': {'description': 'Bridle Gossip is the ninth episode of the '
                                   'first season of My Little Pony Friendship '
                                   'is Magic. In this episode, Twilight Sparkle '
                                   'and her friends encounter Zecora, a '
@@ -584,8 +610,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-12-10',
                    'season': '1',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/ff/Zecora_S01E09.png/revision/latest?cb=20130103054500',
+                   'title': 'Bridle Gossip',
                    'writer': 'Amy Keating Rogers'},
- 'Brotherhooves Social': {'description': 'Brotherhooves Social is the '
+ 'brotherhooves social': {'description': 'Brotherhooves Social is the '
                                          'seventeenth episode of the fifth '
                                          'season of My Little Pony Friendship '
                                          'is Magic and the one hundred and '
@@ -599,8 +626,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-02-25',
                           'season': '5',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f6/Apple_Bloom_and_Orchard_Blossom_%22somethin%27_that%27s_quite_unique%22_S5E17.png/revision/latest?cb=20151005150437',
+                          'title': 'Brotherhooves Social',
                           'writer': 'Dave Polsky'},
- 'Buckball Season': {'description': 'Buckball Season is the eighteenth episode '
+ 'buckball season': {'description': 'Buckball Season is the eighteenth episode '
                                     'of season six of My Little Pony '
                                     'Friendship is Magic and the one hundred '
                                     'and thirty-fifth overall. The title is '
@@ -613,8 +641,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2011-03-04',
                      'season': '6',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e0/Applejack_on_buckball_field_explaining_buckball_to_the_unicorns_S6E18.png/revision/latest?cb=20160904102857',
+                     'title': 'Buckball Season',
                      'writer': 'Jennifer Skelly'},
- 'Call of the Cutie': {'description': 'Call of the Cutie is the twelfth '
+ 'call of the cutie': {'description': 'Call of the Cutie is the twelfth '
                                       'episode of the first season of My '
                                       'Little Pony Friendship is Magic. In '
                                       'this episode, Apple Bloom becomes '
@@ -628,8 +657,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-01-07',
                        'season': '1',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b3/Apple_Bloom%27s_blank_flank_is_revealed_S1E12.png/revision/latest?cb=20130106090036',
+                       'title': 'Call of the Cutie',
                        'writer': 'Meghan McCarthy'},
- 'Campfire Tales': {'description': 'Campfire Tales is the sixteenth episode of '
+ 'campfire tales': {'description': 'Campfire Tales is the sixteenth episode of '
                                    'season seven of My Little Pony Friendship '
                                    'is Magic and the one hundred and '
                                    'fifty-ninth overall. In this episode, '
@@ -641,8 +671,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2011-02-18',
                     'season': '7',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d1/Big_sisters_and_little_sisters_around_the_campfire_S7E16.png/revision/latest?cb=20170827173550',
+                    'title': 'Campfire Tales',
                     'writer': 'Barry Safchik and Michael Platt'},
- 'Canterlot Boutique': {'description': 'Canterlot Boutique is the fourteenth '
+ 'canterlot boutique': {'description': 'Canterlot Boutique is the fourteenth '
                                        'episode of the fifth season of My '
                                        'Little Pony Friendship is Magic and '
                                        'the one hundred and fifth episode '
@@ -654,8 +685,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-02-04',
                         'season': '5',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0c/Crowd_cheering_S5E14.png/revision/latest?cb=20150915120107',
+                        'title': 'Canterlot Boutique',
                         'writer': 'Amy Keating Rogers'},
- 'Castle Mane-ia': {'description': 'Castle Mane-ia (titled as Castle-Mania by '
+ 'castle mane-ia': {'description': 'Castle Mane-ia (titled as Castle-Mania by '
                                    'some sources) is the third episode of the '
                                    'fourth season of My Little Pony Friendship '
                                    'is Magic and the sixty-eighth episode '
@@ -669,8 +701,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2010-10-29',
                     'season': '4',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/74/Castle_of_the_Two_Sisters_at_nighttime_S4E03.png/revision/latest?cb=20131202170325',
+                    'title': 'Castle Mane-ia',
                     'writer': 'Josh Haber'},
- 'Castle Sweet Castle': {'description': 'Castle Sweet Castle is the third '
+ 'castle sweet castle': {'description': 'Castle Sweet Castle is the third '
                                         'episode of the fifth season of My '
                                         'Little Pony Friendship is Magic and '
                                         'the ninety-fourth episode overall. '
@@ -683,8 +716,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2010-10-29',
                          'season': '5',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bc/Twilight_beholds_the_throne_room_chandelier_S5E3.png/revision/latest?cb=20150414011729',
+                         'title': 'Castle Sweet Castle',
                          'writer': 'Joanna Lewis & Kristine Songco'},
- 'Celestial Advice': {'description': 'Celestial Advice is the first episode of '
+ 'celestial advice': {'description': 'Celestial Advice is the first episode of '
                                      'season seven of My Little Pony '
                                      'Friendship is Magic and the one hundred '
                                      'and forty-fourth overall. Notably, this '
@@ -697,8 +731,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2010-10-10',
                       'season': '7',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a3/Starlight_Glimmer_surrounded_by_friends_S7E1.png/revision/latest?cb=20170416203925',
+                      'title': 'Celestial Advice',
                       'writer': 'Joanna Lewis and Kristine Songco'},
- 'Common Ground': {'description': 'Common Ground is the sixth episode of '
+ 'common ground': {'description': 'Common Ground is the sixth episode of '
                                   'season nine of My Little Pony Friendship is '
                                   "Magic and the show's two hundred and second "
                                   'episode overall.[1] In this episode, '
@@ -710,8 +745,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-19',
                    'season': '9',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cf/RD%2C_Fluttershy%2C_Pinkie%2C_and_Quibble_on_the_buckball_field_S9E6.png/revision/latest?cb=20190506202208',
+                   'title': 'Common Ground',
                    'writer': 'Josh Haber'},
- 'Crusaders of the Lost Mark': {'description': 'Crusaders of the Lost Mark is '
+ 'crusaders of the lost mark': {'description': 'Crusaders of the Lost Mark is '
                                                'the eighteenth episode of the '
                                                'fifth season of My Little Pony '
                                                'Friendship is Magic and the '
@@ -734,8 +770,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'release-date': '2011-03-04',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0a/Crusaders%27_cutie_marks_side-by-side_shot_S5E18.png/revision/latest?cb=20151012093517',
+                                'title': 'Crusaders of the Lost Mark',
                                 'writer': 'Amy Keating Rogers'},
- "Daring Don't": {'description': "Daring Don't is the fourth episode of the "
+ "daring don't": {'description': "Daring Don't is the fourth episode of the "
                                  'fourth season of My Little Pony Friendship '
                                  'is Magic and the sixty-ninth episode '
                                  'overall. When the release of the next Daring '
@@ -747,8 +784,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2010-11-05',
                   'season': '4',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/03/Rainbow_Dash_holding_Daring_Do_book_S04E04.png/revision/latest?cb=20131209110103',
+                  'title': "Daring Don't",
                   'writer': 'Dave Polsky'},
- 'Daring Done?': {'description': 'Daring Done? is the eighteenth episode of '
+ 'daring done?': {'description': 'Daring Done? is the eighteenth episode of '
                                  'season seven of My Little Pony Friendship is '
                                  'Magic and the one hundred and sixty-first '
                                  'overall. In this episode, Rainbow Dash and '
@@ -758,8 +796,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-03-04',
                   'season': '7',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8d/Rainbow_Dash_holding_a_newspaper_article_of_A._K._Yearling_S7E18.png/revision/latest?cb=20170910104735',
+                  'title': 'Daring Done?',
                   'writer': 'Gillian M. Berrow'},
- 'Daring Doubt': {'description': 'Daring Doubt is the twenty-first episode of '
+ 'daring doubt': {'description': 'Daring Doubt is the twenty-first episode of '
                                  'season nine of My Little Pony Friendship is '
                                  "Magic and the show's two hundred and "
                                  'seventeenth episode overall.[1] When another '
@@ -771,8 +810,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-03-25',
                   'season': '9',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/ac/Daring_Do_and_the_Fallen_Idol_cover_S9E21.png/revision/latest?cb=20190923140520',
+                  'title': 'Daring Doubt',
                   'writer': 'Nicole Dubuc'},
- 'Discordant Harmony': {'description': 'Discordant Harmony is the twelfth '
+ 'discordant harmony': {'description': 'Discordant Harmony is the twelfth '
                                        'episode of season seven of My Little '
                                        'Pony Friendship is Magic and the one '
                                        'hundred and fifty-fifth overall. In '
@@ -785,8 +825,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-01-07',
                         'season': '7',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/59/Fluttershy_and_Discord%27s_%22normal%22_tea_party_S7E12.png/revision/latest?cb=20170806182552',
+                        'title': 'Discordant Harmony',
                         'writer': 'Michael P. Fox and Wil Fox'},
- 'Do Princesses Dream of Magic Sheep?': {'description': 'Do Princesses Dream '
+ 'do princesses dream of magic sheep?': {'description': 'Do Princesses Dream '
                                                         'of Magic Sheep?[note '
                                                         '1] is the thirteenth '
                                                         'episode of the fifth '
@@ -813,9 +854,11 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'release-date': '2011-01-28',
                                          'season': '5',
                                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b8/Princess_Luna_exerts_her_dream_magic_further_S5E13.png/revision/latest?cb=20150713181012',
+                                         'title': 'Do Princesses Dream of '
+                                                  'Magic Sheep?',
                                          'writer': 'Jayson Thiessen & Jim '
                                                    'Miller'},
- 'Dragon Dropped': {'description': 'Dragon Dropped is the nineteenth episode '
+ 'dragon dropped': {'description': 'Dragon Dropped is the nineteenth episode '
                                    'of season nine of My Little Pony '
                                    "Friendship is Magic and the show's two "
                                    'hundred and fifteenth episode overall.[1] '
@@ -828,8 +871,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2011-03-11',
                     'season': '9',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/05/Rarity_looking_at_Spike_and_Gabby_hanging_out_at_Ponyville_Cafe_S9E19.png/revision/latest?cb=20190910225835',
+                    'title': 'Dragon Dropped',
                     'writer': 'Josh Haber'},
- 'Dragon Quest': {'description': 'Dragon Quest is the twenty-first episode of '
+ 'dragon quest': {'description': 'Dragon Quest is the twenty-first episode of '
                                  'the second season of My Little Pony '
                                  'Friendship is Magic and the forty-seventh '
                                  'episode overall. In this episode, Spike '
@@ -839,8 +883,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-03-25',
                   'season': '2',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/7c/Spike_looking_at_dragons_S2E21.png/revision/latest?cb=20121120132602',
+                  'title': 'Dragon Quest',
                   'writer': 'Merriwether Williams'},
- 'Dragonshy': {'description': 'Dragonshy is the seventh episode of the first '
+ 'dragonshy': {'description': 'Dragonshy is the seventh episode of the first '
                               'season of My Little Pony Friendship is Magic. '
                               "In this episode, a sleeping dragon's smoke "
                               'disrupts the skies of Equestria and the Mane '
@@ -852,8 +897,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                'release-date': '2010-11-26',
                'season': '1',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/51/Fluttershy_notices_the_smoke_S01E07.png/revision/latest?cb=20130103050304',
+               'title': 'Dragonshy',
                'writer': 'Meghan McCarthy'},
- 'Dungeons & Discords': {'description': 'Dungeons & Discords, also called '
+ 'dungeons & discords': {'description': 'Dungeons & Discords, also called '
                                         'Dungeons and Discords,[1] is the '
                                         'seventeenth episode of season six of '
                                         'My Little Pony Friendship is Magic '
@@ -874,8 +920,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-02-25',
                          'season': '6',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3b/Discord%2C_Spike%2C_Big_Mac%2C_RD%2C_and_Pinkie_jump_into_action_S6E17.png/revision/latest?cb=20160828170908',
+                         'title': 'Dungeons & Discords',
                          'writer': 'Nick Confalone'},
- 'Equestria Games': {'description': 'Equestria Games is the twenty-fourth '
+ 'equestria games': {'description': 'Equestria Games is the twenty-fourth '
                                     'episode of the fourth season of My Little '
                                     'Pony Friendship is Magic and the '
                                     'eighty-ninth episode overall. In this '
@@ -886,8 +933,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2011-04-22',
                      'season': '4',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d8/Spike_in_the_spotlight_S4E24.png/revision/latest?cb=20140505081950',
+                     'title': 'Equestria Games',
                      'writer': 'Dave Polsky'},
- 'Every Little Thing She Does': {'description': 'Every Little Thing She Does '
+ 'every little thing she does': {'description': 'Every Little Thing She Does '
                                                 'is the twenty-first episode '
                                                 'of season six of My Little '
                                                 'Pony Friendship is Magic and '
@@ -907,8 +955,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2011-03-25',
                                  'season': '6',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/04/Starlight_gives_orders_to_the_main_five_S6E21.png/revision/latest?cb=20160925132046',
+                                 'title': 'Every Little Thing She Does',
                                  'writer': 'Michael Vogel'},
- "Fake It 'Til You Make It": {'description': "Fake It 'Til You Make It[note 1] "
+ "fake it 'til you make it": {'description': "Fake It 'Til You Make It[note 1] "
                                              'is the fourth episode of season '
                                              'eight of My Little Pony '
                                              'Friendship is Magic and the one '
@@ -922,8 +971,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'release-date': '2010-11-05',
                               'season': '8',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e6/Fluttershy_%22I%27ve_taken_care_of_your_rodent_situation%22_S8E4.png/revision/latest?cb=20180408231153',
+                              'title': "Fake It 'Til You Make It",
                               'writer': 'Josh Hamilton'},
- 'Fall Weather Friends': {'description': 'Fall Weather Friends is the '
+ 'fall weather friends': {'description': 'Fall Weather Friends is the '
                                          'thirteenth episode of the first '
                                          'season of My Little Pony Friendship '
                                          'is Magic. In this episode, Applejack '
@@ -940,8 +990,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-01-28',
                           'season': '1',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3a/Applejack_%26_Rainbow_brohoof_S1E13.png/revision/latest?cb=20120310072234',
+                          'title': 'Fall Weather Friends',
                           'writer': 'Amy Keating Rogers'},
- 'Fame and Misfortune': {'description': 'Fame and Misfortune is the fourteenth '
+ 'fame and misfortune': {'description': 'Fame and Misfortune is the fourteenth '
                                         'episode of season seven of My Little '
                                         'Pony Friendship is Magic and the one '
                                         'hundred and fifty-seventh overall. '
@@ -954,8 +1005,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-02-04',
                          'season': '7',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6a/Twilight_getting_lots_of_autograph_requests_S7E14.png/revision/latest?cb=20170813211154',
+                         'title': 'Fame and Misfortune',
                          'writer': 'M. A. Larson'},
- 'Family Appreciation Day': {'description': 'Family Appreciation Day is the '
+ 'family appreciation day': {'description': 'Family Appreciation Day is the '
                                             'twelfth episode of the second '
                                             'season of My Little Pony '
                                             'Friendship is Magic and the '
@@ -971,8 +1023,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2011-01-07',
                              'season': '2',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9b/Granny_Smith_Apple_Bloom_hug_S2E12.png/revision/latest?cb=20120110160842',
+                             'title': 'Family Appreciation Day',
                              'writer': 'Cindy Morrow'},
- 'Father Knows Beast': {'description': 'Father Knows Beast is the '
+ 'father knows beast': {'description': 'Father Knows Beast is the '
                                        'twenty-fourth episode of season eight '
                                        'of My Little Pony Friendship is Magic '
                                        'and the one hundred and ninety-third '
@@ -988,8 +1041,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-04-22',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0f/Sludge_%22I_was_looking_for_you%22_S8E24.png/revision/latest?cb=20181008005716',
+                        'title': 'Father Knows Beast',
                         'writer': 'Josh Haber'},
- 'Feeling Pinkie Keen': {'description': 'Feeling Pinkie Keen is the fifteenth '
+ 'feeling pinkie keen': {'description': 'Feeling Pinkie Keen is the fifteenth '
                                         'episode of the first season of My '
                                         'Little Pony Friendship is Magic. In '
                                         'this episode, Twilight Sparkle learns '
@@ -1004,8 +1058,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-02-11',
                          'season': '1',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f7/Pinkie_vibrating_S01E15.png/revision/latest?cb=20200313050645',
+                         'title': 'Feeling Pinkie Keen',
                          'writer': 'Dave Polsky'},
- 'Filli Vanilli': {'description': 'Filli Vanilli is the fourteenth episode of '
+ 'filli vanilli': {'description': 'Filli Vanilli is the fourteenth episode of '
                                   'the fourth season of My Little Pony '
                                   'Friendship is Magic and the seventy-ninth '
                                   'episode overall. When a member of the Pony '
@@ -1021,8 +1076,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2011-02-04',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/69/Fluttershy_and_Ponytones_big_finish_S4E14.png/revision/latest?cb=20140217173629',
+                   'title': 'Filli Vanilli',
                    'writer': 'Amy Keating Rogers'},
- 'Flight to the Finish': {'description': 'Flight to the Finish is the fifth '
+ 'flight to the finish': {'description': 'Flight to the Finish is the fifth '
                                          'episode of the fourth season of My '
                                          'Little Pony Friendship is Magic and '
                                          'the seventieth episode overall. The '
@@ -1038,8 +1094,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-11-12',
                           'season': '4',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/ff/Diamond_Tiara_%27...isn%27t_getting_off_the_ground_either%27_S4E05.png/revision/latest?cb=20131216122844',
+                          'title': 'Flight to the Finish',
                           'writer': 'Ed Valentine'},
- 'Flutter Brutter': {'description': 'Flutter Brutter is the eleventh episode '
+ 'flutter brutter': {'description': 'Flutter Brutter is the eleventh episode '
                                     'of season six of My Little Pony '
                                     'Friendship is Magic and the one hundred '
                                     'and twenty-eighth overall. In this '
@@ -1051,8 +1108,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-12-24',
                      'season': '6',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/04/Fluttershy_looks_at_Zephyr_Breeze_in_shock_S6E11.png/revision/latest?cb=20160605123834',
+                     'title': 'Flutter Brutter',
                      'writer': 'Meghan McCarthy'},
- 'Fluttershy Leans In': {'description': 'Fluttershy Leans In is the fifth '
+ 'fluttershy leans in': {'description': 'Fluttershy Leans In is the fifth '
                                         'episode of season seven of My Little '
                                         'Pony Friendship is Magic and the one '
                                         'hundred and forty-eighth overall. In '
@@ -1064,8 +1122,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2010-11-12',
                          'season': '7',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/1d/Fluttershy_explains_her_vision_to_the_experts_S7E5.png/revision/latest?cb=20170507134119',
+                         'title': 'Fluttershy Leans In',
                          'writer': 'Gillian M. Berrow'},
- 'For Whom the Sweetie Belle Toils': {'description': 'For Whom the Sweetie '
+ 'for whom the sweetie belle toils': {'description': 'For Whom the Sweetie '
                                                      'Belle Toils is the '
                                                      'nineteenth episode of '
                                                      'the fourth season of My '
@@ -1093,8 +1152,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'release-date': '2011-03-11',
                                       'season': '4',
                                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8c/Sweetie_sees_Rarity-cloud_laughing_maniacally_S4E19.png/revision/latest?cb=20140324164637',
+                                      'title': 'For Whom the Sweetie Belle '
+                                               'Toils',
                                       'writer': 'Dave Polsky'},
- 'Forever Filly': {'description': 'Forever Filly is the sixth episode of '
+ 'forever filly': {'description': 'Forever Filly is the sixth episode of '
                                   'season seven of My Little Pony Friendship '
                                   'is Magic and the one hundred and '
                                   'forty-ninth overall. The title is a play on '
@@ -1110,8 +1171,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-19',
                    'season': '7',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bc/Rarity_and_Sweetie_Belle_dressed_as_butterfly_and_caterpillar_S7E6.png/revision/latest?cb=20170515155053',
+                   'title': 'Forever Filly',
                    'writer': 'Michael P. Fox and Wil Fox'},
- 'Frenemies': {'description': 'Frenemies is the eighth episode of season nine '
+ 'frenemies': {'description': 'Frenemies is the eighth episode of season nine '
                               'of My Little Pony Friendship is Magic and the '
                               "show's two hundred and fourth episode "
                               'overall.[1] The title is a common portmanteau '
@@ -1123,25 +1185,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                'release-date': '2010-12-03',
                'season': '9',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Tirek%2C_Cozy%2C_and_Chrysalis_teaming_up_S9E8.png/revision/latest?cb=20190519124807',
+               'title': 'Frenemies',
                'writer': 'Michael Vogel'},
- 'Friendship University': {'description': 'Friendship University is the '
-                                          'sixteenth episode of season eight '
-                                          'of My Little Pony Friendship is '
-                                          'Magic and the one hundred and '
-                                          'eighty-fifth overall. When Twilight '
-                                          "Sparkle discovers there's another "
-                                          'School of Friendship, she and '
-                                          'Rarity go to investigate and are '
-                                          "shocked to discover that Twilight's "
-                                          'idol and Pillar of Old Equestria, '
-                                          'Star Swirl the Bearded, is enrolled '
-                                          'at the school.',
-                           'episode': '16',
-                           'release-date': '2011-02-18',
-                           'season': '8',
-                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/5b/Flim_and_Flam_introducing_Friendship_U_S8E16.png/revision/latest?cb=20180812194327',
-                           'writer': 'Chris "Doc" Wyatt & Kevin Burke'},
- 'Friendship is Magic, part 1': {'description': 'Friendship is Magic, part 1 '
+ 'friendship is magic, part 1': {'description': 'Friendship is Magic, part 1 '
                                                 'is the first episode of My '
                                                 'Little Pony Friendship is '
                                                 'Magic, which premiered to '
@@ -1171,8 +1217,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2010-10-10',
                                  'season': '1',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9f/Twilight_looks_up_at_the_moon_S1E01.png/revision/latest?cb=20121209043547',
+                                 'title': 'Friendship is Magic, part 1',
                                  'writer': 'Lauren Faust'},
- 'Friendship is Magic, part 2': {'description': 'Friendship is Magic, part 2 '
+ 'friendship is magic, part 2': {'description': 'Friendship is Magic, part 2 '
                                                 'is the second episode of My '
                                                 'Little Pony Friendship is '
                                                 'Magic. The episode is '
@@ -1195,8 +1242,27 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2010-10-22',
                                  'season': '1',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2c/Main_ponies_activated_the_Elements_of_Harmony_S01E02.png/revision/latest?cb=20111205172131',
+                                 'title': 'Friendship is Magic, part 2',
                                  'writer': 'Lauren Faust'},
- 'Games Ponies Play': {'description': 'Games Ponies Play is the twelfth '
+ 'friendship university': {'description': 'Friendship University is the '
+                                          'sixteenth episode of season eight '
+                                          'of My Little Pony Friendship is '
+                                          'Magic and the one hundred and '
+                                          'eighty-fifth overall. When Twilight '
+                                          "Sparkle discovers there's another "
+                                          'School of Friendship, she and '
+                                          'Rarity go to investigate and are '
+                                          "shocked to discover that Twilight's "
+                                          'idol and Pillar of Old Equestria, '
+                                          'Star Swirl the Bearded, is enrolled '
+                                          'at the school.',
+                           'episode': '16',
+                           'release-date': '2011-02-18',
+                           'season': '8',
+                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/5b/Flim_and_Flam_introducing_Friendship_U_S8E16.png/revision/latest?cb=20180812194327',
+                           'title': 'Friendship University',
+                           'writer': 'Chris "Doc" Wyatt & Kevin Burke'},
+ 'games ponies play': {'description': 'Games Ponies Play is the twelfth '
                                       'episode of the third season of My '
                                       'Little Pony Friendship is Magic and the '
                                       'sixty-fourth episode overall. In this '
@@ -1219,8 +1285,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-01-07',
                        'season': '3',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/99/Peachbottom_shakes_hooves_with_Twilight_S03E12.png/revision/latest?cb=20130210125049',
+                       'title': 'Games Ponies Play',
                        'writer': 'Dave Polsky'},
- 'Gauntlet of Fire': {'description': 'Gauntlet of Fire is the fifth episode of '
+ 'gauntlet of fire': {'description': 'Gauntlet of Fire is the fifth episode of '
                                      'season six of My Little Pony Friendship '
                                      'is Magic and the one hundred and '
                                      'twenty-second overall. In this episode, '
@@ -1231,8 +1298,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2010-11-12',
                       'season': '6',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/13/Spike_holds_the_bloodstone_scepter_S6E5.png/revision/latest?cb=20160417130811',
+                      'title': 'Gauntlet of Fire',
                       'writer': 'Joanna Lewis and Kristine Songco'},
- 'Going to Seed': {'description': 'Going to Seed is the tenth episode of '
+ 'going to seed': {'description': 'Going to Seed is the tenth episode of '
                                   'season nine of My Little Pony Friendship is '
                                   "Magic and the show's two hundred and sixth "
                                   'episode overall.[1] In this episode, '
@@ -1244,8 +1312,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-12-17',
                    'season': '9',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b8/Applejack_%26_Apple_Bloom_look_at_strange_patterns_made_of_apples_S9E10.png/revision/latest?cb=20190602190505',
+                   'title': 'Going to Seed',
                    'writer': 'Dave Rapp'},
- 'Grannies Gone Wild': {'description': 'Grannies Gone Wild is the fifth '
+ 'grannies gone wild': {'description': 'Grannies Gone Wild is the fifth '
                                        'episode of season eight of My Little '
                                        'Pony Friendship is Magic and the one '
                                        'hundred and seventy-fourth overall. '
@@ -1261,8 +1330,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2010-11-12',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Rainbow_Dash_watches_the_grannies_stretch_S8E5.png/revision/latest?cb=20180415193624',
+                        'title': 'Grannies Gone Wild',
                         'writer': 'Gillian M. Berrow'},
- "Green Isn't Your Color": {'description': "Green Isn't Your Color is the "
+ "green isn't your color": {'description': "Green Isn't Your Color is the "
                                            'twentieth episode of the first '
                                            'season of My Little Pony '
                                            'Friendship is Magic. Photo Finish, '
@@ -1281,8 +1351,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2011-03-18',
                             'season': '1',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Fluttershy_photoshoot_2_S1E20.png/revision/latest?cb=20130711192135',
+                            'title': "Green Isn't Your Color",
                             'writer': 'Meghan McCarthy'},
- 'Griffon the Brush Off': {'description': 'Griffon the Brush Off is the fifth '
+ 'griffon the brush off': {'description': 'Griffon the Brush Off is the fifth '
                                           'episode of the first season of My '
                                           'Little Pony Friendship is Magic. In '
                                           'this episode, Pinkie Pie and '
@@ -1298,8 +1369,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2010-11-12',
                            'season': '1',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/57/Gilda_pointing_at_Pinkie_S1E5.png/revision/latest?cb=20130106052926',
+                           'title': 'Griffon the Brush Off',
                            'writer': 'Cindy Morrow'},
- 'Growing Up is Hard to Do': {'description': 'Growing Up is Hard to Do is the '
+ 'growing up is hard to do': {'description': 'Growing Up is Hard to Do is the '
                                              'twenty-second episode of season '
                                              'nine of My Little Pony '
                                              'Friendship is Magic and the '
@@ -1319,8 +1391,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'release-date': '2011-04-08',
                               'season': '9',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a5/Cutie_Mark_Crusaders_turned_into_adults_S9E22.png/revision/latest?cb=20191001011401',
+                              'title': 'Growing Up is Hard to Do',
                               'writer': 'Ed Valentine'},
- 'Hard to Say Anything': {'description': 'Hard to Say Anything is the eighth '
+ 'hard to say anything': {'description': 'Hard to Say Anything is the eighth '
                                          'episode of season seven of My Little '
                                          'Pony Friendship is Magic and the one '
                                          'hundred and fifty-first overall. The '
@@ -1338,8 +1411,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-12-03',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/49/Feather_Bangs_giving_roses_to_Sugar_Belle_S7E8.png/revision/latest?cb=20170528143551',
+                          'title': 'Hard to Say Anything',
                           'writer': 'Becky Wangberg'},
- "Hearth's Warming Eve": {'description': "Hearth's Warming Eve is the eleventh "
+ "hearth's warming eve": {'description': "Hearth's Warming Eve is the eleventh "
                                          'episode of the second season of My '
                                          'Little Pony Friendship is Magic and '
                                          'the thirty-seventh episode overall. '
@@ -1350,8 +1424,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-12-24',
                           'season': '2',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3f/Commander_Hurricane%2C_Chancellor_Puddinghead_and_Princess_Platinum_arguing_S02E11.png/revision/latest?cb=20111219045243',
+                          'title': "Hearth's Warming Eve",
                           'writer': 'Merriwether Williams'},
- 'Hearthbreakers': {'description': 'Hearthbreakers is the twentieth episode of '
+ 'hearthbreakers': {'description': 'Hearthbreakers is the twentieth episode of '
                                    'the fifth season of My Little Pony '
                                    'Friendship is Magic and the one hundred '
                                    'and eleventh episode overall. In this '
@@ -1362,8 +1437,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2011-03-18',
                     'season': '5',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/52/The_Apple_family_and_the_Pie_family_meet_S5E20.png/revision/latest?cb=20151026164303',
+                    'title': 'Hearthbreakers',
                     'writer': 'Nick Confalone'},
- 'Hearts and Hooves Day': {'description': 'Read It and Weep is the sixteenth '
+ 'hearts and hooves day': {'description': 'Read It and Weep is the sixteenth '
                                           'episode of the second season of My '
                                           'Little Pony Friendship is Magic and '
                                           'the forty-second episode overall. '
@@ -1377,8 +1453,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2011-02-25',
                            'season': '2',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/96/Cheerilee_and_Big_Mac_with_CMC_picnic_S02E17.png/revision/latest?cb=20120211163806',
+                           'title': 'Hearts and Hooves Day',
                            'writer': 'Meghan McCarthy'},
- 'Honest Apple': {'description': 'Honest Apple is the ninth episode of season '
+ 'honest apple': {'description': 'Honest Apple is the ninth episode of season '
                                  'seven of My Little Pony Friendship is '
                                  'Magic[1][2] and the one hundred and '
                                  'fifty-second overall. When Rarity asks '
@@ -1389,8 +1466,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2010-12-10',
                   'season': '7',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/77/Everypony_getting_frustrated_at_Applejack_S7E9.png/revision/latest?cb=20170604170909',
+                  'title': 'Honest Apple',
                   'writer': 'Kevin Lappin'},
- 'Horse Play': {'description': 'Horse Play is the seventh episode of season '
+ 'horse play': {'description': 'Horse Play is the seventh episode of season '
                                'eight of My Little Pony Friendship is Magic '
                                'and the one hundred and seventy-sixth overall. '
                                'The title is a play on horseplay, referring to '
@@ -1402,8 +1480,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                 'release-date': '2010-11-26',
                 'season': '8',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3f/Celestia_looking_embarrassed_at_Young_Six_S8E7.png/revision/latest?cb=20180429163744',
+                'title': 'Horse Play',
                 'writer': 'Kaita Mpambara'},
- 'Hurricane Fluttershy': {'description': 'Hurricane Fluttershy is the '
+ 'hurricane fluttershy': {'description': 'Hurricane Fluttershy is the '
                                          'twenty-second episode of the second '
                                          'season of My Little Pony Friendship '
                                          'is Magic and the forty-eighth '
@@ -1418,8 +1497,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-04-08',
                           'season': '2',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e0/Fluttershy_flying_to_the_sun_S2E22.png/revision/latest?cb=20120429232942',
+                          'title': 'Hurricane Fluttershy',
                           'writer': 'Cindy Morrow'},
- 'Inspiration Manifestation': {'description': 'Inspiration Manifestation is '
+ 'inspiration manifestation': {'description': 'Inspiration Manifestation is '
                                               'the twenty-third episode of the '
                                               'fourth season of My Little Pony '
                                               'Friendship is Magic and the '
@@ -1431,8 +1511,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'release-date': '2011-04-15',
                                'season': '4',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/ba/Rarity%27s_eyes_turn_green_S4E23.png/revision/latest?cb=20140428141243',
+                               'title': 'Inspiration Manifestation',
                                'writer': 'Corey Powell & Meghan McCarthy'},
- "It Ain't Easy Being Breezies": {'description': "It Ain't Easy Being Breezies "
+ "it ain't easy being breezies": {'description': "It Ain't Easy Being Breezies "
                                                  'is the sixteenth episode of '
                                                  'the fourth season of My '
                                                  'Little Pony Friendship is '
@@ -1449,8 +1530,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'release-date': '2011-02-18',
                                   'season': '4',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Fluttershy_%22loved_having_you_here%22_S4E16.png/revision/latest?cb=20140303214923',
+                                  'title': "It Ain't Easy Being Breezies",
                                   'writer': 'Natasha Levinger'},
- "It Isn't the Mane Thing About You": {'description': "It Isn't the Mane Thing "
+ "it isn't the mane thing about you": {'description': "It Isn't the Mane Thing "
                                                       'About You is the '
                                                       'nineteenth episode of '
                                                       'season seven of My '
@@ -1470,8 +1552,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'release-date': '2011-03-11',
                                        'season': '7',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/80/Rarity_sees_her_ruined_mane_in_the_mirror_S7E19.png/revision/latest?cb=20170917200737',
+                                       'title': "It Isn't the Mane Thing About "
+                                                'You',
                                        'writer': 'Josh Haber'},
- "It's About Time": {'description': "It's About Time is the twentieth episode "
+ "it's about time": {'description': "It's About Time is the twentieth episode "
                                     'of the second season of My Little Pony '
                                     'Friendship is Magic and the forty-sixth '
                                     'episode overall. In this episode, after '
@@ -1483,8 +1567,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2011-03-18',
                      'season': '2',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3a/Twilight_talks_with_Twilight_S2E20.png/revision/latest?cb=20130123081125',
+                     'title': "It's About Time",
                      'writer': 'M. A. Larson'},
- 'Just for Sidekicks': {'description': 'Just for Sidekicks is the eleventh '
+ 'just for sidekicks': {'description': 'Just for Sidekicks is the eleventh '
                                        'episode of the third season of My '
                                        'Little Pony Friendship is Magic and '
                                        'the sixty-third episode overall. In '
@@ -1507,8 +1592,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2010-12-24',
                         'season': '3',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0b/Spike_and_the_pets_S3E11.png/revision/latest?cb=20130127104317',
+                        'title': 'Just for Sidekicks',
                         'writer': 'Corey Powell'},
- 'Keep Calm and Flutter On': {'description': 'Keep Calm and Flutter On is the '
+ 'keep calm and flutter on': {'description': 'Keep Calm and Flutter On is the '
                                              'tenth episode of the third '
                                              'season of My Little Pony '
                                              'Friendship is Magic and the '
@@ -1528,8 +1614,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'release-date': '2010-12-17',
                               'season': '3',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a3/Discord_sweet_talks_Fluttershy_S03E10.png/revision/latest?cb=20131208083107',
+                              'title': 'Keep Calm and Flutter On',
                               'writer': 'Teddy Antonio'},
- 'Leap of Faith': {'description': 'Leap of Faith is the twentieth episode of '
+ 'leap of faith': {'description': 'Leap of Faith is the twentieth episode of '
                                   'the fourth season of My Little Pony '
                                   'Friendship is Magic and the eighty-fifth '
                                   'episode overall. In this episode, '
@@ -1544,8 +1631,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2011-03-18',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f5/Flim_and_Flam_next_to_Apple_Bloom_and_Granny_S4E20.png/revision/latest?cb=20140331170603',
+                   'title': 'Leap of Faith',
                    'writer': 'Josh Haber'},
- 'Lesson Zero': {'description': 'Lesson Zero is the third episode of the '
+ 'lesson zero': {'description': 'Lesson Zero is the third episode of the '
                                 'second season of My Little Pony Friendship is '
                                 'Magic and the twenty-ninth episode overall. '
                                 'In this episode, Twilight realizes that she '
@@ -1558,8 +1646,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                  'release-date': '2010-10-29',
                  'season': '2',
                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/69/Clock_is_ticking_S02E03.png/revision/latest?cb=20120102050001',
+                 'title': 'Lesson Zero',
                  'writer': 'Meghan McCarthy'},
- 'Look Before You Sleep': {'description': 'Look Before You Sleep is the eighth '
+ 'look before you sleep': {'description': 'Look Before You Sleep is the eighth '
                                           'episode of the first season of My '
                                           'Little Pony Friendship is Magic. In '
                                           'this episode, Applejack and Rarity '
@@ -1576,8 +1665,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2010-12-03',
                            'season': '1',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/ce/Rarity%2C_Applejack_and_Twilight_makeovers_S01E08.png/revision/latest?cb=20200313112345',
+                           'title': 'Look Before You Sleep',
                            'writer': 'Charlotte Fullerton'},
- 'Luna Eclipsed': {'description': 'Luna Eclipsed is the fourth episode of the '
+ 'luna eclipsed': {'description': 'Luna Eclipsed is the fourth episode of the '
                                   'second season of My Little Pony Friendship '
                                   'is Magic and the thirtieth episode overall. '
                                   'The episode\'s title is a pun on "lunar '
@@ -1595,35 +1685,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-05',
                    'season': '2',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c2/Twilight_and_Luna_S2E04.png/revision/latest?cb=20120908103033',
+                   'title': 'Luna Eclipsed',
                    'writer': 'M. A. Larson'},
- 'MMMystery on the Friendship Express': {'description': 'MMMystery on the '
-                                                        'Friendship Express is '
-                                                        'the twenty-fourth '
-                                                        'episode of the second '
-                                                        'season of My Little '
-                                                        'Pony Friendship is '
-                                                        'Magic and the '
-                                                        'fiftieth episode '
-                                                        'overall. After a cake '
-                                                        'Pinkie had been '
-                                                        'guarding for a '
-                                                        'contest is partially '
-                                                        'eaten on the way to '
-                                                        'Canterlot, she starts '
-                                                        'out an investigation '
-                                                        'to find out the '
-                                                        'culprit. The title is '
-                                                        'a reference to the '
-                                                        '1934 crime novel '
-                                                        'Murder on the Orient '
-                                                        'Express, written by '
-                                                        'Agatha Christie.',
-                                         'episode': '24',
-                                         'release-date': '2011-04-22',
-                                         'season': '2',
-                                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/70/Pinkie_with_the_line_of_passengers_S2E24.png/revision/latest?cb=20121221083438',
-                                         'writer': 'Amy Keating Rogers'},
- 'Made in Manehattan': {'description': 'Made in Manehattan is the sixteenth '
+ 'made in manehattan': {'description': 'Made in Manehattan is the sixteenth '
                                        'episode of the fifth season of My '
                                        'Little Pony Friendship is Magic and '
                                        'the one hundred and seventh episode '
@@ -1637,8 +1701,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-02-18',
                         'season': '5',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/05/Applejack_on_stage_talking_to_the_audience_S5E16.png/revision/latest?cb=20150928231943',
+                        'title': 'Made in Manehattan',
                         'writer': 'Noelle Benvenuti'},
- 'Magic Duel': {'description': 'Magic Duel is the fifth episode of the third '
+ 'magic duel': {'description': 'Magic Duel is the fifth episode of the third '
                                'season of My Little Pony Friendship is Magic '
                                'and the fifty-seventh episode overall. In this '
                                'episode, Trixie returns to Ponyville for '
@@ -1648,8 +1713,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                 'release-date': '2010-11-12',
                 'season': '3',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fc/A_magic_duel_at_Town_Square_S3E5.png/revision/latest?cb=20200311140349',
+                'title': 'Magic Duel',
                 'writer': 'M. A. Larson'},
- 'Magical Mystery Cure': {'description': 'Magical Mystery Cure is the '
+ 'magical mystery cure': {'description': 'Magical Mystery Cure is the '
                                          'thirteenth episode of the third '
                                          'season of My Little Pony Friendship '
                                          'is Magic. It aired as the final '
@@ -1675,8 +1741,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-01-28',
                           'season': '3',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e8/The_Main_5_singing_S3E13.png/revision/latest?cb=20200314040411',
+                          'title': 'Magical Mystery Cure',
                           'writer': 'M. A. Larson'},
- 'Make New Friends but Keep Discord': {'description': 'Make New Friends but '
+ 'make new friends but keep discord': {'description': 'Make New Friends but '
                                                       'Keep Discord (spelled '
                                                       'as Make New Friends But '
                                                       'Keep Discord by some '
@@ -1702,8 +1769,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'release-date': '2010-11-26',
                                        'season': '5',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/33/Discord_drops_the_Smooze_onto_Fluttershy%27s_table_S5E7.png/revision/latest?cb=20150518180328',
+                                       'title': 'Make New Friends but Keep '
+                                                'Discord',
                                        'writer': 'Natasha Levinger'},
- 'Marks and Recreation': {'description': 'Marks and Recreation is the '
+ 'marks and recreation': {'description': 'Marks and Recreation is the '
                                          'twenty-first episode of season seven '
                                          'of My Little Pony Friendship is '
                                          'Magic and the one hundred and '
@@ -1721,8 +1790,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-03-25',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bd/Cutie_Mark_Crusaders_welcoming_their_campers_S7E21.png/revision/latest?cb=20171001192445',
+                          'title': 'Marks and Recreation',
                           'writer': 'May Chan'},
- 'Marks for Effort': {'description': 'Marks for Effort is the twelfth episode '
+ 'marks for effort': {'description': 'Marks for Effort is the twelfth episode '
                                      'of season eight of My Little Pony '
                                      'Friendship is Magic and the one hundred '
                                      'and eighty-first overall. In this '
@@ -1735,8 +1805,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-01-07',
                       'season': '8',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/de/Crusaders_cheering_for_Cozy_Glow_S8E12.png/revision/latest?cb=20180604014523',
+                      'title': 'Marks for Effort',
                       'writer': 'Nicole Dubuc'},
- 'Maud Pie (episode)': {'description': 'Maud Pie is the eighteenth episode of '
+ 'maud pie (episode)': {'description': 'Maud Pie is the eighteenth episode of '
                                        'the fourth season of My Little Pony '
                                        'Friendship is Magic and the '
                                        'eighty-third episode overall. In this '
@@ -1747,8 +1818,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-03-04',
                         'season': '4',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d4/Maud_Pie_with_Gummy_biting_on_her_tail_S4E18.png/revision/latest?cb=20140317100733',
+                        'title': 'Maud Pie (episode)',
                         'writer': 'Noelle Benvenuti'},
- 'May the Best Pet Win!': {'description': 'May the Best Pet Win! is the '
+ 'may the best pet win!': {'description': 'May the Best Pet Win! is the '
                                           'seventh episode of the second '
                                           'season of My Little Pony Friendship '
                                           'is Magic and the thirty-third '
@@ -1765,8 +1837,38 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2010-11-26',
                            'season': '2',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/eb/Rainbow_Dash%27s_Speech_S2E7.png/revision/latest?cb=20120810042146',
+                           'title': 'May the Best Pet Win!',
                            'writer': 'Charlotte Fullerton'},
- 'Molt Down': {'description': 'Molt Down is the eleventh episode of season '
+ 'mmmystery on the friendship express': {'description': 'MMMystery on the '
+                                                        'Friendship Express is '
+                                                        'the twenty-fourth '
+                                                        'episode of the second '
+                                                        'season of My Little '
+                                                        'Pony Friendship is '
+                                                        'Magic and the '
+                                                        'fiftieth episode '
+                                                        'overall. After a cake '
+                                                        'Pinkie had been '
+                                                        'guarding for a '
+                                                        'contest is partially '
+                                                        'eaten on the way to '
+                                                        'Canterlot, she starts '
+                                                        'out an investigation '
+                                                        'to find out the '
+                                                        'culprit. The title is '
+                                                        'a reference to the '
+                                                        '1934 crime novel '
+                                                        'Murder on the Orient '
+                                                        'Express, written by '
+                                                        'Agatha Christie.',
+                                         'episode': '24',
+                                         'release-date': '2011-04-22',
+                                         'season': '2',
+                                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/70/Pinkie_with_the_line_of_passengers_S2E24.png/revision/latest?cb=20121221083438',
+                                         'title': 'MMMystery on the Friendship '
+                                                  'Express',
+                                         'writer': 'Amy Keating Rogers'},
+ 'molt down': {'description': 'Molt Down is the eleventh episode of season '
                               'eight of My Little Pony Friendship is Magic and '
                               'the one hundred and eightieth overall. The '
                               'title is a play on the word "meltdown". In this '
@@ -1778,8 +1880,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                'release-date': '2010-12-24',
                'season': '8',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b8/Spike_looking_at_his_mirror_reflection_S8E11.png/revision/latest?cb=20180527144655',
+               'title': 'Molt Down',
                'writer': 'Josh Haber'},
- 'Newbie Dash': {'description': 'Newbie Dash is the seventh episode of season '
+ 'newbie dash': {'description': 'Newbie Dash is the seventh episode of season '
                                 'six of My Little Pony Friendship is Magic and '
                                 'the one hundred and twenty-fourth overall. '
                                 'When Rainbow Dash makes a bad first '
@@ -1789,8 +1892,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                  'release-date': '2010-11-26',
                  'season': '6',
                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/00/Rainbow_Dash%27s_dream_made_real_S6E7.png/revision/latest?cb=20160509020119',
+                 'title': 'Newbie Dash',
                  'writer': 'Dave Polsky and Dave Rapp'},
- 'No Second Prances': {'description': 'No Second Prances is the sixth episode '
+ 'no second prances': {'description': 'No Second Prances is the sixth episode '
                                       'of season six of My Little Pony '
                                       'Friendship is Magic and the one hundred '
                                       'and twenty-third overall. The title is '
@@ -1802,8 +1906,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2010-11-19',
                        'season': '6',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2b/Trixie_and_Starlight_look_at_an_angry_Twilight_S6E6.png/revision/latest?cb=20160501154804',
+                       'title': 'No Second Prances',
                        'writer': 'Nick Confalone'},
- 'Non-Compete Clause': {'description': 'Non-Compete Clause is the ninth '
+ 'non-compete clause': {'description': 'Non-Compete Clause is the ninth '
                                        'episode of season eight of My Little '
                                        'Pony Friendship is Magic and the one '
                                        'hundred and seventy-eighth overall. '
@@ -1818,8 +1923,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2010-12-10',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/42/Rainbow_Dash_leading_while_the_Young_Six_row_S8E9.png/revision/latest?cb=20180513184048',
+                        'title': 'Non-Compete Clause',
                         'writer': 'Kim Beyer-Johnson'},
- 'Not Asking for Trouble': {'description': 'Not Asking for Trouble is the '
+ 'not asking for trouble': {'description': 'Not Asking for Trouble is the '
                                            'eleventh episode of season seven '
                                            'of My Little Pony Friendship is '
                                            'Magic and the one hundred and '
@@ -1834,8 +1940,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-12-24',
                             'season': '7',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/eb/Pinkie%2C_Rutherford%2C_and_yaks_covered_in_snow_S7E11.png/revision/latest?cb=20170618140106',
+                            'title': 'Not Asking for Trouble',
                             'writer': 'May Chan'},
- 'On Your Marks': {'description': 'On Your Marks is the fourth episode of '
+ 'on your marks': {'description': 'On Your Marks is the fourth episode of '
                                   'season six of My Little Pony Friendship is '
                                   'Magic and the one hundred and twenty-first '
                                   'overall. The title is a reference to "on '
@@ -1848,8 +1955,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-05',
                    'season': '6',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/65/CMC_with_papers_showing_what_they_could_do_crossed_out_S6E4.png/revision/latest?cb=20160410172255',
+                   'title': 'On Your Marks',
                    'writer': 'Dave Polsky'},
- 'Once Upon a Zeppelin': {'description': 'Iron WillStar Tracker Once Upon a '
+ 'once upon a zeppelin': {'description': 'Iron WillStar Tracker Once Upon a '
                                          'Zeppelin[note 1] is the '
                                          'twenty-second episode of season '
                                          'seven of My Little Pony Friendship '
@@ -1859,8 +1967,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-04-08',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b0/Zeppelin_at_the_Canterlot_air_docks_S7E22.png/revision/latest?cb=20171008134147',
+                          'title': 'Once Upon a Zeppelin',
                           'writer': 'Brittany Jo Flores'},
- 'One Bad Apple': {'description': 'One Bad Apple is the fourth episode of the '
+ 'one bad apple': {'description': 'One Bad Apple is the fourth episode of the '
                                   'third season of My Little Pony Friendship '
                                   'is Magic and the fifty-sixth episode '
                                   'overall. The title is a reference to the '
@@ -1876,8 +1985,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-05',
                    'season': '3',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/92/CMC_running_from_Babs_S3E4.png/revision/latest?cb=20121128083644',
+                   'title': 'One Bad Apple',
                    'writer': 'Cindy Morrow'},
- 'Over a Barrel': {'description': 'Over a Barrel is the twenty-first episode '
+ 'over a barrel': {'description': 'Over a Barrel is the twenty-first episode '
                                   'of the first season of My Little Pony '
                                   'Friendship is Magic. The idiom "over a '
                                   'barrel" means being in a helpless position '
@@ -1890,8 +2000,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2011-03-25',
                    'season': '1',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/67/Appleloosa_Preparing_For_Battle_S1E21.png/revision/latest?cb=20200311194311',
+                   'title': 'Over a Barrel',
                    'writer': 'Dave Polsky'},
- "Owl's Well That Ends Well": {'description': "Owl's Well That Ends Well is "
+ "owl's well that ends well": {'description': "Owl's Well That Ends Well is "
                                               'the twenty-fourth episode of '
                                               'the first season of My Little '
                                               'Pony Friendship is Magic. The '
@@ -1906,8 +2017,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'release-date': '2011-04-22',
                                'season': '1',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6a/Spike_%27Got_it%21%27_S1E24.png/revision/latest?cb=20130104084345',
+                               'title': "Owl's Well That Ends Well",
                                'writer': 'Cindy Morrow'},
- 'P.P.O.V. (Pony Point of View)': {'description': 'P.P.O.V. (Pony Point of '
+ 'p.p.o.v. (pony point of view)': {'description': 'P.P.O.V. (Pony Point of '
                                                   'View) is the twenty-second '
                                                   'episode of season six of My '
                                                   'Little Pony Friendship is '
@@ -1926,9 +2038,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'release-date': '2011-04-08',
                                    'season': '6',
                                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fe/Splitscreen_of_AJ%2C_Rarity%2C_and_Pinkie_looking_at_each_other_S6E22.png/revision/latest?cb=20161002094831',
+                                   'title': 'P.P.O.V. (Pony Point of View)',
                                    'writer': 'Kevin Burke, Chris "Doc" Wyatt, '
                                              'Michael P. Fox, and Wil Fox'},
- 'Parental Glideance': {'description': 'Parental Glideance is the seventh '
+ 'parental glideance': {'description': 'Parental Glideance is the seventh '
                                        'episode of season seven of My Little '
                                        'Pony Friendship is Magic and the one '
                                        'hundred and fiftieth overall. The '
@@ -1943,8 +2056,20 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2010-11-26',
                         'season': '7',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e1/Rainbow_Dash%27s_parents_start_smothering_her_S7E7.png/revision/latest?cb=20170521095545',
+                        'title': 'Parental Glideance',
                         'writer': 'Josh Hamilton'},
- 'Party Pooped': {'description': 'Party Pooped is the eleventh episode of the '
+ 'party of one': {'description': 'Party of One is the twenty-fifth episode of '
+                                 'the first season of My Little Pony '
+                                 'Friendship is Magic. In this episode, Pinkie '
+                                 'Pie investigates her friends’ excuses for '
+                                 'not attending one of her parties.',
+                  'episode': '25',
+                  'release-date': '2011-04-29',
+                  'season': '1',
+                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Pinkie_Pie_surrounded_by_darkness_under_a_cone_of_light_S01E25.png/revision/latest?cb=20130102101302',
+                  'title': 'Party of One',
+                  'writer': 'Meghan McCarthy'},
+ 'party pooped': {'description': 'Party Pooped is the eleventh episode of the '
                                  'fifth season of My Little Pony Friendship is '
                                  'Magic and the one hundred and second episode '
                                  'overall. After an important summit with '
@@ -1955,18 +2080,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2010-12-24',
                   'season': '5',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cf/Pinkie_%22And_so_my_quest_begins%22_S5E11.png/revision/latest?cb=20150629140957',
+                  'title': 'Party Pooped',
                   'writer': 'Jayson Thiessen & Jim Miller'},
- 'Party of One': {'description': 'Party of One is the twenty-fifth episode of '
-                                 'the first season of My Little Pony '
-                                 'Friendship is Magic. In this episode, Pinkie '
-                                 'Pie investigates her friends’ excuses for '
-                                 'not attending one of her parties.',
-                  'episode': '25',
-                  'release-date': '2011-04-29',
-                  'season': '1',
-                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Pinkie_Pie_surrounded_by_darkness_under_a_cone_of_light_S01E25.png/revision/latest?cb=20130102101302',
-                  'writer': 'Meghan McCarthy'},
- 'Pinkie Apple Pie': {'description': 'Pinkie Apple Pie[3] (misspelled as Pinky '
+ 'pinkie apple pie': {'description': 'Pinkie Apple Pie[3] (misspelled as Pinky '
                                      'Apple Pie in the opening credits, but '
                                      'fixed for Netflix) is the ninth episode '
                                      'of season four of My Little Pony '
@@ -1980,8 +2096,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2010-12-10',
                       'season': '4',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2e/Pinkie_Pie_hugging_all_of_the_Apples_S4E09.png/revision/latest?cb=20140113103248',
+                      'title': 'Pinkie Apple Pie',
                       'writer': 'Natasha Levinger'},
- 'Pinkie Pride': {'description': 'Pinkie Pride is the twelfth episode of the '
+ 'pinkie pride': {'description': 'Pinkie Pride is the twelfth episode of the '
                                  'fourth season of My Little Pony Friendship '
                                  'is Magic and the seventy-seventh episode '
                                  "overall. In this episode, Pinkie Pie's plans "
@@ -1995,8 +2112,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-01-07',
                   'season': '4',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9f/Pinkie_Pie_and_Cheese_Sandwich_looking_at_each_other_angrily_S4E12.png/revision/latest?cb=20140203175023',
+                  'title': 'Pinkie Pride',
                   'writer': 'Jayson Thiessen'},
- 'Ponyville Confidential': {'description': 'Hurricane Fluttershy is the '
+ 'ponyville confidential': {'description': 'Hurricane Fluttershy is the '
                                            'twenty-second episode of the '
                                            'second season of My Little Pony '
                                            'Friendship is Magic and the '
@@ -2012,8 +2130,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2011-04-15',
                             'season': '2',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cc/CMC_meeting_with_Diamond_Tiara_S2E23.png/revision/latest?cb=20121226122752',
+                            'title': 'Ponyville Confidential',
                             'writer': 'M. A. Larson'},
- 'Power Ponies': {'description': 'Power Ponies[note 1] is the sixth episode of '
+ 'power ponies': {'description': 'Power Ponies[note 1] is the sixth episode of '
                                  'the fourth season of My Little Pony '
                                  'Friendship is Magic and the seventy-first '
                                  'episode overall. In this episode, Spike and '
@@ -2024,9 +2143,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2010-11-19',
                   'season': '4',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/75/Power_Ponies_the_day_is_saved_S4E06.png/revision/latest?cb=20131223123619',
+                  'title': 'Power Ponies',
                   'writer': 'Meghan McCarthy, Charlotte Fullerton, & Betsy '
                             'McGowen'},
- 'Princess Spike': {'description': 'Princess Spike is the tenth episode of the '
+ 'princess spike': {'description': 'Princess Spike is the tenth episode of the '
                                    'fifth season of My Little Pony Friendship '
                                    'is Magic and the one-hundred and first '
                                    'episode overall. In this episode, things '
@@ -2036,8 +2156,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2010-12-17',
                     'season': '5',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/60/Spike_facing_an_angry_mob_of_delegates_S5E10.png/revision/latest?cb=20150622211011',
+                    'title': 'Princess Spike',
                     'writer': 'Jayson Thiessen and Jim Miller'},
- 'Princess Twilight Sparkle - Part 1': {'description': 'Princess Twilight '
+ 'princess twilight sparkle - part 1': {'description': 'Princess Twilight '
                                                        'Sparkle - Part 1 is '
                                                        'the first episode of '
                                                        'the fourth season of '
@@ -2067,8 +2188,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'release-date': '2010-10-10',
                                         'season': '4',
                                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a1/Twilight_in_stained_glass_S4E01.png/revision/latest?cb=20131125152812',
+                                        'title': 'Princess Twilight Sparkle - '
+                                                 'Part 1',
                                         'writer': 'Meghan McCarthy'},
- 'Princess Twilight Sparkle - Part 2': {'description': 'Princess Twilight '
+ 'princess twilight sparkle - part 2': {'description': 'Princess Twilight '
                                                        'Sparkle - Part 2 is '
                                                        'the second episode of '
                                                        'the fourth season of '
@@ -2092,8 +2215,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'release-date': '2010-10-22',
                                         'season': '4',
                                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a9/Twilight_looking_at_Celestia_and_Luna_with_the_Elements_of_Harmony_S4E02.png/revision/latest?cb=20131125132842',
+                                        'title': 'Princess Twilight Sparkle - '
+                                                 'Part 2',
                                         'writer': 'Meghan McCarthy'},
- 'Putting Your Hoof Down': {'description': 'Putting Your Hoof Down is the '
+ 'putting your hoof down': {'description': 'Putting Your Hoof Down is the '
                                            'nineteenth episode of the second '
                                            'season of My Little Pony '
                                            'Friendship is Magic and the '
@@ -2110,8 +2235,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2011-03-11',
                             'season': '2',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/80/Scared_Fluttershy_2_S2E19.png/revision/latest?cb=20120313075148',
+                            'title': 'Putting Your Hoof Down',
                             'writer': 'Charlotte Fullerton'},
- 'Rainbow Falls': {'description': 'Rainbow Falls is the tenth episode of the '
+ 'rainbow falls': {'description': 'Rainbow Falls is the tenth episode of the '
                                   'fourth season of My Little Pony Friendship '
                                   'is Magic and the seventy-fifth episode '
                                   'overall. In this episode, Rainbow Dash is '
@@ -2122,8 +2248,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-12-17',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/56/Rainbow_Falls_S4E10.png/revision/latest?cb=20140120132239',
+                   'title': 'Rainbow Falls',
                    'writer': 'Corey Powell'},
- 'Rarity Investigates!': {'description': 'Rarity Investigates! is the '
+ 'rarity investigates!': {'description': 'Rarity Investigates! is the '
                                          'fifteenth episode of the fifth '
                                          'season of My Little Pony Friendship '
                                          'is Magic and the one hundred and '
@@ -2135,9 +2262,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-02-11',
                           'season': '5',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e4/Rarity_looking_determined_S5E15.png/revision/latest?cb=20150923194449',
+                          'title': 'Rarity Investigates!',
                           'writer': 'Meghan McCarthy, M. A. Larson, Joanna '
                                     'Lewis & Kristine Songco'},
- 'Rarity Takes Manehattan': {'description': 'Rarity Takes Manehattan is the '
+ 'rarity takes manehattan': {'description': 'Rarity Takes Manehattan is the '
                                             'eighth episode of the fourth '
                                             'season of My Little Pony '
                                             'Friendship is Magic and the '
@@ -2158,8 +2286,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2010-12-03',
                              'season': '4',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/95/Main_cast_looking_around_Manehattan_S4E08.png/revision/latest?cb=20140107230744',
+                             'title': 'Rarity Takes Manehattan',
                              'writer': 'Dave Polsky'},
- 'Read It and Weep': {'description': 'Read It and Weep is the sixteenth '
+ 'read it and weep': {'description': 'Read It and Weep is the sixteenth '
                                      'episode of the second season of My '
                                      'Little Pony Friendship is Magic and the '
                                      'forty-second episode overall. While '
@@ -2172,8 +2301,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-02-18',
                       'season': '2',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/65/Rainbow_Dash_holding_Daring_Do_book_S2E16.png/revision/latest?cb=20121003140014',
+                      'title': 'Read It and Weep',
                       'writer': 'Cindy Morrow'},
- 'Road to Friendship': {'description': 'Road to Friendship, titled On the Road '
+ 'road to friendship': {'description': 'Road to Friendship, titled On the Road '
                                        'to Friendship by some sources, is the '
                                        'nineteenth episode of season eight of '
                                        'My Little Pony Friendship is Magic and '
@@ -2188,8 +2318,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-03-11',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/76/Starlight_and_Trixie_trade_hammocks_S8E19.png/revision/latest?cb=20180903013856',
+                        'title': 'Road to Friendship',
                         'writer': 'Josh Haber'},
- 'Rock Solid Friendship': {'description': 'Rock Solid Friendship is the fourth '
+ 'rock solid friendship': {'description': 'Rock Solid Friendship is the fourth '
                                           'episode of season seven of My '
                                           'Little Pony Friendship is Magic and '
                                           'the one hundred and forty-seventh '
@@ -2203,8 +2334,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2010-11-05',
                            'season': '7',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fe/Maud_and_Starlight_looking_at_Pinkie_S7E4.png/revision/latest?cb=20170505044634',
+                           'title': 'Rock Solid Friendship',
                            'writer': 'Nick Confalone'},
- 'Scare Master': {'description': 'Scare Master is the twenty-first episode of '
+ 'scare master': {'description': 'Scare Master is the twenty-first episode of '
                                  'the fifth season of My Little Pony '
                                  'Friendship is Magic and the one hundred and '
                                  'twelfth episode overall. The title is a '
@@ -2218,8 +2350,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-03-25',
                   'season': '5',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/74/Fluttershy_looks_out_the_window_scared_S5E21.png/revision/latest?cb=20150923202936',
+                  'title': 'Scare Master',
                   'writer': 'Natasha Levinger'},
- 'School Daze - Part 1': {'description': 'School Daze - Part 1 is the first '
+ 'school daze - part 1': {'description': 'School Daze - Part 1 is the first '
                                          'episode of season eight of My Little '
                                          'Pony Friendship is Magic and the one '
                                          'hundred and seventieth overall, '
@@ -2235,8 +2368,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-10-10',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f2/Exterior_view_of_the_School_of_Friendship_S8E1.png/revision/latest?cb=20180325171039',
+                          'title': 'School Daze - Part 1',
                           'writer': 'Michael Vogel and Nicole Dubuc'},
- 'School Daze - Part 2': {'description': 'School Daze - Part 2 is the second '
+ 'school daze - part 2': {'description': 'School Daze - Part 2 is the second '
                                          'episode of season eight of My Little '
                                          'Pony Friendship is Magic and the one '
                                          'hundred and seventy-first overall. '
@@ -2251,8 +2385,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-10-22',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c6/School_of_Friendship_group_photo_S8E2.png/revision/latest?cb=20180328004643',
+                          'title': 'School Daze - Part 2',
                           'writer': 'Michael Vogel and Nicole Dubuc'},
- 'School Raze - Part 1': {'description': 'School Raze - Part 1 is the '
+ 'school raze - part 1': {'description': 'School Raze - Part 1 is the '
                                          'twenty-fifth episode of season eight '
                                          'of My Little Pony Friendship is '
                                          'Magic and the one hundred and '
@@ -2271,8 +2406,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-04-29',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/12/Cozy_Glow_raising_a_makeshift_crown_S8E25.png/revision/latest?cb=20181015181420',
+                          'title': 'School Raze - Part 1',
                           'writer': 'Nicole Dubuc'},
- 'School Raze - Part 2': {'description': 'Cutie Mark CrusadersCozy '
+ 'school raze - part 2': {'description': 'Cutie Mark CrusadersCozy '
                                          'GlowChancellor NeighsayLord Tirek '
                                          'School Raze - Part 2 is the '
                                          'twenty-sixth episode of season eight '
@@ -2286,8 +2422,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-05-06',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Cozy_Glow_holding_Mane_Six_puppets_S8E26.png/revision/latest?cb=20181015194827',
+                          'title': 'School Raze - Part 2',
                           'writer': 'Josh Haber'},
- 'Secret of My Excess': {'description': 'Secret of My Excess is the tenth '
+ 'secret of my excess': {'description': 'Secret of My Excess is the tenth '
                                         'episode of the second season of My '
                                         'Little Pony Friendship is Magic and '
                                         'the thirty-sixth episode overall. In '
@@ -2300,8 +2437,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2010-12-17',
                          'season': '2',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f7/Spike_grown_up_S2E10.png/revision/latest?cb=20120123140441',
+                         'title': 'Secret of My Excess',
                          'writer': 'M. A. Larson'},
- 'Secrets and Pies': {'description': 'Secrets and Pies is the twenty-third '
+ 'secrets and pies': {'description': 'Secrets and Pies is the twenty-third '
                                      'episode of season seven of My Little '
                                      'Pony Friendship is Magic and the one '
                                      'hundred and sixty-sixth overall. The '
@@ -2317,8 +2455,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-04-15',
                       'season': '7',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a1/Pinkie_Pie_forcing_yet_another_pie_on_Rainbow_Dash_S7E23.png/revision/latest?cb=20171011034818',
+                      'title': 'Secrets and Pies',
                       'writer': 'Josh Hamilton'},
- 'Shadow Play - Part 1': {'description': 'Pony of Shadows Shadow Play - Part 1 '
+ 'shadow play - part 1': {'description': 'Pony of Shadows Shadow Play - Part 1 '
                                          'is the twenty-fifth episode of '
                                          'season seven of My Little Pony '
                                          'Friendship is Magic and the one '
@@ -2329,8 +2468,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-04-29',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d2/Illustration_of_Pillars_of_Old_Equestria_in_five-point_circle_S7E25.png/revision/latest?cb=20171012015338',
+                          'title': 'Shadow Play - Part 1',
                           'writer': 'Josh Haber'},
- 'Shadow Play - Part 2': {'description': 'Pony of Shadows/Stygian Shadow Play '
+ 'shadow play - part 2': {'description': 'Pony of Shadows/Stygian Shadow Play '
                                          '- Part 2 is the twenty-sixth episode '
                                          'of season seven of My Little Pony '
                                          'Friendship is Magic, the one hundred '
@@ -2342,8 +2482,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-05-06',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/4c/Mane_Six%2C_Starlight%2C_Spike%2C_and_Pillars_stand_together_S7E26.png/revision/latest?cb=20171012200211',
+                          'title': 'Shadow Play - Part 2',
                           'writer': 'Josh Haber'},
- 'She Talks to Angel': {'description': 'She Talks to Angel is the eighteenth '
+ 'she talks to angel': {'description': 'She Talks to Angel is the eighteenth '
                                        'episode of season nine of My Little '
                                        'Pony Friendship is Magic and the '
                                        "show's two hundred and fourteenth "
@@ -2357,8 +2498,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-03-04',
                         'season': '9',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a8/Fluttershy_and_Angel_looking_at_their_reflections_S9E18.png/revision/latest?cb=20190903020032',
+                        'title': 'She Talks to Angel',
                         'writer': 'Nick Confalone'},
- "She's All Yak": {'description': "She's All Yak is the seventh episode of "
+ "she's all yak": {'description': "She's All Yak is the seventh episode of "
                                   'season nine of My Little Pony Friendship is '
                                   "Magic and the show's two hundred and third "
                                   'episode overall.[1] The title is a play on '
@@ -2376,8 +2518,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-26',
                    'season': '9',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/46/Yona_reimagined_as_a_pony_S9E7.png/revision/latest?cb=20190513005619',
+                   'title': "She's All Yak",
                    'writer': 'Brian Hohlfeld'},
- 'Simple Ways': {'description': 'Simple Ways is the thirteenth episode of the '
+ 'simple ways': {'description': 'Simple Ways is the thirteenth episode of the '
                                 'fourth season of My Little Pony Friendship is '
                                 'Magic and the seventy-eighth episode overall. '
                                 'In this episode, Rarity tries to dress and '
@@ -2387,8 +2530,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                  'release-date': '2011-01-28',
                  'season': '4',
                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a0/Rarity_introduces_new_festival_theme_S4E13.png/revision/latest?cb=20140210164019',
+                 'title': 'Simple Ways',
                  'writer': 'Josh Haber'},
- 'Sisterhooves Social': {'description': 'Sisterhooves Social is the fifth '
+ 'sisterhooves social': {'description': 'Sisterhooves Social is the fifth '
                                         'episode of the second season of My '
                                         'Little Pony Friendship is Magic and '
                                         'the thirty-first episode overall. '
@@ -2401,8 +2545,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2010-11-12',
                          'season': '2',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Rarity_looking_at_Sweetie_Belle%27s_drawing_S02E05.png/revision/latest?cb=20111107080103',
+                         'title': 'Sisterhooves Social',
                          'writer': 'Cindy Morrow'},
- 'Sleepless in Ponyville': {'description': 'Sleepless in Ponyville is the '
+ 'sleepless in ponyville': {'description': 'Sleepless in Ponyville is the '
                                            'sixth episode of the third season '
                                            'of My Little Pony Friendship is '
                                            'Magic and the fifty-eighth episode '
@@ -2415,8 +2560,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-11-19',
                             'season': '3',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/20/Scootaloo_notices_something_S3E06.png/revision/latest?cb=20121213135314',
+                            'title': 'Sleepless in Ponyville',
                             'writer': 'Corey Powell'},
- 'Slice of Life': {'description': 'Slice of Life is the ninth episode of the '
+ 'slice of life': {'description': 'Slice of Life is the ninth episode of the '
                                   'fifth season of My Little Pony Friendship '
                                   "is Magic and the show's one-hundredth "
                                   'episode overall, celebrated as a milestone '
@@ -2429,8 +2575,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-12-10',
                    'season': '5',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0a/Ponies_go_flying_from_the_DJ_station_S5E9.png/revision/latest?cb=20150615114850',
+                   'title': 'Slice of Life',
                    'writer': 'M. A. Larson'},
- 'Somepony to Watch Over Me': {'description': 'Somepony to Watch Over Me is '
+ 'somepony to watch over me': {'description': 'Somepony to Watch Over Me is '
                                               'the seventeenth episode of the '
                                               'fourth season of My Little Pony '
                                               'Friendship is Magic and the '
@@ -2445,8 +2592,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'release-date': '2011-02-25',
                                'season': '4',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/01/AJ_%22and_doesn%27t_want_her_to_get_an_owie%3F%22_S4E17.png/revision/latest?cb=20140310125647',
+                               'title': 'Somepony to Watch Over Me',
                                'writer': 'Scott Sonneborn'},
- 'Sonic Rainboom': {'description': 'Sonic Rainboom is the sixteenth episode of '
+ 'sonic rainboom': {'description': 'Sonic Rainboom is the sixteenth episode of '
                                    'the first season of My Little Pony '
                                    'Friendship is Magic. Rainbow Dash is '
                                    'worried about her performance in the Best '
@@ -2456,8 +2604,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2011-02-18',
                     'season': '1',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/be/Rainbow_Dash_performing_Sonic_Rainboom_S01E16.png/revision/latest?cb=20130103074703',
+                    'title': 'Sonic Rainboom',
                     'writer': 'M. A. Larson'},
- 'Sounds of Silence': {'description': 'Sounds of Silence, titled Sound of '
+ 'sounds of silence': {'description': 'Sounds of Silence, titled Sound of '
                                       'Silence by Boomerang TV listings on '
                                       'Foxtel, is the twenty-third episode of '
                                       'season eight of My Little Pony '
@@ -2477,8 +2626,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-04-15',
                        'season': '8',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ef/Fluttershy_and_AJ_arguing_among_the_Kirin_S8E23.png/revision/latest?cb=20181001024847',
+                       'title': 'Sounds of Silence',
                        'writer': 'Gregory Bonsignore'},
- "Sparkle's Seven": {'description': "Sparkle's Seven, also titled Twilight's "
+ "sparkle's seven": {'description': "Sparkle's Seven, also titled Twilight's "
                                     'Seven by some sources and in the '
                                     "episode's script,[1] is the fourth "
                                     'episode of season nine of My Little Pony '
@@ -2501,9 +2651,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-11-05',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/49/Sparkle%27s_Seven%27s_plan_falling_apart_S9E4.png/revision/latest?cb=20190422170856',
+                     'title': "Sparkle's Seven",
                      'writer': 'Ashleigh Ball, Andrea Libman, Tabitha St. '
                                'Germain, Tara Strong, & Cathy Weseluck'},
- 'Spice Up Your Life': {'description': 'Spice Up Your Life is the twelfth '
+ 'spice up your life': {'description': 'Spice Up Your Life is the twelfth '
                                        'episode of season six of My Little '
                                        'Pony Friendship is Magic and the one '
                                        'hundred and twenty-ninth overall. It '
@@ -2518,8 +2669,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-01-07',
                         'season': '6',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/84/Pinkie_and_Rarity_singing_in_separate_tandem_S6E12.png/revision/latest?cb=20160612154148',
+                        'title': 'Spice Up Your Life',
                         'writer': 'Michael Vogel'},
- 'Spike at Your Service': {'description': 'Spike at Your Service is the ninth '
+ 'spike at your service': {'description': 'Spike at Your Service is the ninth '
                                           'episode of the third season of My '
                                           'Little Pony Friendship is Magic and '
                                           'the sixty-first episode overall. '
@@ -2532,8 +2684,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2010-12-10',
                            'season': '3',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b0/Spike_%22my_honor_and_my_duty%22_S03E09.png/revision/latest?cb=20121230042627',
+                           'title': 'Spike at Your Service',
                            'writer': 'Dave Polsky'},
- 'Stare Master': {'description': 'Stare Master is the seventeenth episode of '
+ 'stare master': {'description': 'Stare Master is the seventeenth episode of '
                                  'the first season of My Little Pony '
                                  'Friendship is Magic. In this episode, '
                                  'Fluttershy offers to take care of the Cutie '
@@ -2549,8 +2702,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-02-25',
                   'season': '1',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/64/Fluttershy_staring_at_chickens_S01E17.png/revision/latest?cb=20200312150751',
+                  'title': 'Stare Master',
                   'writer': 'Chris Savino'},
- 'Stranger Than Fan Fiction': {'description': 'Stranger Than Fan Fiction is '
+ 'stranger than fan fiction': {'description': 'Stranger Than Fan Fiction is '
                                               'the thirteenth episode of '
                                               'season six of My Little Pony '
                                               'Friendship is Magic and the one '
@@ -2571,8 +2725,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'release-date': '2011-01-28',
                                'season': '6',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/58/Quibble_Pants_and_Rainbow_Dash_dressed_as_Daring_Do_S6E13.png/revision/latest?cb=20160731125931',
+                               'title': 'Stranger Than Fan Fiction',
                                'writer': 'Josh Haber and Michael Vogel'},
- 'Student Counsel': {'description': 'Student Counsel is the eleventh episode '
+ 'student counsel': {'description': 'Student Counsel is the eleventh episode '
                                     'of season nine of My Little Pony '
                                     "Friendship is Magic and the show's two "
                                     'hundred and seventh episode overall.[1] '
@@ -2586,8 +2741,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-12-24',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a6/Starlight_awkwardly_listening_to_Silverstream_S9E11.png/revision/latest?cb=20190609193727',
+                     'title': 'Student Counsel',
                      'writer': 'Josh Haber'},
- 'Suited For Success': {'description': 'Suited For Success is the fourteenth '
+ 'suited for success': {'description': 'Suited For Success is the fourteenth '
                                        'episode of the first season of My '
                                        'Little Pony Friendship is Magic. In '
                                        'this episode, Rarity wants to make '
@@ -2603,8 +2759,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                         'release-date': '2011-02-04',
                         'season': '1',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/12/Rarity_being_overwhelmed_with_pressure_S1E14.png/revision/latest?cb=20200313112450',
+                        'title': 'Suited For Success',
                         'writer': 'Charlotte Fullerton'},
- 'Surf and/or Turf': {'description': 'Surf and/or Turf is the sixth episode of '
+ 'surf and/or turf': {'description': 'Surf and/or Turf is the sixth episode of '
                                      'season eight of My Little Pony '
                                      'Friendship is Magic and the one hundred '
                                      'and seventy-fifth overall. The title is '
@@ -2617,8 +2774,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2010-11-19',
                       'season': '8',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a3/Twilight_and_the_CMC_transform_into_seaponies_S8E6.png/revision/latest?cb=20180422185332',
+                      'title': 'Surf and/or Turf',
                       'writer': 'Brian Hohlfeld'},
- 'Swarm of the Century': {'description': 'Swarm of the Century is the tenth '
+ 'swarm of the century': {'description': 'Swarm of the Century is the tenth '
                                          'episode of the first season of My '
                                          'Little Pony Friendship is Magic. In '
                                          'this episode, a swarm of pests '
@@ -2630,8 +2788,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-12-17',
                           'season': '1',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ef/Main_ponies_at_Fluttershy%27s_cottage_looking_nervous_S1E10.png/revision/latest?cb=20200313032202',
+                          'title': 'Swarm of the Century',
                           'writer': 'M. A. Larson'},
- 'Sweet and Elite': {'description': 'The Mysterious Mare Do Well is the eighth '
+ 'sweet and elite': {'description': 'The Mysterious Mare Do Well is the eighth '
                                     'episode of the second season of My Little '
                                     'Pony Friendship is Magic and the '
                                     'thirty-fourth episode overall. The '
@@ -2650,8 +2809,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-12-10',
                      'season': '2',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/57/Canterlot_speaks_about_Rarity_S2E9.png/revision/latest?cb=20111204163048',
+                     'title': 'Sweet and Elite',
                      'writer': 'Meghan McCarthy'},
- 'Sweet and Smoky': {'description': 'Sweet and Smoky is the ninth episode of '
+ 'sweet and smoky': {'description': 'Sweet and Smoky is the ninth episode of '
                                     'season nine of My Little Pony Friendship '
                                     "is Magic and the show's two hundred and "
                                     'fifth episode overall.[1] When Spike and '
@@ -2663,8 +2823,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-12-10',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9b/Garble_and_Smolder_fist-bump_S9E9.png/revision/latest?cb=20190526210840',
+                     'title': 'Sweet and Smoky',
                      'writer': 'Kim Beyer-Johnson'},
- 'Tanks for the Memories': {'description': 'Tanks for the Memories is the '
+ 'tanks for the memories': {'description': 'Tanks for the Memories is the '
                                            'fifth episode of the fifth season '
                                            'of My Little Pony Friendship is '
                                            'Magic and the ninety-sixth episode '
@@ -2683,8 +2844,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-11-12',
                             'season': '5',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3c/Rainbow_silently_cries_with_Tank_S5E5.png/revision/latest?cb=20150427170848',
+                            'title': 'Tanks for the Memories',
                             'writer': 'Cindy Morrow'},
- 'Testing Testing 1, 2, 3': {'description': 'Testing Testing 1, 2, 3 (spelled '
+ 'testing testing 1, 2, 3': {'description': 'Testing Testing 1, 2, 3 (spelled '
                                             'as Testing, Testing, 1, 2, 3 by '
                                             'some sources) is the twenty-first '
                                             'episode of the fourth season of '
@@ -2702,8 +2864,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2011-03-25',
                              'season': '4',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/16/Twilight_%22Pinkie%2C_stop_rapping%21%22_S4E21.png/revision/latest?cb=20140407154821',
+                             'title': 'Testing Testing 1, 2, 3',
                              'writer': 'Amy Keating Rogers'},
- 'The Beginning of the End - Part 1': {'description': 'The Beginning of the '
+ 'the beginning of the end - part 1': {'description': 'The Beginning of the '
                                                       'End - Part 1 is the '
                                                       'first episode of season '
                                                       'nine of My Little Pony '
@@ -2731,9 +2894,11 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'release-date': '2010-10-10',
                                        'season': '9',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/77/Grogar_assembles_a_league_of_villains_S9E1.png/revision/latest?cb=20190407131754',
+                                       'title': 'The Beginning of the End - '
+                                                'Part 1',
                                        'writer': 'Joanna Lewis and Kristine '
                                                  'Songco'},
- 'The Beginning of the End - Part 2': {'description': 'The Beginning of the '
+ 'the beginning of the end - part 2': {'description': 'The Beginning of the '
                                                       'End - Part 2 is the '
                                                       'second episode of '
                                                       'season nine of My '
@@ -2759,9 +2924,11 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'release-date': '2010-10-22',
                                        'season': '9',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6d/Rainbow_brings_gardening_tools_to_her_friends_S9E2.png/revision/latest?cb=20190407132745',
+                                       'title': 'The Beginning of the End - '
+                                                'Part 2',
                                        'writer': 'Joanna Lewis and Kristine '
                                                  'Songco'},
- 'The Best Night Ever': {'description': 'The Best Night Ever is the '
+ 'the best night ever': {'description': 'The Best Night Ever is the '
                                         'twenty-sixth and final episode of '
                                         'season one of My Little Pony '
                                         'Friendship is Magic. In this episode, '
@@ -2774,8 +2941,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-05-06',
                          'season': '1',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/20/Main_Six_determined_to_have_the_Best_Night_Ever_S1E26.png/revision/latest?cb=20200313041316',
+                         'title': 'The Best Night Ever',
                          'writer': 'Amy Keating Rogers'},
- 'The Big Mac Question': {'description': 'The Big Mac Question is the '
+ 'the big mac question': {'description': 'The Big Mac Question is the '
                                          'twenty-third[1][2] episode of season '
                                          'nine of My Little Pony Friendship is '
                                          "Magic and the show's two hundred and "
@@ -2792,8 +2960,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-04-15',
                           'season': '9',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Big_Mac_gives_Sugar_Belle_an_engagement_ring_S9E23.png/revision/latest?cb=20191009170816',
+                          'title': 'The Big Mac Question',
                           'writer': 'Josh Haber & Michael Vogel'},
- 'The Break Up Break Down': {'description': 'The Break Up Break Down is the '
+ 'the break up break down': {'description': 'The Break Up Break Down is the '
                                             'tenth episode of season eight of '
                                             'My Little Pony Friendship is '
                                             'Magic and the one hundred and '
@@ -2811,8 +2980,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'release-date': '2010-12-17',
                              'season': '8',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/1c/Mrs._Cake_%22just_be_honest_with_him%22_S8E10.png/revision/latest?cb=20180520173637',
+                             'title': 'The Break Up Break Down',
                              'writer': 'Nick Confalone'},
- 'The Cart Before the Ponies': {'description': 'The Cart Before the Ponies is '
+ 'the cart before the ponies': {'description': 'The Cart Before the Ponies is '
                                                'the fourteenth episode of '
                                                'season six of My Little Pony '
                                                'Friendship is Magic and the '
@@ -2830,8 +3000,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'release-date': '2011-02-04',
                                 'season': '6',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/29/Rainbow_Dash%2C_Rarity_and_AJ_ready_to_race_S6E14.png/revision/latest?cb=20160807142525',
+                                'title': 'The Cart Before the Ponies',
                                 'writer': 'Ed Valentine and Michael Vogel'},
- 'The Crystal Empire - Part 1': {'description': 'A Canterlot Wedding - Part 2 '
+ 'the crystal empire - part 1': {'description': 'A Canterlot Wedding - Part 2 '
                                                 'is the twenty-sixth episode '
                                                 'of the second season of My '
                                                 'Little Pony Friendship is '
@@ -2849,8 +3020,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2010-10-10',
                                  'season': '3',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e5/King_Sombra_shadow_creeping_up_behind_main_characters_S3E1.png/revision/latest?cb=20121207202533',
+                                 'title': 'The Crystal Empire - Part 1',
                                  'writer': 'Meghan McCarthy'},
- 'The Crystal Empire - Part 2': {'description': 'A Canterlot Wedding - Part 2 '
+ 'the crystal empire - part 2': {'description': 'A Canterlot Wedding - Part 2 '
                                                 'is the twenty-sixth episode '
                                                 'of the second season of My '
                                                 'Little Pony Friendship is '
@@ -2868,8 +3040,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2010-10-22',
                                  'season': '3',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d4/Crystal_Empire_surrounded_by_King_Sombra_S3E2.png/revision/latest?cb=20121113070027',
+                                 'title': 'The Crystal Empire - Part 2',
                                  'writer': 'Meghan McCarthy'},
- 'The Crystalling - Part 1': {'description': 'The Crystalling - Part 1 is the '
+ 'the crystalling - part 1': {'description': 'The Crystalling - Part 1 is the '
                                              'first episode of season six of '
                                              'My Little Pony Friendship is '
                                              'Magic and the one hundred and '
@@ -2889,8 +3062,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'release-date': '2010-10-10',
                               'season': '6',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c3/Mane_six_shocked_to_see_Flurry_Heart%27s_wings_S06E01.png/revision/latest?cb=20160327165858',
+                              'title': 'The Crystalling - Part 1',
                               'writer': 'Josh Haber'},
- 'The Crystalling - Part 2': {'description': 'The Crystalling - Part 2 is the '
+ 'the crystalling - part 2': {'description': 'The Crystalling - Part 2 is the '
                                              'second episode of season six of '
                                              'My Little Pony Friendship is '
                                              'Magic and the one hundred and '
@@ -2905,8 +3079,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'release-date': '2010-10-22',
                               'season': '6',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/02/Flurry_Heart%27s_Crystalling_is_complete_S6E2.png/revision/latest?cb=20160328175609',
+                              'title': 'The Crystalling - Part 2',
                               'writer': 'Josh Haber'},
- 'The Cutie Map - Part 1': {'description': 'The Cutie Map - Part 1, also '
+ 'the cutie map - part 1': {'description': 'The Cutie Map - Part 1, also '
                                            'formatted The Cutie Map, Part 1[1] '
                                            'and also called Cutie Markless[2] '
                                            'Pt 1,[3] is the first episode of '
@@ -2932,8 +3107,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-10-10',
                             'season': '5',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/5a/Creepy_smiling_ponies_with_equals_sign_banner_S5E1.png/revision/latest?cb=20150406120444',
+                            'title': 'The Cutie Map - Part 1',
                             'writer': 'Meghan McCarthy'},
- 'The Cutie Map - Part 2': {'description': 'The Cutie Map - Part 2, also '
+ 'the cutie map - part 2': {'description': 'The Cutie Map - Part 2, also '
                                            'formatted The Cutie Map, Part 2[1] '
                                            'and also called Cutie '
                                            'Markless[2][3] Pt 2,[4] is the '
@@ -2955,8 +3131,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-10-22',
                             'season': '5',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bc/Twilight_thinking_very_hard_S5E02.png/revision/latest?cb=20150406110935',
+                            'title': 'The Cutie Map - Part 2',
                             'writer': 'Meghan McCarthy'},
- 'The Cutie Mark Chronicles': {'description': 'The Cutie Mark Chronicles is '
+ 'the cutie mark chronicles': {'description': 'The Cutie Mark Chronicles is '
                                               'the twenty-third episode of the '
                                               'first season of My Little Pony '
                                               'Friendship is Magic. In this '
@@ -2972,8 +3149,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'release-date': '2011-04-15',
                                'season': '1',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c0/Rainbow_Dash_shows_her_cutie_mark_S01E23.png/revision/latest?cb=20130103072422',
+                               'title': 'The Cutie Mark Chronicles',
                                'writer': 'M. A. Larson'},
- 'The Cutie Pox': {'description': 'The Cutie Pox is the sixth episode of the '
+ 'the cutie pox': {'description': 'The Cutie Pox is the sixth episode of the '
                                   'second season of My Little Pony Friendship '
                                   'is Magic and the thirty-second episode '
                                   'overall. The episode centers around the '
@@ -2989,8 +3167,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2010-11-19',
                    'season': '2',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/7e/Picture_of_the_pony_with_cutie_pox_S02E06.png/revision/latest?cb=20111114060416',
+                   'title': 'The Cutie Pox',
                    'writer': 'Amy Keating Rogers'},
- 'The Cutie Re-Mark - Part 1': {'description': 'The Cutie Re-Mark - Part 1, '
+ 'the cutie re-mark - part 1': {'description': 'The Cutie Re-Mark - Part 1, '
                                                'also formatted as The Cutie '
                                                'Re-Mark - Pt. 1 and The Cutie '
                                                'Re-Mark Part I,[1] is the '
@@ -3014,8 +3193,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'release-date': '2011-04-29',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e9/Twilight_and_Spike_look_at_the_time_portal_S5E25.png/revision/latest?cb=20151201153429',
+                                'title': 'The Cutie Re-Mark - Part 1',
                                 'writer': 'Josh Haber'},
- 'The Cutie Re-Mark - Part 2': {'description': 'The Cutie Re-Mark - Part 2, '
+ 'the cutie re-mark - part 2': {'description': 'The Cutie Re-Mark - Part 2, '
                                                'also formatted as The Cutie '
                                                'Re-Mark - Pt. 2 and The Cutie '
                                                'Re-Mark Part II,[1] is the '
@@ -3038,8 +3218,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'release-date': '2011-05-06',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/53/Twilight%2C_Spike%2C_and_Starlight_on_the_barren_landscape_S5E26.png/revision/latest?cb=20151201142820',
+                                'title': 'The Cutie Re-Mark - Part 2',
                                 'writer': 'Josh Haber'},
- 'The End in Friend': {'description': 'The End in Friend is the seventeenth '
+ 'the end in friend': {'description': 'The End in Friend is the seventeenth '
                                       'episode of season eight of My Little '
                                       'Pony Friendship is Magic and the one '
                                       'hundred and eighty-sixth overall. In '
@@ -3051,8 +3232,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-02-25',
                        'season': '8',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/59/Rarity_and_Rainbow_refuse_to_speak_to_each_other_S8E17.png/revision/latest?cb=20180819205616',
+                       'title': 'The End in Friend',
                        'writer': 'Gillian M. Berrow'},
- 'The Ending of the End - Part 1': {'description': 'The Ending of the End - '
+ 'the ending of the end - part 1': {'description': 'The Ending of the End - '
                                                    'Part 1 is the '
                                                    'twenty-fourth episode of '
                                                    'season nine of My Little '
@@ -3075,8 +3257,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'release-date': '2011-04-22',
                                     'season': '9',
                                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/13/Legion_of_Doom_threatening_Twilight_S9E24.png/revision/latest?cb=20191017173230',
+                                    'title': 'The Ending of the End - Part 1',
                                     'writer': 'Nicole Dubuc'},
- 'The Ending of the End - Part 2': {'description': 'The Ending of the End - '
+ 'the ending of the end - part 2': {'description': 'The Ending of the End - '
                                                    'Part 2 is the twenty-fifth '
                                                    'episode of season nine of '
                                                    'My Little Pony Friendship '
@@ -3097,8 +3280,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'release-date': '2011-04-29',
                                     'season': '9',
                                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9b/The_cavalry_of_united_Equestria_arrives_S9E25.png/revision/latest?cb=20191022031055',
+                                    'title': 'The Ending of the End - Part 2',
                                     'writer': 'Michael Vogel'},
- 'The Fault in Our Cutie Marks': {'description': 'The Fault in Our Cutie Marks '
+ 'the fault in our cutie marks': {'description': 'The Fault in Our Cutie Marks '
                                                  'is the nineteenth episode of '
                                                  'season six of My Little Pony '
                                                  'Friendship is Magic and the '
@@ -3115,8 +3299,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'release-date': '2011-03-11',
                                   'season': '6',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/23/CMC_moving_their_legs_and_Gabby_moving_her_body_as_the_song_begins_S6E19.png/revision/latest?cb=20160911170309',
+                                  'title': 'The Fault in Our Cutie Marks',
                                   'writer': 'Josh Haber and Meghan McCarthy'},
- 'The Gift of the Maud Pie': {'description': 'The Gift of the Maud Pie is the '
+ 'the gift of the maud pie': {'description': 'The Gift of the Maud Pie is the '
                                              'third episode of season six of '
                                              'My Little Pony Friendship is '
                                              'Magic and the one hundred and '
@@ -3133,8 +3318,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'release-date': '2010-10-29',
                               'season': '6',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d9/Pinkie_Pie_jumping_for_joy_S6E3.png/revision/latest?cb=20160403152239',
+                              'title': 'The Gift of the Maud Pie',
                               'writer': 'Josh Haber, Michael P. Fox & Wil Fox'},
- "The Hearth's Warming Club": {'description': "The Hearth's Warming Club is "
+ "the hearth's warming club": {'description': "The Hearth's Warming Club is "
                                               'the fifteenth episode of season '
                                               'eight of My Little Pony '
                                               'Friendship is Magic and the one '
@@ -3158,8 +3344,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'release-date': '2011-02-11',
                                'season': '8',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/14/Twilight_tells_Young_Six_to_clean_up_the_mess_S8E16.png/revision/latest?cb=20180807002007',
+                               'title': "The Hearth's Warming Club",
                                'writer': 'Brian Hohlfeld'},
- 'The Hooffields and McColts': {'description': 'The Hooffields and McColts is '
+ 'the hooffields and mccolts': {'description': 'The Hooffields and McColts is '
                                                'the twenty-third episode of '
                                                'the fifth season of My Little '
                                                'Pony Friendship is Magic and '
@@ -3179,8 +3366,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'release-date': '2011-04-15',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/66/Twilight_and_Fluttershy_hovering_between_two_hills_S5E23.png/revision/latest?cb=20151116181211',
+                                'title': 'The Hooffields and McColts',
                                 'writer': 'Joanna Lewis and Kristine Songco'},
- 'The Last Crusade': {'description': 'The Last Crusade is the twelfth episode '
+ 'the last crusade': {'description': 'The Last Crusade is the twelfth episode '
                                      'of season nine of My Little Pony '
                                      "Friendship is Magic and the show's two "
                                      'hundred and eighth episode overall.[1] '
@@ -3193,8 +3381,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-01-07',
                       'season': '9',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/31/Mane_Allgood_%22We%27re_all_moving_to_Shire_Lanka%21%22_S9E12.png/revision/latest?cb=20190616221646',
+                      'title': 'The Last Crusade',
                       'writer': 'Nicole Dubuc'},
- 'The Last Laugh': {'description': 'The Last Laugh, incorrectly[1] titled as '
+ 'the last laugh': {'description': 'The Last Laugh, incorrectly[1] titled as '
                                    "That's a Laugh by some sources, is the "
                                    'fourteenth episode of season nine of My '
                                    'Little Pony Friendship is Magic and the '
@@ -3207,8 +3396,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2011-02-04',
                     'season': '9',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/48/Pinkie_shocks_Sans_Smirk_with_joy_buzzer_S9E14.png/revision/latest?cb=20190805011850',
+                    'title': 'The Last Laugh',
                     'writer': 'Michael P. Fox & Wil Fox'},
- 'The Last Problem': {'description': 'The Last Problem is the twenty-sixth '
+ 'the last problem': {'description': 'The Last Problem is the twenty-sixth '
                                      'episode of season nine of My Little Pony '
                                      "Friendship is Magic and the show's two "
                                      'hundred and twenty-second episode '
@@ -3226,8 +3416,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-05-06',
                       'season': '9',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fe/Future_Mane_Six_and_Spike_in_Ponyville_S9E26.png/revision/latest?cb=20191103195212',
+                      'title': 'The Last Problem',
                       'writer': 'Josh Haber'},
- 'The Last Roundup': {'description': 'The Last Roundup is the fourteenth '
+ 'the last roundup': {'description': 'The Last Roundup is the fourteenth '
                                      'episode of the second season of My '
                                      'Little Pony Friendship is Magic and the '
                                      'fortieth episode overall. After '
@@ -3241,8 +3432,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-02-04',
                       'season': '2',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/65/Meeting_Cherry_Jubilee_S02E14.png/revision/latest?cb=20120326235917',
+                      'title': 'The Last Roundup',
                       'writer': 'Amy Keating Rogers'},
- 'The Lost Treasure of Griffonstone': {'description': 'The Lost Treasure of '
+ 'the lost treasure of griffonstone': {'description': 'The Lost Treasure of '
                                                       'Griffonstone is the '
                                                       'eighth episode of the '
                                                       'fifth season of My '
@@ -3261,8 +3453,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'release-date': '2010-12-03',
                                        'season': '5',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3b/King_Grover_presents_the_Idol_of_Boreas_S5E8.png/revision/latest?cb=20150525091601',
+                                       'title': 'The Lost Treasure of '
+                                                'Griffonstone',
                                        'writer': 'Amy Keating Rogers'},
- 'The Mane Attraction': {'description': 'The Mane Attraction is the '
+ 'the mane attraction': {'description': 'The Mane Attraction is the '
                                         'twenty-fourth episode of the fifth '
                                         'season of My Little Pony Friendship '
                                         'is Magic and the one hundred and '
@@ -3280,8 +3474,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-04-22',
                          'season': '5',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6f/Applejack_on_stage_with_Coloratura_and_the_CMC_S5E24.png/revision/latest?cb=20151123141319',
+                         'title': 'The Mane Attraction',
                          'writer': 'Amy Keating Rogers'},
- 'The Maud Couple': {'description': 'The Maud Couple is the third episode of '
+ 'the maud couple': {'description': 'The Maud Couple is the third episode of '
                                     'season eight of My Little Pony Friendship '
                                     'is Magic and the one hundred and '
                                     'seventy-second overall. The title is a '
@@ -3296,8 +3491,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-10-29',
                      'season': '8',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/71/Pinkie_Pie_looks_at_Maud_Pie_and_Mudbriar_S8E3.png/revision/latest?cb=20180401223124',
+                     'title': 'The Maud Couple',
                      'writer': 'Nick Confalone'},
- 'The Mean 6': {'description': 'The Mean 6 is the thirteenth episode of season '
+ 'the mean 6': {'description': 'The Mean 6 is the thirteenth episode of season '
                                'eight of My Little Pony Friendship is Magic '
                                'and the one hundred and eighty-second overall. '
                                "It marks season eight's midseason finale. The "
@@ -3310,8 +3506,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                 'release-date': '2011-01-28',
                 'season': '8',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/41/Chrysalis%27_clones_rising_from_their_shells_S8E13.png/revision/latest?cb=20180610133624',
+                'title': 'The Mean 6',
                 'writer': 'Michael Vogel'},
- 'The Mysterious Mare Do Well': {'description': 'The Mysterious Mare Do Well '
+ 'the mysterious mare do well': {'description': 'The Mysterious Mare Do Well '
                                                 'is the eighth episode of the '
                                                 'second season of My Little '
                                                 'Pony Friendship is Magic and '
@@ -3336,8 +3533,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2010-12-03',
                                  'season': '2',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/93/The_Mysterious_Mare_Do_Well_S02E08.png/revision/latest?cb=20120911200936',
+                                 'title': 'The Mysterious Mare Do Well',
                                  'writer': 'Merriwether Williams'},
- 'The One Where Pinkie Pie Knows': {'description': 'The One Where Pinkie Pie '
+ 'the one where pinkie pie knows': {'description': 'The One Where Pinkie Pie '
                                                    'Knows is the nineteenth '
                                                    'episode of the fifth '
                                                    'season of My Little Pony '
@@ -3358,8 +3556,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'release-date': '2011-03-11',
                                     'season': '5',
                                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2b/Pinkie_feeling_pressured_by_her_friends_S5E19.png/revision/latest?cb=20151019110359',
+                                    'title': 'The One Where Pinkie Pie Knows',
                                     'writer': 'Gillian M. Berrow'},
- 'The Parent Map': {'description': 'The Parent Map is the eighth episode of '
+ 'the parent map': {'description': 'The Parent Map is the eighth episode of '
                                    'season eight of My Little Pony Friendship '
                                    'is Magic and the one hundred and '
                                    'seventy-seventh overall. The title is a '
@@ -3372,8 +3571,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2010-12-03',
                     'season': '8',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a8/Starlight_and_Sunburst%27s_parents_face_off_S8E8.png/revision/latest?cb=20180506145652',
+                    'title': 'The Parent Map',
                     'writer': 'Dave Rapp'},
- 'The Perfect Pear': {'description': 'The Perfect Pear is the thirteenth '
+ 'the perfect pear': {'description': 'The Perfect Pear is the thirteenth '
                                      'episode of season seven of My Little '
                                      'Pony Friendship is Magic and the one '
                                      'hundred and fifty-sixth overall. The '
@@ -3386,8 +3586,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-01-28',
                       'season': '7',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/15/Bright_Mac_teasing_Pear_Butter_S7E13.png/revision/latest?cb=20170807212749',
+                      'title': 'The Perfect Pear',
                       'writer': 'Joanna Lewis and Kristine Songco'},
- 'The Point of No Return': {'description': 'The Point of No Return is the '
+ 'the point of no return': {'description': 'The Point of No Return is the '
                                            'fifth episode of season nine of My '
                                            'Little Pony Friendship is Magic '
                                            "and the show's two hundred and "
@@ -3401,8 +3602,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2010-11-12',
                             'season': '9',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2f/Twilight_sees_how_overdue_her_book_is_S9E5.png/revision/latest?cb=20190428134810',
+                            'title': 'The Point of No Return',
                             'writer': 'Gillian M. Berrow'},
- 'The Return of Harmony Part 1': {'description': 'The Return of Harmony Part 1 '
+ 'the return of harmony part 1': {'description': 'The Return of Harmony Part 1 '
                                                  'is the first episode of the '
                                                  'second season of My Little '
                                                  'Pony Friendship is Magic and '
@@ -3420,8 +3622,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'release-date': '2010-10-10',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f4/Statue_of_Discord_cracking_S2E01.png/revision/latest?cb=20130101195722',
+                                  'title': 'The Return of Harmony Part 1',
                                   'writer': 'M. A. Larson'},
- 'The Return of Harmony Part 2': {'description': 'The Return of Harmony Part 2 '
+ 'the return of harmony part 2': {'description': 'The Return of Harmony Part 2 '
                                                  'is the second episode of the '
                                                  'second season of My Little '
                                                  'Pony Friendship is Magic and '
@@ -3437,8 +3640,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'release-date': '2010-10-22',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/88/Discord%2C_%22First_changes_of_Ponyville%22_S02E02.png/revision/latest?cb=20120601221808',
+                                  'title': 'The Return of Harmony Part 2',
                                   'writer': 'M. A. Larson'},
- 'The Saddle Row Review': {'description': 'The Saddle Row Review, early title '
+ 'the saddle row review': {'description': 'The Saddle Row Review, early title '
                                           'Saddle Row & Rec[1] used by some '
                                           'sources,[2] is the ninth episode of '
                                           'season six of My Little Pony '
@@ -3453,8 +3657,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'release-date': '2010-12-10',
                            'season': '6',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/4e/Rarity%27s_friends_looking_worried_of_Rarity_about_to_read_the_article_S6E9.png/revision/latest?cb=20160522113555',
+                           'title': 'The Saddle Row Review',
                            'writer': 'Nick Confalone'},
- 'The Show Stoppers': {'description': 'The Show Stoppers is the eighteenth '
+ 'the show stoppers': {'description': 'The Show Stoppers is the eighteenth '
                                       'episode of the first season of My '
                                       'Little Pony Friendship is Magic. In '
                                       'this episode, the Cutie Mark Crusaders '
@@ -3476,8 +3681,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-03-04',
                        'season': '1',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b3/Cutie_Mark_Crusaders_song_S1E18.png/revision/latest?cb=20200310155020',
+                       'title': 'The Show Stoppers',
                        'writer': 'Cindy Morrow'},
- 'The Summer Sun Setback': {'description': 'The Summer Sun Setback is the '
+ 'the summer sun setback': {'description': 'The Summer Sun Setback is the '
                                            'seventeenth episode of season nine '
                                            'of My Little Pony Friendship is '
                                            "Magic and the show's two hundred "
@@ -3491,8 +3697,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2011-02-25',
                             'season': '9',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fc/Twilight_successfully_raises_the_sun_S9E17.png/revision/latest?cb=20190829013401',
+                            'title': 'The Summer Sun Setback',
                             'writer': 'Michael Vogel'},
- 'The Super Speedy Cider Squeezy 6000': {'description': 'The Super Speedy '
+ 'the super speedy cider squeezy 6000': {'description': 'The Super Speedy '
                                                         'Cider Squeezy 6000 is '
                                                         'the fifteenth episode '
                                                         'of the second season '
@@ -3515,8 +3722,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'release-date': '2011-02-11',
                                          'season': '2',
                                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/49/Crowd_looking_at_the_Super_Speedy_Cider_Squeezy_6000_S2E15.png/revision/latest?cb=20120205041329',
+                                         'title': 'The Super Speedy Cider '
+                                                  'Squeezy 6000',
                                          'writer': 'M. A. Larson'},
- 'The Ticket Master': {'description': 'The Ticket Master is the third episode '
+ 'the ticket master': {'description': 'The Ticket Master is the third episode '
                                       'of the first season of My Little Pony '
                                       'Friendship is Magic. Princess Celestia '
                                       'gives Twilight Sparkle two tickets to '
@@ -3527,8 +3736,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2010-10-29',
                        'season': '1',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/37/Twilight_Sparkle_overjoyed_about_tickets_S1E03.png/revision/latest?cb=20130103015746',
+                       'title': 'The Ticket Master',
                        'writer': 'Amy Keating Rogers & Lauren Faust'},
- 'The Times They Are A Changeling': {'description': 'The Times They Are A '
+ 'the times they are a changeling': {'description': 'The Times They Are A '
                                                     'Changeling is the '
                                                     'sixteenth episode of '
                                                     'season six of My Little '
@@ -3558,9 +3768,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'release-date': '2011-02-18',
                                      'season': '6',
                                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d3/Spike_introducing_Thorax_as_his_friend_S6E16.png/revision/latest?cb=20160821162845',
+                                     'title': 'The Times They Are A Changeling',
                                      'writer': 'Michael Vogel, Kevin Burke, '
                                                'and Chris "Doc" Wyatt'},
- 'The Washouts': {'description': 'The Washouts is the twentieth episode of '
+ 'the washouts': {'description': 'The Washouts is the twentieth episode of '
                                  'season eight of My Little Pony Friendship is '
                                  'Magic and the one hundred and eighty-ninth '
                                  'overall. In this episode, Scootaloo becomes '
@@ -3573,8 +3784,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                   'release-date': '2011-03-18',
                   'season': '8',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f5/Rainbow_vs._Lightning%3B_Scootaloo_in_the_middle_S8E20.png/revision/latest?cb=20180909224639',
+                  'title': 'The Washouts',
                   'writer': 'Nick Confalone'},
- "Three's A Crowd": {'description': "Three's A Crowd is the eleventh episode "
+ "three's a crowd": {'description': "Three's A Crowd is the eleventh episode "
                                     'of the fourth season of My Little Pony '
                                     'Friendship is Magic and the seventy-sixth '
                                     'episode overall. In this episode, an ill '
@@ -3588,8 +3800,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                      'release-date': '2010-12-24',
                      'season': '4',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Discord_holding_a_glass_S4E11.png/revision/latest?cb=20140127102339',
+                     'title': "Three's A Crowd",
                      'writer': 'Meghan McCarthy & Ed Valentine'},
- 'To Change a Changeling': {'description': 'To Change a Changeling is the '
+ 'to change a changeling': {'description': 'To Change a Changeling is the '
                                            'seventeenth episode of season '
                                            'seven of My Little Pony Friendship '
                                            'is Magic and the one hundred and '
@@ -3602,8 +3815,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                             'release-date': '2011-02-25',
                             'season': '7',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/67/Pharynx_stomping_on_flowers_S7E17.png/revision/latest?cb=20170903220406',
+                            'title': 'To Change a Changeling',
                             'writer': 'Kevin Lappin'},
- 'To Where and Back Again - Part 1': {'description': 'To Where and Back Again '
+ 'to where and back again - part 1': {'description': 'To Where and Back Again '
                                                      '- Part 1, also formatted '
                                                      'as To Where and Back '
                                                      'Again: Part 1[1] and To '
@@ -3633,8 +3847,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'release-date': '2011-04-29',
                                       'season': '6',
                                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/11/Trixie%2C_Thorax%2C_and_Discord_look_at_Starlight_Glimmer_S6E25.png/revision/latest?cb=20161023202808',
+                                      'title': 'To Where and Back Again - Part '
+                                               '1',
                                       'writer': 'Josh Haber and Michael Vogel'},
- 'To Where and Back Again - Part 2': {'description': 'To Where and Back Again '
+ 'to where and back again - part 2': {'description': 'To Where and Back Again '
                                                      '- Part 2, also formatted '
                                                      'as To Where and Back '
                                                      'Again: Part 2 and To '
@@ -3659,8 +3875,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'release-date': '2011-05-06',
                                       'season': '6',
                                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/44/Chrysalis_%22...or_what_it_takes_to_be_their_queen%21%22_S6E26.png/revision/latest?cb=20161024144045',
+                                      'title': 'To Where and Back Again - Part '
+                                               '2',
                                       'writer': 'Josh Haber and Michael Vogel'},
- 'Too Many Pinkie Pies': {'description': 'Too Many Pinkie Pies is the third '
+ 'too many pinkie pies': {'description': 'Too Many Pinkie Pies is the third '
                                          'episode of the third season of My '
                                          'Little Pony Friendship is Magic and '
                                          'the fifty-fifth episode overall. In '
@@ -3673,8 +3891,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2010-10-29',
                           'season': '3',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a9/A_lot_of_Pinkie_clones_S3E03.png/revision/latest?cb=20121118093440',
+                          'title': 'Too Many Pinkie Pies',
                           'writer': 'Dave Polsky'},
- 'Top Bolt': {'description': 'Top Bolt is the twenty-fourth episode of season '
+ 'top bolt': {'description': 'Top Bolt is the twenty-fourth episode of season '
                              'six of My Little Pony Friendship is Magic and '
                              'the one hundred and forty-first overall. The '
                              'title is a reference to the 1986 Tom Cruise film '
@@ -3687,8 +3906,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
               'release-date': '2011-04-22',
               'season': '6',
               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/94/Spitfire_%22Wonderbolts_don%27t_get_winded%22_S6E24.png/revision/latest?cb=20161016132322',
+              'title': 'Top Bolt',
               'writer': 'Meghan McCarthy, Joanna Lewis, and Kristine Songco'},
- 'Trade Ya!': {'description': 'Trade Ya! (spelled as Trade Ya by some sources) '
+ 'trade ya!': {'description': 'Trade Ya! (spelled as Trade Ya by some sources) '
                               'is the twenty-second episode of the fourth '
                               'season of My Little Pony Friendship is Magic '
                               'and the eighty-seventh episode overall. In this '
@@ -3698,8 +3918,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                'release-date': '2011-04-08',
                'season': '4',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/ba/The_ponies_celebrating_Twilight%27s_arrival_S4E22.png/revision/latest?cb=20140421130504',
+               'title': 'Trade Ya!',
                'writer': 'Scott Sonneborn'},
- 'Triple Threat': {'description': 'Triple Threat is the fifteenth episode of '
+ 'triple threat': {'description': 'Triple Threat is the fifteenth episode of '
                                   'season seven of My Little Pony Friendship '
                                   'is Magic and the one hundred and '
                                   'fifty-eighth overall. When Spike '
@@ -3711,8 +3932,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2011-02-11',
                    'season': '7',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ea/Spike_watching_Thorax_and_Ember_fight_S7E15.png/revision/latest?cb=20170820225345',
+                   'title': 'Triple Threat',
                    'writer': 'Josh Hamilton'},
- 'Twilight Time': {'description': 'Filli Vanilli is the fourteenth episode of '
+ 'twilight time': {'description': 'Filli Vanilli is the fourteenth episode of '
                                   'the fourth season of My Little Pony '
                                   'Friendship is Magic and the seventy-ninth '
                                   'episode overall. When a member of the Pony '
@@ -3728,8 +3950,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2011-02-11',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/99/Twilight_with_Diamond_Tiara_and_Silver_Spoon_S4E15.png/revision/latest?cb=20140224191231',
+                   'title': 'Twilight Time',
                    'writer': 'Dave Polsky'},
- "Twilight's Kingdom - Part 1": {'description': "Twilight's Kingdom - Part 1 "
+ "twilight's kingdom - part 1": {'description': "Twilight's Kingdom - Part 1 "
                                                 'is the twenty-fifth episode '
                                                 'of the fourth season of My '
                                                 'Little Pony Friendship is '
@@ -3754,8 +3977,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2011-04-29',
                                  'season': '4',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ec/Twilight%2C_Celestia%2C_Luna%2C_and_Cadance_on_the_balcony_S4E25.png/revision/latest?cb=20140512101439',
+                                 'title': "Twilight's Kingdom - Part 1",
                                  'writer': 'Meghan McCarthy'},
- "Twilight's Kingdom - Part 2": {'description': "Twilight's Kingdom - Part 2 "
+ "twilight's kingdom - part 2": {'description': "Twilight's Kingdom - Part 2 "
                                                 'is the twenty-sixth episode '
                                                 'of the fourth season of My '
                                                 'Little Pony Friendship is '
@@ -3782,8 +4006,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'release-date': '2011-05-06',
                                  'season': '4',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/05/Twilight_and_Tirek_face-to-face_S4E26.png/revision/latest?cb=20140512143808',
+                                 'title': "Twilight's Kingdom - Part 2",
                                  'writer': 'Meghan McCarthy'},
- 'Uncommon Bond': {'description': 'Uncommon Bond is the twenty-fourth episode '
+ 'uncommon bond': {'description': 'Uncommon Bond is the twenty-fourth episode '
                                   'of season seven of My Little Pony '
                                   'Friendship is Magic and the one hundred and '
                                   'sixty-seventh overall.[1] The title is a '
@@ -3797,8 +4022,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'release-date': '2011-04-22',
                    'season': '7',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/33/Starlight_Glimmer_feeling_left_out_S7E24.png/revision/latest?cb=20171011192826',
+                   'title': 'Uncommon Bond',
                    'writer': 'Josh Haber and Kevin Lappin'},
- 'Uprooted': {'description': 'Uprooted is the third episode of season nine of '
+ 'uprooted': {'description': 'Uprooted is the third episode of season nine of '
                              'My Little Pony Friendship is Magic and the one '
                              'hundred and ninety-ninth overall.[1] In this '
                              'episode, the Young Six respond to a magical '
@@ -3809,8 +4035,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
               'release-date': '2010-10-29',
               'season': '9',
               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/59/Young_Six_behold_the_destroyed_Tree_S9E3.png/revision/latest?cb=20190414200305',
+              'title': 'Uprooted',
               'writer': 'Nicole Dubuc'},
- 'Viva Las Pegasus': {'description': 'Viva Las Pegasus is the twentieth '
+ 'viva las pegasus': {'description': 'Viva Las Pegasus is the twentieth '
                                      'episode of season six of My Little Pony '
                                      'Friendship is Magic and the one hundred '
                                      'and thirty-seventh overall. The title is '
@@ -3825,9 +4052,10 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'release-date': '2011-03-18',
                       'season': '6',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/97/Las_Pegasus_S6E20.png/revision/latest?cb=20160918094158',
+                      'title': 'Viva Las Pegasus',
                       'writer': 'Michael Vogel,Kevin Burke, andChris "Doc" '
                                 'Wyatt'},
- 'What About Discord?': {'description': 'What About Discord? (titled What '
+ 'what about discord?': {'description': 'What About Discord? (titled What '
                                         'About Discord[1] by some sources) is '
                                         'the twenty-second episode of the '
                                         'fifth season of My Little Pony '
@@ -3844,8 +4072,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2011-04-08',
                          'season': '5',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8e/Discord_%22no_matter_how_hard_we_try%22_S5E22.png/revision/latest?cb=20151109173841',
+                         'title': 'What About Discord?',
                          'writer': 'Neal Dusedau'},
- 'What Lies Beneath': {'description': 'What Lies Beneath is the twenty-second '
+ 'what lies beneath': {'description': 'What Lies Beneath is the twenty-second '
                                       'episode of season eight of My Little '
                                       'Pony Friendship is Magic and the one '
                                       'hundred and ninety-first overall. In '
@@ -3858,8 +4087,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'release-date': '2011-04-08',
                        'season': '8',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/ce/Tree_of_Harmony_addressing_the_Young_Six_S8E22.png/revision/latest?cb=20180924162828',
+                       'title': 'What Lies Beneath',
                        'writer': 'Michael Vogel'},
- 'Where the Apple Lies': {'description': 'Where the Apple Lies is the '
+ 'where the apple lies': {'description': 'Where the Apple Lies is the '
                                          'twenty-third episode of season six '
                                          'of My Little Pony Friendship is '
                                          'Magic and the one hundred and '
@@ -3875,8 +4105,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'release-date': '2011-04-15',
                           'season': '6',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2f/Young_Applejack_and_Big_McIntosh_glare_at_each_other_S6E23.png/revision/latest?cb=20161009103839',
+                          'title': 'Where the Apple Lies',
                           'writer': 'Meghan McCarthy and Dave Rapp'},
- 'Winter Wrap Up': {'description': 'Winter Wrap Up is the eleventh episode of '
+ 'winter wrap up': {'description': 'Winter Wrap Up is the eleventh episode of '
                                    'the first season of My Little Pony '
                                    'Friendship is Magic. In this episode, '
                                    'winter comes to an end, and Ponyville '
@@ -3886,8 +4117,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                     'release-date': '2010-12-24',
                     'season': '1',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3b/Spotlight_on_Twilight_Sparkle_S1E11.png/revision/latest?cb=20200313205106',
+                    'title': 'Winter Wrap Up',
                     'writer': 'Cindy Morrow'},
- 'Wonderbolts Academy': {'description': 'Wonderbolts Academy (called '
+ 'wonderbolts academy': {'description': 'Wonderbolts Academy (called '
                                         'Wonderbolt Academy by other sources) '
                                         'is the seventh episode of the third '
                                         'season of My Little Pony Friendship '
@@ -3901,8 +4133,9 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                          'release-date': '2010-11-26',
                          'season': '3',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d4/Rainbow_competing_with_Lightning_S3E07.png/revision/latest?cb=20121215174623',
+                         'title': 'Wonderbolts Academy',
                          'writer': 'Merriwether Williams'},
- 'Yakity-Sax': {'description': 'Yakity-Sax is the eighteenth episode of season '
+ 'yakity-sax': {'description': 'Yakity-Sax is the eighteenth episode of season '
                                'eight of My Little Pony Friendship is Magic '
                                'and the one hundred and eighty-seventh '
                                'overall. The title is a reference to the Boots '
@@ -3917,4 +4150,5 @@ episodes = {'2, 4, 6, Greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                 'release-date': '2011-03-04',
                 'season': '8',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/71/Pinkie_Pie_with_yak_helmet_and_yovidaphone_S8E18.png/revision/latest?cb=20180826195309',
+                'title': 'Yakity-Sax',
                 'writer': 'Michael P. Fox & Wil Fox'}}
