@@ -1,40 +1,46 @@
 from flask import Flask, jsonify
+import pprint
 from storage import episodes, characters, places
 
 app = Flask(__name__)
+app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
 
-def character_get(name):
+def _characters():
+    t = []
     for n in characters:
-        if name == n:
-            return characters[name]
-        else:
-            continue
-    return "No Result"
+        t.append(n)
+    return t
 
-@app.route("/")
-def home():
-    return "Welcome to the My Little Pony make shift documentation!\n\n"
-
-@app.route("/places/")
 def _places():
     q = []
     for n in places:
-        q.append(n)
-    return jsonify(q)
+        q.append("/place/" + n)
+    return q
 
-@app.route("/place/<place>/")
+def _episodes():
+    q = []
+    for n in episodes:
+        q.append(n)
+    return q
+
+@app.route("/")
+def home():
+    characters = _characters()
+    places = _places()
+    episodes = _episodes()
+    info = {
+        "/place/<place_name>": places,
+        "/episode/<id>": episodes,
+        "/character/<name>": characters
+    }
+    return info
+
+@app.route("/place/<place_name>/")
 def place(place):
     for n in places:
         if place == n:
             return places[n]
     return "No Result"
-
-@app.route("/episodes/")
-def _episodes():
-    q = []
-    for n in episodes:
-        q.append(n)
-    return jsonify(q)
 
 @app.route("/episode/<id>/")
 def episode(id):
@@ -45,14 +51,11 @@ def episode(id):
 
 @app.route("/character/<name>/")
 def character(name):
-    n = character_get(name)
-    return n
-
-@app.route("/characters/")
-def _characters():
-    t = []
     for n in characters:
-        t.append(n)
-    return jsonify(t)
+        if name == n:
+            return characters[name]
+        else:
+            continue
+    return "No Result"
 
 app.run()
