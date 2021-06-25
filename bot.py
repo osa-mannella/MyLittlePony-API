@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 
 client = commands.Bot(command_prefix="?", intents=discord.Intents.default())
+client.colour = 0xE972AF
 
 class MyHelp(commands.HelpCommand):
     async def send_bot_help(self, mapping):
@@ -16,7 +17,7 @@ class MyHelp(commands.HelpCommand):
             if v != "":
                 v = " " + command.signature
             n = n + f"`{self.clean_prefix}{command.name}{v}`\n{command.description}\n\n"
-        embed = discord.Embed(title="Commands", description=n, colour=0xfdfa72)
+        embed = discord.Embed(title="Commands", description=n, colour=client.colour)
         embed.set_footer(text=f"Requested by {self.context.author}", icon_url=self.context.author.avatar_url)
         await self.context.send(embed=embed)
 

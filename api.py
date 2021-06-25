@@ -14,7 +14,7 @@ def _characters():
 def _places():
     q = []
     for n in places:
-        q.append("/place/" + n)
+        q.append(n)
     return q
 
 def _episodes():
@@ -40,14 +40,14 @@ def place(place_name):
     for n in places:
         if place_name == n:
             return places[n]
-    return "No Result"
+    return jsonify(_places())
 
-@app.route("/episode/<id>/")
-def episode(id):
+@app.route("/episode/<episode_name>/")
+def episode(episode_name):
     for n in episodes:
-        if id == n:
-            return episodes[id]
-    return "No Result"
+        if episode_name == n:
+            return episodes[episode_name]
+    return jsonify(_episodes())
 
 @app.route("/character/<name>/")
 def character(name):
@@ -56,6 +56,6 @@ def character(name):
             return characters[name]
         else:
             continue
-    return "No Result"
+    return jsonify(_characters())
 
 app.run()
