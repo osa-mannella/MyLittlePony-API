@@ -147,12 +147,12 @@ places = {
     }
 }
 
-episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1] titled '
+episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly titled '
                                      '2,4,5 Greaaat by some sources, is the '
                                      'fifteenth episode of season nine of My '
                                      'Little Pony Friendship is Magic and the '
                                      "show's two hundred and eleventh episode "
-                                     'overall.[2] The title is a wordplay on '
+                                     'overall. The title is a wordplay on '
                                      '"2, 4, 6, 8", which is a common chant '
                                      'used in cheerleading. In this episode, '
                                      'the School of Friendship starts a '
@@ -160,6 +160,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'come to terms with the fact that she '
                                      "won't be coaching the team.",
                       'episode': '15',
+                      'episode-overall': '211',
                       'release-date': '2011-02-11',
                       'season': '9',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9e/Ponyville_buckball_team%27s_cheer_squad_S9E15.png/revision/latest?cb=20190812013905',
@@ -177,6 +178,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'decide to give her a taste of her own '
                                     'medicine.',
                      'episode': '15',
+                     'episode-overall': '132',
                      'release-date': '2011-02-11',
                      'season': '6',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/95/The_ponies_enter_the_barn_S6E15.png/revision/latest?cb=20160814171323',
@@ -196,6 +198,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'already has, rather than pursuing '
                                        'something one may never get.',
                         'episode': '22',
+                        'episode-overall': '22',
                         'release-date': '2011-04-08',
                         'season': '1',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/ff/Fluttershy_holding_Philomena_S01E22.png/revision/latest?cb=20200312150711',
@@ -219,6 +222,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                  'Cadance has changed since '
                                                  'their childhood.',
                                   'episode': '25',
+                                  'episode-overall': '51',
                                   'release-date': '2011-04-29',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/7d/Cadance_being_possessive_of_Shining_Armor_S2E25.png/revision/latest?cb=20120424080046',
@@ -239,6 +243,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                  'happily ever after and the '
                                                  'future of Equestria.',
                                   'episode': '26',
+                                  'episode-overall': '52',
                                   'release-date': '2011-05-06',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8c/Chrysalis_on_ruling_the_world_S2E26.png/revision/latest?cb=20120701130303',
@@ -255,6 +260,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         "ponies head into the Dogs' "
                                         'underground burrows to rescue her.',
                          'episode': '19',
+                         'episode-overall': '19',
                          'release-date': '2011-03-11',
                          'season': '1',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f6/Rarity_in_front_of_the_Diamond_Dogs_S1E19.png/revision/latest?cb=20130104080716',
@@ -269,6 +275,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'Heart despite already having a very '
                                          'busy schedule.',
                           'episode': '3',
+                          'episode-overall': '146',
                           'release-date': '2010-10-29',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/47/Twilight_smiling_at_Flurry_Heart_while_levitating_a_teddy_bear_S7E3.png/revision/latest?cb=20170423132816',
@@ -288,6 +295,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'Magical Mystery Cure surpassed it with '
                                      'seven songs.',
                       'episode': '18',
+                      'episode-overall': '44',
                       'release-date': '2011-03-04',
                       'season': '2',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3d/Pinkie_Pie_Introduce_Myself_S2E18.png/revision/latest?cb=20120220051007',
@@ -306,6 +314,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             'Fluttershy makes it her mission '
                                             'to heal her.',
                              'episode': '20',
+                             'episode-overall': '163',
                              'release-date': '2011-03-18',
                              'season': '7',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/45/Zecora_notices_she%27s_covered_in_orange_spots_S7E20.png/revision/latest?cb=20170924120255',
@@ -330,6 +339,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             "after Hearth's Warming Eve and "
                                             'Hearthbreakers.',
                              'episode': '8',
+                             'episode-overall': '125',
                              'release-date': '2010-12-03',
                              'season': '6',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a9/Ponies_sing_together_in_the_Castle_of_Friendship_S6E8.png/revision/latest?cb=20160517002332',
@@ -338,12 +348,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'a horse shoe-in': {'description': 'A Horse Shoe-In is the twentieth episode '
                                     'of season nine of My Little Pony '
                                     "Friendship is Magic and the show's two "
-                                    'hundred and sixteenth episode overall.[1] '
+                                    'hundred and sixteenth episode overall. '
                                     'In this episode, Starlight Glimmer '
                                     'decides to hire a Vice Headmare in '
                                     'preparation to take over the School of '
                                     'Friendship from Twilight.',
                      'episode': '20',
+                     'episode-overall': '216',
                      'release-date': '2011-03-18',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/47/Starlight_declares_%22substituting_for_the_teachers%22_S9E20.png/revision/latest?cb=20190916005426',
@@ -362,6 +373,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'frustrated and does his best to '
                                            "make Starlight's role impossible.",
                             'episode': '14',
+                            'episode-overall': '183',
                             'release-date': '2011-02-04',
                             'season': '8',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/48/Discord_trolling_Starlight_Glimmer_S8E15.png/revision/latest?cb=20180806010429',
@@ -383,6 +395,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'to help him find a new '
                                                 'purpose.',
                                  'episode': '21',
+                                 'episode-overall': '190',
                                  'release-date': '2011-03-25',
                                  'season': '8',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f1/Rockhoof_telling_the_class_an_exciting_story_S8E21.png/revision/latest?cb=20180916170735',
@@ -398,6 +411,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'which she attempts to do by impulsively '
                                     'switching their cutie marks.',
                      'episode': '10',
+                     'episode-overall': '153',
                      'release-date': '2010-12-17',
                      'season': '7',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Celestia_and_Luna_shocked_by_their_switched_cutie_marks_S7E10.png/revision/latest?cb=20170611153225',
@@ -408,7 +422,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'is the sixteenth episode of season nine '
                                       'of My Little Pony Friendship is Magic '
                                       "and the show's two hundred and twelfth "
-                                      'episode overall.[1] The title is a '
+                                      'episode overall. The title is a '
                                       'reference to the Hasbro board game '
                                       'Trivial Pursuit. In this episode, '
                                       "Twilight's hopes of keeping her Trivia "
@@ -417,6 +431,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'who has never been to a trivia night '
                                       'before.',
                        'episode': '16',
+                       'episode-overall': '212',
                        'release-date': '2011-02-18',
                        'season': '9',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f3/First_round_of_Trivia_Trot_begins_S9E16.png/revision/latest?cb=20190812013958',
@@ -434,6 +449,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'a spell to bottle up her anger until the '
                                    'map is retrieved.',
                     'episode': '2',
+                    'episode-overall': '145',
                     'release-date': '2010-10-22',
                     'season': '7',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fa/Trixie_%22should_have_told_me_all_the_steps%22_S7E2.png/revision/latest?cb=20170417045858',
@@ -448,6 +464,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'friendships from before her move to '
                                     'Ponyville.',
                      'episode': '12',
+                     'episode-overall': '103',
                      'release-date': '2011-01-07',
                      'season': '5',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Twilight%2C_Spike%2C_and_old_friends_gather_around_Moon_Dancer_S5E12.png/revision/latest?cb=20150706133859',
@@ -467,6 +484,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'company, in her haste to put '
                                          'together extravagant activities.',
                           'episode': '8',
+                          'episode-overall': '60',
                           'release-date': '2010-12-03',
                           'season': '3',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/08/Photo_album_0_%28Family_picture%29_S3E8.png/revision/latest?cb=20121223041810',
@@ -482,8 +500,9 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'sleep deprivation cause problems all '
                                      'over Ponyville. Hasbro started packaging '
                                      'a DVD of this episode with certain pony '
-                                     'toys in January 2012.[2]',
+                                     'toys in January 2012.',
                       'episode': '4',
+                      'episode-overall': '4',
                       'release-date': '2010-11-05',
                       'season': '1',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/85/Big_McIntosh_and_Applejack_looking_at_Sweet_Apple_Acres_S01E04.png/revision/latest?cb=20200311194616',
@@ -500,6 +519,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            "and Spike handle Applejack's "
                                            'chores for her.',
                             'episode': '10',
+                            'episode-overall': '127',
                             'release-date': '2010-12-17',
                             'season': '6',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ea/Spike%2C_Twilight%2C_and_Rarity_see_AJ_hanging_from_a_rope_S6E10.png/revision/latest?cb=20160529201206',
@@ -519,6 +539,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             'hopes of earning their cutie '
                                             'marks.',
                              'episode': '6',
+                             'episode-overall': '97',
                              'release-date': '2010-11-19',
                              'season': '5',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/83/The_Crusaders_meet_Trouble_Shoes_S5E6.png/revision/latest?cb=20150504215655',
@@ -531,6 +552,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'and Mrs. Cake, but she finds that the task is '
                                'much harder than she initially expected.',
                 'episode': '13',
+                'episode-overall': '39',
                 'release-date': '2011-01-28',
                 'season': '2',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/83/Pinkie_Pie_as_a_pig_S2E13.png/revision/latest?cb=20130325042948',
@@ -547,24 +569,26 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                           'a pun on the common saying "Rats!" which is said '
                           'when something wrong or unfortunate happens.',
            'episode': '7',
+           'episode-overall': '72',
            'release-date': '2010-11-26',
            'season': '4',
            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/07/Flutterbat_in_the_moonlight_S4E07.png/revision/latest?cb=20131230175435',
            'title': 'Bats!',
-           'writer': 'Merriwether Williams[1]'},
+           'writer': 'Merriwether Williams'},
  'between dark and dawn': {'description': 'Between Dark and Dawn is the '
                                           'thirteenth episode of season nine '
                                           'of My Little Pony Friendship is '
                                           "Magic and the show's two hundred "
-                                          'and ninth episode overall.[1] It '
+                                          'and ninth episode overall. It '
                                           "marks season nine's midseason "
-                                          'finale.[2] In this episode, '
+                                          'finale. In this episode, '
                                           'Celestia and Luna take a '
                                           '"bucket-list" sister vacation while '
                                           'Twilight and her friends struggle '
                                           "to cover the princesses' many royal "
                                           'duties alone.',
                            'episode': '13',
+                           'episode-overall': '209',
                            'release-date': '2011-01-28',
                            'season': '9',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cb/Princess_Luna_%22while_we%27re_gone%22_S9E13.png/revision/latest?cb=20190623212011',
@@ -579,6 +603,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   "Apple Bloom's anxiety over not having her "
                                   'cutie mark turns her life into a nightmare.',
                    'episode': '4',
+                   'episode-overall': '95',
                    'release-date': '2010-11-05',
                    'season': '5',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2d/Apple_Bloom_confronted_by_her_shadow_S5E4.png/revision/latest?cb=20150420202246',
@@ -594,6 +619,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'play on the title of the Ghostbusters '
                                   'franchise.',
                    'episode': '6',
+                   'episode-overall': '6',
                    'release-date': '2010-11-19',
                    'season': '1',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/ab/Trixie%27s_flashy_stage_S1E06.png/revision/latest?cb=20121009174325',
@@ -607,6 +633,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'Forest. The title of the episode is a play '
                                   'on the phrase "idle gossip".',
                    'episode': '9',
+                   'episode-overall': '9',
                    'release-date': '2010-12-10',
                    'season': '1',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/ff/Zecora_S01E09.png/revision/latest?cb=20130103054500',
@@ -623,6 +650,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'sister for the Sisterhooves Social '
                                          'while Applejack is out of town.',
                           'episode': '17',
+                          'episode-overall': '108',
                           'release-date': '2011-02-25',
                           'season': '5',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f6/Apple_Bloom_and_Orchard_Blossom_%22somethin%27_that%27s_quite_unique%22_S5E17.png/revision/latest?cb=20151005150437',
@@ -638,6 +666,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'Fluttershy and Pinkie Pie for an upcoming '
                                     'buckball game against Appleloosa.',
                      'episode': '18',
+                     'episode-overall': '135',
                      'release-date': '2011-03-04',
                      'season': '6',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e0/Applejack_on_buckball_field_explaining_buckball_to_the_unicorns_S6E18.png/revision/latest?cb=20160904102857',
@@ -654,6 +683,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'Belle, and they form the Cutie Mark '
                                       'Crusaders.',
                        'episode': '12',
+                       'episode-overall': '12',
                        'release-date': '2011-01-07',
                        'season': '1',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b3/Apple_Bloom%27s_blank_flank_is_revealed_S1E12.png/revision/latest?cb=20130106090036',
@@ -668,6 +698,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'about their favorite legends after their '
                                    'camping trip is ruined by Fly-ders.',
                     'episode': '16',
+                    'episode-overall': '159',
                     'release-date': '2011-02-18',
                     'season': '7',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d1/Big_sisters_and_little_sisters_around_the_campfire_S7E16.png/revision/latest?cb=20170827173550',
@@ -682,6 +713,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'true, but it comes at a price she '
                                        "isn't sure she's willing to pay.",
                         'episode': '14',
+                        'episode-overall': '105',
                         'release-date': '2011-02-04',
                         'season': '5',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0c/Crowd_cheering_S5E14.png/revision/latest?cb=20150915120107',
@@ -696,8 +728,9 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'friends in Princess Celestia and Princess '
                                    "Luna's old castle. The title of the "
                                    'episode is an allusion to Castlevania, a '
-                                   'Konami series of video games.[2]',
+                                   'Konami series of video games.',
                     'episode': '3',
+                    'episode-overall': '68',
                     'release-date': '2010-10-29',
                     'season': '4',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/74/Castle_of_the_Two_Sisters_at_nighttime_S4E03.png/revision/latest?cb=20131202170325',
@@ -713,6 +746,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'castle, her friends try to make it '
                                         'feel more like home.',
                          'episode': '3',
+                         'episode-overall': '94',
                          'release-date': '2010-10-29',
                          'season': '5',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bc/Twilight_beholds_the_throne_room_chandelier_S5E3.png/revision/latest?cb=20150414011729',
@@ -728,6 +762,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      "Glimmer's future and seeks advice from "
                                      'Princess Celestia.',
                       'episode': '1',
+                      'episode-overall': '144',
                       'release-date': '2010-10-10',
                       'season': '7',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a3/Starlight_Glimmer_surrounded_by_friends_S7E1.png/revision/latest?cb=20170416203925',
@@ -736,12 +771,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'common ground': {'description': 'Common Ground is the sixth episode of '
                                   'season nine of My Little Pony Friendship is '
                                   "Magic and the show's two hundred and second "
-                                  'episode overall.[1] In this episode, '
+                                  'episode overall. In this episode, '
                                   'Quibble Pants asks Rainbow Dash for help to '
                                   'bond with the daughter of his new special '
                                   "somepony because, like Dash, she's a real "
                                   'sports pony.',
                    'episode': '6',
+                   'episode-overall': '202',
                    'release-date': '2010-11-19',
                    'season': '9',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cf/RD%2C_Fluttershy%2C_Pinkie%2C_and_Quibble_on_the_buckball_field_S9E6.png/revision/latest?cb=20190506202208',
@@ -767,6 +803,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                'musical episode after Magical '
                                                'Mystery Cure and Pinkie Pride.',
                                 'episode': '18',
+                                'episode-overall': '109',
                                 'release-date': '2011-03-04',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0a/Crusaders%27_cutie_marks_side-by-side_shot_S5E18.png/revision/latest?cb=20151012093517',
@@ -781,6 +818,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'her friends to make a shocking discovery '
                                  "about the series' author.",
                   'episode': '4',
+                  'episode-overall': '69',
                   'release-date': '2010-11-05',
                   'season': '4',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/03/Rainbow_Dash_holding_Daring_Do_book_S04E04.png/revision/latest?cb=20131209110103',
@@ -793,6 +831,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'Pinkie Pie go on a mission to find out if A. '
                                  'K. Yearling is retiring from writing books.',
                   'episode': '18',
+                  'episode-overall': '161',
                   'release-date': '2011-03-04',
                   'season': '7',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8d/Rainbow_Dash_holding_a_newspaper_article_of_A._K._Yearling_S7E18.png/revision/latest?cb=20170910104735',
@@ -801,12 +840,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'daring doubt': {'description': 'Daring Doubt is the twenty-first episode of '
                                  'season nine of My Little Pony Friendship is '
                                  "Magic and the show's two hundred and "
-                                 'seventeenth episode overall.[1] When another '
+                                 'seventeenth episode overall. When another '
                                  'author releases his own version of the '
                                  "events in A. K. Yearling's Daring Do books, "
                                  'Rainbow Dash is furious, while Fluttershy is '
                                  'curious to know the truth.',
                   'episode': '21',
+                  'episode-overall': '217',
                   'release-date': '2011-03-25',
                   'season': '9',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/ac/Daring_Do_and_the_Fallen_Idol_cover_S9E21.png/revision/latest?cb=20190923140520',
@@ -822,6 +862,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'there and begins to change it—and '
                                        'himself.',
                         'episode': '12',
+                        'episode-overall': '155',
                         'release-date': '2011-01-07',
                         'season': '7',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/59/Fluttershy_and_Discord%27s_%22normal%22_tea_party_S7E12.png/revision/latest?cb=20170806182552',
@@ -851,6 +892,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                         'that turns dreams '
                                                         'into nightmares.',
                                          'episode': '13',
+                                         'episode-overall': '104',
                                          'release-date': '2011-01-28',
                                          'season': '5',
                                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b8/Princess_Luna_exerts_her_dream_magic_further_S5E13.png/revision/latest?cb=20150713181012',
@@ -861,13 +903,14 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'dragon dropped': {'description': 'Dragon Dropped is the nineteenth episode '
                                    'of season nine of My Little Pony '
                                    "Friendship is Magic and the show's two "
-                                   'hundred and fifteenth episode overall.[1] '
+                                   'hundred and fifteenth episode overall. '
                                    'The title is a play on the computing '
                                    'expression "drag and drop". In this '
                                    "episode, Rarity worries she's done "
                                    'something to upset Spike when he stops '
                                    'making time for her.',
                     'episode': '19',
+                    'episode-overall': '215',
                     'release-date': '2011-03-11',
                     'season': '9',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/05/Rarity_looking_at_Spike_and_Gabby_hanging_out_at_Ponyville_Cafe_S9E19.png/revision/latest?cb=20190910225835',
@@ -880,6 +923,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'decides to join the Great Dragon Migration '
                                  'to discover his true identity.',
                   'episode': '21',
+                  'episode-overall': '47',
                   'release-date': '2011-03-25',
                   'season': '2',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/7c/Spike_looking_at_dragons_S2E21.png/revision/latest?cb=20121120132602',
@@ -894,13 +938,14 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               "The episode's title is a portmanteau of Dragon "
                               'and Fluttershy.',
                'episode': '7',
+               'episode-overall': '7',
                'release-date': '2010-11-26',
                'season': '1',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/51/Fluttershy_notices_the_smoke_S01E07.png/revision/latest?cb=20130103050304',
                'title': 'Dragonshy',
                'writer': 'Meghan McCarthy'},
  'dungeons & discords': {'description': 'Dungeons & Discords, also called '
-                                        'Dungeons and Discords,[1] is the '
+                                        'Dungeons and Discords, is the '
                                         'seventeenth episode of season six of '
                                         'My Little Pony Friendship is Magic '
                                         'and the one hundred and thirty-fourth '
@@ -908,7 +953,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         "Hasbro's Wizards of the Coast "
                                         'tabletop role-playing game Dungeons & '
                                         'Dragons, which has been partnered '
-                                        'with through merchandise[2][3] and '
+                                        'with through merchandise and '
                                         'has had two in-universe '
                                         'counterparts—Oubliettes & Ogres and '
                                         'Dragons & Dragons—introduced in the '
@@ -917,6 +962,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'McIntosh\'s top-secret "Guys\' Night" '
                                         'of fantasy role-playing.',
                          'episode': '17',
+                         'episode-overall': '134',
                          'release-date': '2011-02-25',
                          'season': '6',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3b/Discord%2C_Spike%2C_Big_Mac%2C_RD%2C_and_Pinkie_jump_into_action_S6E17.png/revision/latest?cb=20160828170908',
@@ -930,6 +976,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'him when he is put in charge of lighting '
                                     'the Equestria Games torch.',
                      'episode': '24',
+                     'episode-overall': '89',
                      'release-date': '2011-04-22',
                      'season': '4',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d8/Spike_in_the_spotlight_S4E24.png/revision/latest?cb=20140505081950',
@@ -952,12 +999,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'taking on multiple friendship '
                                                 'problems at once.',
                                  'episode': '21',
+                                 'episode-overall': '138',
                                  'release-date': '2011-03-25',
                                  'season': '6',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/04/Starlight_gives_orders_to_the_main_five_S6E21.png/revision/latest?cb=20160925132046',
                                  'title': 'Every Little Thing She Does',
                                  'writer': 'Michael Vogel'},
- "fake it 'til you make it": {'description': "Fake It 'Til You Make It[note 1] "
+ "fake it 'til you make it": {'description': "Fake It 'Til You Make It "
                                              'is the fourth episode of season '
                                              'eight of My Little Pony '
                                              'Friendship is Magic and the one '
@@ -968,6 +1016,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              'of characters to cope with the '
                                              'intimidating clientele.',
                               'episode': '4',
+                              'episode-overall': '173',
                               'release-date': '2010-11-05',
                               'season': '8',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e6/Fluttershy_%22I%27ve_taken_care_of_your_rodent_situation%22_S8E4.png/revision/latest?cb=20180408231153',
@@ -987,6 +1036,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'weather is fair) and will abandon '
                                          'their friends during bad times.',
                           'episode': '13',
+                          'episode-overall': '13',
                           'release-date': '2011-01-28',
                           'season': '1',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3a/Applejack_%26_Rainbow_brohoof_S1E13.png/revision/latest?cb=20120310072234',
@@ -1002,6 +1052,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'ponies start to argue over who wrote '
                                         'the best lessons.',
                          'episode': '14',
+                         'episode-overall': '157',
                          'release-date': '2011-02-04',
                          'season': '7',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6a/Twilight_getting_lots_of_autograph_requests_S7E14.png/revision/latest?cb=20170813211154',
@@ -1020,6 +1071,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             'the main characters appears, '
                                             'namely Applejack.',
                              'episode': '12',
+                             'episode-overall': '38',
                              'release-date': '2011-01-07',
                              'season': '2',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9b/Granny_Smith_Apple_Bloom_hug_S2E12.png/revision/latest?cb=20120110160842',
@@ -1038,6 +1090,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'anything for his "dad" to learn how to '
                                        'be a "real" dragon.',
                         'episode': '24',
+                        'episode-overall': '193',
                         'release-date': '2011-04-22',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0f/Sludge_%22I_was_looking_for_you%22_S8E24.png/revision/latest?cb=20181008005716',
@@ -1055,6 +1108,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'keen," which refers to one feeling '
                                         'upbeat and generally happy.',
                          'episode': '15',
+                         'episode-overall': '15',
                          'release-date': '2011-02-11',
                          'season': '1',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f7/Pinkie_vibrating_S01E15.png/revision/latest?cb=20200313050645',
@@ -1073,6 +1127,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'their concerts, but also using other '
                                   'singers for their music releases.',
                    'episode': '14',
+                   'episode-overall': '79',
                    'release-date': '2011-02-04',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/69/Fluttershy_and_Ponytones_big_finish_S4E14.png/revision/latest?cb=20140217173629',
@@ -1091,6 +1146,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'and Silver Spoon, Scootaloo wants to '
                                          'do more than just carry a flag.',
                           'episode': '5',
+                          'episode-overall': '70',
                           'release-date': '2010-11-12',
                           'season': '4',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/ff/Diamond_Tiara_%27...isn%27t_getting_off_the_ground_either%27_S4E05.png/revision/latest?cb=20131216122844',
@@ -1105,6 +1161,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     "out of their parents' house, causing him "
                                     'to move in with her instead.',
                      'episode': '11',
+                     'episode-overall': '128',
                      'release-date': '2010-12-24',
                      'season': '6',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/04/Fluttershy_looks_at_Zephyr_Breeze_in_shock_S6E11.png/revision/latest?cb=20160605123834',
@@ -1119,6 +1176,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'realize her dream of building an '
                                         'animal sanctuary.',
                          'episode': '5',
+                         'episode-overall': '148',
                          'release-date': '2010-11-12',
                          'season': '7',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/1d/Fluttershy_explains_her_vision_to_the_experts_S7E5.png/revision/latest?cb=20170507134119',
@@ -1149,6 +1207,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                      'Hemingway novel For Whom '
                                                      'the Bell Tolls.',
                                       'episode': '19',
+                                      'episode-overall': '84',
                                       'release-date': '2011-03-11',
                                       'season': '4',
                                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8c/Sweetie_sees_Rarity-cloud_laughing_maniacally_S4E19.png/revision/latest?cb=20140324164637',
@@ -1168,6 +1227,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'Scootaloo attempt to help Zipporwhill '
                                   'reconnect with her pet dog Ripley.',
                    'episode': '6',
+                   'episode-overall': '149',
                    'release-date': '2010-11-19',
                    'season': '7',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bc/Rarity_and_Sweetie_Belle_dressed_as_butterfly_and_caterpillar_S7E6.png/revision/latest?cb=20170515155053',
@@ -1176,12 +1236,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'frenemies': {'description': 'Frenemies is the eighth episode of season nine '
                               'of My Little Pony Friendship is Magic and the '
                               "show's two hundred and fourth episode "
-                              'overall.[1] The title is a common portmanteau '
+                              'overall. The title is a common portmanteau '
                               'of the words "friends" and "enemies". Grogar '
                               'deploys his legion of doom on a mission to '
                               'become allies, but his plan works too well, and '
                               'they almost become friends.',
                'episode': '8',
+               'episode-overall': '204',
                'release-date': '2010-12-03',
                'season': '9',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Tirek%2C_Cozy%2C_and_Chrysalis_teaming_up_S9E8.png/revision/latest?cb=20190519124807',
@@ -1214,6 +1275,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'Moon from her thousand-year '
                                                 'banishment.',
                                  'episode': '1',
+                                 'episode-overall': '1',
                                  'release-date': '2010-10-10',
                                  'season': '1',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9f/Twilight_looks_up_at_the_moon_S1E01.png/revision/latest?cb=20121209043547',
@@ -1225,7 +1287,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'Magic. The episode is '
                                                 'referred to as Elements of '
                                                 "Harmony on Hasbro's viewing "
-                                                'guide,[2] and The Magic of '
+                                                'guide, and The Magic of '
                                                 'Friendship, part 2 in The '
                                                 'Elements of Harmony '
                                                 'guidebook. It is the second '
@@ -1239,6 +1301,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'Moon from taking over '
                                                 'Equestria.',
                                  'episode': '2',
+                                 'episode-overall': '2',
                                  'release-date': '2010-10-22',
                                  'season': '1',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2c/Main_ponies_activated_the_Elements_of_Harmony_S01E02.png/revision/latest?cb=20111205172131',
@@ -1257,6 +1320,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'Star Swirl the Bearded, is enrolled '
                                           'at the school.',
                            'episode': '16',
+                           'episode-overall': '185',
                            'release-date': '2011-02-18',
                            'season': '8',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/5b/Flim_and_Flam_introducing_Friendship_U_S8E16.png/revision/latest?cb=20180812194327',
@@ -1282,6 +1346,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'and the latter focusing on Spike taking '
                                       "care of the main cast's pets.",
                        'episode': '12',
+                       'episode-overall': '64',
                        'release-date': '2011-01-07',
                        'season': '3',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/99/Peachbottom_shakes_hooves_with_Twilight_S03E12.png/revision/latest?cb=20130210125049',
@@ -1295,6 +1360,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'for the title of Dragon Lord in order to '
                                      'protect his friends.',
                       'episode': '5',
+                      'episode-overall': '122',
                       'release-date': '2010-11-12',
                       'season': '6',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/13/Spike_holds_the_bloodstone_scepter_S6E5.png/revision/latest?cb=20160417130811',
@@ -1303,12 +1369,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'going to seed': {'description': 'Going to Seed is the tenth episode of '
                                   'season nine of My Little Pony Friendship is '
                                   "Magic and the show's two hundred and sixth "
-                                  'episode overall.[1] In this episode, '
+                                  'episode overall. In this episode, '
                                   "Applejack's plans for an orderly harvest go "
                                   'awry when Apple Bloom becomes obsessed with '
                                   'catching a magical creature she thinks can '
                                   'help them.',
                    'episode': '10',
+                   'episode-overall': '206',
                    'release-date': '2010-12-17',
                    'season': '9',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b8/Applejack_%26_Apple_Bloom_look_at_strange_patterns_made_of_apples_S9E10.png/revision/latest?cb=20190602190505',
@@ -1327,6 +1394,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'ride the best rollercoaster ever '
                                        'before it closes.',
                         'episode': '5',
+                        'episode-overall': '174',
                         'release-date': '2010-11-12',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Rainbow_Dash_watches_the_grannies_stretch_S8E5.png/revision/latest?cb=20180415193624',
@@ -1348,6 +1416,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'disappoint Rarity after she has '
                                            'encouraged Fluttershy so heavily.',
                             'episode': '20',
+                            'episode-overall': '20',
                             'release-date': '2011-03-18',
                             'season': '1',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Fluttershy_photoshoot_2_S1E20.png/revision/latest?cb=20130711192135',
@@ -1366,6 +1435,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'brush-off", which is an abrupt and '
                                           'rude dismissal.',
                            'episode': '5',
+                           'episode-overall': '5',
                            'release-date': '2010-11-12',
                            'season': '1',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/57/Gilda_pointing_at_Pinkie_S1E5.png/revision/latest?cb=20130106052926',
@@ -1376,7 +1446,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              'nine of My Little Pony '
                                              'Friendship is Magic and the '
                                              "show's two hundred and "
-                                             'eighteenth episode overall.[1] '
+                                             'eighteenth episode overall. '
                                              'The title is a reference to the '
                                              'Neil Sedaka song "Breaking Up Is '
                                              'Hard to Do". In this episode, '
@@ -1388,6 +1458,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              "wisdom that simply can't be "
                                              'rushed.',
                               'episode': '22',
+                              'episode-overall': '218',
                               'release-date': '2011-04-08',
                               'season': '9',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a5/Cutie_Mark_Crusaders_turned_into_adults_S9E22.png/revision/latest?cb=20191001011401',
@@ -1408,6 +1479,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'heart before rivaling stallion '
                                          'Feather Bangs does.',
                           'episode': '8',
+                          'episode-overall': '151',
                           'release-date': '2010-12-03',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/49/Feather_Bangs_giving_roses_to_Sugar_Belle_S7E8.png/revision/latest?cb=20170528143551',
@@ -1421,6 +1493,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'Spike put on a play in Canterlot '
                                          'about the founding of Equestria.',
                           'episode': '11',
+                          'episode-overall': '37',
                           'release-date': '2010-12-24',
                           'season': '2',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3f/Commander_Hurricane%2C_Chancellor_Puddinghead_and_Princess_Platinum_arguing_S02E11.png/revision/latest?cb=20111219045243',
@@ -1434,6 +1507,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'Acres witnesses a different kind of '
                                    "Hearth's Warming Eve with the Pie family.",
                     'episode': '20',
+                    'episode-overall': '111',
                     'release-date': '2011-03-18',
                     'season': '5',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/52/The_Apple_family_and_the_Pie_family_meet_S5E20.png/revision/latest?cb=20151026164303',
@@ -1450,6 +1524,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'her former penchant of mocking it '
                                           'as an "egghead" pursuit.',
                            'episode': '17',
+                           'episode-overall': '43',
                            'release-date': '2011-02-25',
                            'season': '2',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/96/Cheerilee_and_Big_Mac_with_CMC_picnic_S02E17.png/revision/latest?cb=20120211163806',
@@ -1457,12 +1532,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                            'writer': 'Meghan McCarthy'},
  'honest apple': {'description': 'Honest Apple is the ninth episode of season '
                                  'seven of My Little Pony Friendship is '
-                                 'Magic[1][2] and the one hundred and '
+                                 'Magic and the one hundred and '
                                  'fifty-second overall. When Rarity asks '
                                  'Applejack to be a judge in a fashion show, '
                                  'Applejack learns that an opinion, however '
                                  'honest, can still be hurtful.',
                   'episode': '9',
+                  'episode-overall': '152',
                   'release-date': '2010-12-10',
                   'season': '7',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/77/Everypony_getting_frustrated_at_Applejack_S7E9.png/revision/latest?cb=20170604170909',
@@ -1477,6 +1553,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'her stage play, only to discover that '
                                "Celestia's talents lie elsewhere.",
                 'episode': '7',
+                'episode-overall': '176',
                 'release-date': '2010-11-26',
                 'season': '8',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3f/Celestia_looking_embarrassed_at_Young_Six_S8E7.png/revision/latest?cb=20180429163744',
@@ -1494,6 +1571,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'lift the water required for the '
                                          'rainy season up to Cloudsdale.',
                           'episode': '22',
+                          'episode-overall': '48',
                           'release-date': '2011-04-08',
                           'season': '2',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e0/Fluttershy_flying_to_the_sun_S2E22.png/revision/latest?cb=20120429232942',
@@ -1508,6 +1586,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                               "mojo, it's up to Spike to get "
                                               'it back.',
                                'episode': '23',
+                               'episode-overall': '88',
                                'release-date': '2011-04-15',
                                'season': '4',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/ba/Rarity%27s_eyes_turn_green_S4E23.png/revision/latest?cb=20140428141243',
@@ -1527,6 +1606,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                  "Cheetos slogan It ain't easy "
                                                  'being cheesy.',
                                   'episode': '16',
+                                  'episode-overall': '81',
                                   'release-date': '2011-02-18',
                                   'season': '4',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Fluttershy_%22loved_having_you_here%22_S4E16.png/revision/latest?cb=20140303214923',
@@ -1549,6 +1629,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       'mane in time for an '
                                                       'upcoming photo shoot.',
                                        'episode': '19',
+                                       'episode-overall': '162',
                                        'release-date': '2011-03-11',
                                        'season': '7',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/80/Rarity_sees_her_ruined_mane_in_the_mirror_S7E19.png/revision/latest?cb=20170917200737',
@@ -1564,6 +1645,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'attempt to avoid an unspecified upcoming '
                                     'catastrophic disaster.',
                      'episode': '20',
+                     'episode-overall': '46',
                      'release-date': '2011-03-18',
                      'season': '2',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3a/Twilight_talks_with_Twilight_S2E20.png/revision/latest?cb=20130123081125',
@@ -1589,6 +1671,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'friends welcoming the Equestria Games '
                                        'inspector to the Crystal Empire.',
                         'episode': '11',
+                        'episode-overall': '63',
                         'release-date': '2010-12-24',
                         'season': '3',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0b/Spike_and_the_pets_S3E11.png/revision/latest?cb=20130127104317',
@@ -1611,6 +1694,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              'has also been alluded to by '
                                              'licensed merchandise.',
                               'episode': '10',
+                              'episode-overall': '62',
                               'release-date': '2010-12-17',
                               'season': '3',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a3/Discord_sweet_talks_Fluttershy_S03E10.png/revision/latest?cb=20131208083107',
@@ -1628,6 +1712,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'an idea or conclusion largely on personal '
                                   'belief.',
                    'episode': '20',
+                   'episode-overall': '85',
                    'release-date': '2011-03-18',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f5/Flim_and_Flam_next_to_Apple_Bloom_and_Granny_S4E20.png/revision/latest?cb=20140331170603',
@@ -1643,6 +1728,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'decides that her only option is to create a '
                                 'friendship problem herself.',
                  'episode': '3',
+                 'episode-overall': '29',
                  'release-date': '2010-10-29',
                  'season': '2',
                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/69/Clock_is_ticking_S02E03.png/revision/latest?cb=20120102050001',
@@ -1662,6 +1748,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'you leap, meaning acting only after '
                                           'careful planning.',
                            'episode': '8',
+                           'episode-overall': '8',
                            'release-date': '2010-12-03',
                            'season': '1',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/ce/Rarity%2C_Applejack_and_Twilight_makeovers_S01E08.png/revision/latest?cb=20200313112345',
@@ -1682,6 +1769,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'change her frightening demeanor and become '
                                   'accepted by the other ponies.',
                    'episode': '4',
+                   'episode-overall': '30',
                    'release-date': '2010-11-05',
                    'season': '2',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c2/Twilight_and_Luna_S2E04.png/revision/latest?cb=20120908103033',
@@ -1698,6 +1786,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'Manehattan to help Coco Pommel on a '
                                        'big project.',
                         'episode': '16',
+                        'episode-overall': '107',
                         'release-date': '2011-02-18',
                         'season': '5',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/05/Applejack_on_stage_talking_to_the_audience_S5E16.png/revision/latest?cb=20150928231943',
@@ -1710,6 +1799,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'revenge and defeats Twilight Sparkle in a '
                                'magic duel, banishing her from the town.',
                 'episode': '5',
+                'episode-overall': '57',
                 'release-date': '2010-11-12',
                 'season': '3',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fc/A_magic_duel_at_Town_Square_S3E5.png/revision/latest?cb=20200311140349',
@@ -1725,7 +1815,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'Twilight Sparkle as an Alicorn and '
                                          'the last episode to take place '
                                          'before the spin-off film My Little '
-                                         'Pony Equestria Girls.[3] In this '
+                                         'Pony Equestria Girls. In this '
                                          'episode, Twilight Sparkle '
                                          "accidentally switches her friends' "
                                          'destinies and tries to fix them. By '
@@ -1738,6 +1828,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'far, breaking the previous record of '
                                          'four set by A Friend in Deed.',
                           'episode': '13',
+                          'episode-overall': '65',
                           'release-date': '2011-01-28',
                           'season': '3',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e8/The_Main_5_singing_S3E13.png/revision/latest?cb=20200314040411',
@@ -1766,6 +1857,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       "prove that he isn't "
                                                       'jealous.',
                                        'episode': '7',
+                                       'episode-overall': '98',
                                        'release-date': '2010-11-26',
                                        'season': '5',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/33/Discord_drops_the_Smooze_onto_Fluttershy%27s_table_S5E7.png/revision/latest?cb=20150518180328',
@@ -1787,6 +1879,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          "of their campers doesn't want a "
                                          'cutie mark.',
                           'episode': '21',
+                          'episode-overall': '164',
                           'release-date': '2011-03-25',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bd/Cutie_Mark_Crusaders_welcoming_their_campers_S7E21.png/revision/latest?cb=20171001192445',
@@ -1802,6 +1895,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      "though it's clear they've already "
                                      'mastered the curriculum.',
                       'episode': '12',
+                      'episode-overall': '181',
                       'release-date': '2011-01-07',
                       'season': '8',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/de/Crusaders_cheering_for_Cozy_Glow_S8E12.png/revision/latest?cb=20180604014523',
@@ -1815,6 +1909,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        "Pie's older sister, but they have "
                                        'trouble becoming friends with her.',
                         'episode': '18',
+                        'episode-overall': '83',
                         'release-date': '2011-03-04',
                         'season': '4',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d4/Maud_Pie_with_Gummy_biting_on_her_tail_S4E18.png/revision/latest?cb=20140317100733',
@@ -1834,6 +1929,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           "realizing that she's the only one "
                                           'of her friends without one.',
                            'episode': '7',
+                           'episode-overall': '33',
                            'release-date': '2010-11-26',
                            'season': '2',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/eb/Rainbow_Dash%27s_Speech_S2E7.png/revision/latest?cb=20120810042146',
@@ -1862,6 +1958,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                         'Express, written by '
                                                         'Agatha Christie.',
                                          'episode': '24',
+                                         'episode-overall': '50',
                                          'release-date': '2011-04-22',
                                          'season': '2',
                                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/70/Pinkie_with_the_line_of_passengers_S2E24.png/revision/latest?cb=20121221083438',
@@ -1877,6 +1974,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               "Smolder, its side effects compel a molter's "
                               'family to kick them out of the house.',
                'episode': '11',
+               'episode-overall': '180',
                'release-date': '2010-12-24',
                'season': '8',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b8/Spike_looking_at_his_mirror_reflection_S8E11.png/revision/latest?cb=20180527144655',
@@ -1889,6 +1987,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'impression after joining the Wonderbolts, she '
                                 'is saddled with a mortifying nickname.',
                  'episode': '7',
+                 'episode-overall': '124',
                  'release-date': '2010-11-26',
                  'season': '6',
                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/00/Rainbow_Dash%27s_dream_made_real_S6E7.png/revision/latest?cb=20160509020119',
@@ -1903,6 +2002,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'becomes friends with Trixie, Twilight '
                                       'Sparkle disapproves.',
                        'episode': '6',
+                       'episode-overall': '123',
                        'release-date': '2010-11-19',
                        'season': '6',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2b/Trixie_and_Starlight_look_at_an_angry_Twilight_S6E6.png/revision/latest?cb=20160501154804',
@@ -1920,6 +2020,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'accidentally show the students how to '
                                        'not work together.',
                         'episode': '9',
+                        'episode-overall': '178',
                         'release-date': '2010-12-10',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/42/Rainbow_Dash_leading_while_the_Young_Six_row_S8E9.png/revision/latest?cb=20180513184048',
@@ -1931,12 +2032,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'Magic and the one hundred and '
                                            'fifty-fourth overall. It marks '
                                            "season seven's midseason "
-                                           'finale.[1] In this episode, an '
+                                           'finale. In this episode, an '
                                            'avalanche falls on Yakyakistan, '
                                            'and Pinkie Pie tries to convince '
                                            'Prince Rutherford and the proud '
                                            'yaks to ask the ponies for help.',
                             'episode': '11',
+                            'episode-overall': '154',
                             'release-date': '2010-12-24',
                             'season': '7',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/eb/Pinkie%2C_Rutherford%2C_and_yaks_covered_in_snow_S7E11.png/revision/latest?cb=20170618140106',
@@ -1952,18 +2054,20 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   "question of what's next after receiving "
                                   'their cutie marks.',
                    'episode': '4',
+                   'episode-overall': '121',
                    'release-date': '2010-11-05',
                    'season': '6',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/65/CMC_with_papers_showing_what_they_could_do_crossed_out_S6E4.png/revision/latest?cb=20160410172255',
                    'title': 'On Your Marks',
                    'writer': 'Dave Polsky'},
  'once upon a zeppelin': {'description': 'Iron WillStar Tracker Once Upon a '
-                                         'Zeppelin[note 1] is the '
+                                         'Zeppelin is the '
                                          'twenty-second episode of season '
                                          'seven of My Little Pony Friendship '
                                          'is Magic and the one hundred and '
                                          'sixty-fifth overall.',
                           'episode': '22',
+                          'episode-overall': '165',
                           'release-date': '2011-04-08',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b0/Zeppelin_at_the_Canterlot_air_docks_S7E22.png/revision/latest?cb=20171008134147',
@@ -1982,6 +2086,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'Babs decides to join Diamond Tiara and '
                                   'Silver Spoon instead.',
                    'episode': '4',
+                   'episode-overall': '56',
                    'release-date': '2010-11-05',
                    'season': '3',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/92/CMC_running_from_Babs_S3E4.png/revision/latest?cb=20121128083644',
@@ -1997,6 +2102,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   "western town's settler-ponies and the "
                                   'native buffalo herd.',
                    'episode': '21',
+                   'episode-overall': '21',
                    'release-date': '2011-03-25',
                    'season': '1',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/67/Appleloosa_Preparing_For_Battle_S1E21.png/revision/latest?cb=20200311194311',
@@ -2014,6 +2120,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                               'her second personal assistant, '
                                               'to the displeasure of Spike.',
                                'episode': '24',
+                               'episode-overall': '24',
                                'release-date': '2011-04-22',
                                'season': '1',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6a/Spike_%27Got_it%21%27_S1E24.png/revision/latest?cb=20130104084345',
@@ -2035,6 +2142,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                   'different versions of the '
                                                   "trip's events.",
                                    'episode': '22',
+                                   'episode-overall': '139',
                                    'release-date': '2011-04-08',
                                    'season': '6',
                                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fe/Splitscreen_of_AJ%2C_Rarity%2C_and_Pinkie_looking_at_each_other_S6E22.png/revision/latest?cb=20161002094831',
@@ -2053,6 +2161,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'enthusiasm embarrasses Rainbow and '
                                        'pushes her to the brink.',
                         'episode': '7',
+                        'episode-overall': '150',
                         'release-date': '2010-11-26',
                         'season': '7',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e1/Rainbow_Dash%27s_parents_start_smothering_her_S7E7.png/revision/latest?cb=20170521095545',
@@ -2064,6 +2173,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'Pie investigates her friends’ excuses for '
                                  'not attending one of her parties.',
                   'episode': '25',
+                  'episode-overall': '25',
                   'release-date': '2011-04-29',
                   'season': '1',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Pinkie_Pie_surrounded_by_darkness_under_a_cone_of_light_S01E25.png/revision/latest?cb=20130102101302',
@@ -2077,12 +2187,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  "on a journey to the yaks' homeland to save "
                                  "Equestria's relations with them.",
                   'episode': '11',
+                  'episode-overall': '102',
                   'release-date': '2010-12-24',
                   'season': '5',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cf/Pinkie_%22And_so_my_quest_begins%22_S5E11.png/revision/latest?cb=20150629140957',
                   'title': 'Party Pooped',
                   'writer': 'Jayson Thiessen & Jim Miller'},
- 'pinkie apple pie': {'description': 'Pinkie Apple Pie[3] (misspelled as Pinky '
+ 'pinkie apple pie': {'description': 'Pinkie Apple Pie (misspelled as Pinky '
                                      'Apple Pie in the opening credits, but '
                                      'fixed for Netflix) is the ninth episode '
                                      'of season four of My Little Pony '
@@ -2093,6 +2204,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'Smith on a trip to find out whether or '
                                      "not she is Applejack's cousin.",
                       'episode': '9',
+                      'episode-overall': '74',
                       'release-date': '2010-12-10',
                       'season': '4',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2e/Pinkie_Pie_hugging_all_of_the_Apples_S4E09.png/revision/latest?cb=20140113103248',
@@ -2109,6 +2221,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'second musical episode, after the season '
                                  'three finale, with six songs.',
                   'episode': '12',
+                  'episode-overall': '77',
                   'release-date': '2011-01-07',
                   'season': '4',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9f/Pinkie_Pie_and_Cheese_Sandwich_looking_at_each_other_angrily_S4E12.png/revision/latest?cb=20140203175023',
@@ -2127,12 +2240,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'required for the rainy season up '
                                            'to Cloudsdale.',
                             'episode': '23',
+                            'episode-overall': '49',
                             'release-date': '2011-04-15',
                             'season': '2',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/cc/CMC_meeting_with_Diamond_Tiara_S2E23.png/revision/latest?cb=20121226122752',
                             'title': 'Ponyville Confidential',
                             'writer': 'M. A. Larson'},
- 'power ponies': {'description': 'Power Ponies[note 1] is the sixth episode of '
+ 'power ponies': {'description': 'Power Ponies is the sixth episode of '
                                  'the fourth season of My Little Pony '
                                  'Friendship is Magic and the seventy-first '
                                  'episode overall. In this episode, Spike and '
@@ -2140,6 +2254,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'world and must defeat a maniacal '
                                  'supervillain in order to escape.',
                   'episode': '6',
+                  'episode-overall': '71',
                   'release-date': '2010-11-19',
                   'season': '4',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/75/Power_Ponies_the_day_is_saved_S4E06.png/revision/latest?cb=20131223123619',
@@ -2153,6 +2268,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'go haywire when Spike starts making '
                                    "decisions under Princess Twilight's name.",
                     'episode': '10',
+                    'episode-overall': '101',
                     'release-date': '2010-12-17',
                     'season': '5',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/60/Spike_facing_an_angry_mob_of_delegates_S5E10.png/revision/latest?cb=20150622211011',
@@ -2170,7 +2286,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                        'take place after the '
                                                        'spin-off film My '
                                                        'Little Pony Equestria '
-                                                       'Girls.[2][3][4] It is '
+                                                       'Girls. It is '
                                                        'the first half of a '
                                                        'two-part episode. In '
                                                        'this episode, Princess '
@@ -2185,6 +2301,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                        'the Everfree Forest '
                                                        'invades Ponyville.',
                                         'episode': '1',
+                                        'episode-overall': '66',
                                         'release-date': '2010-10-10',
                                         'season': '4',
                                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a1/Twilight_in_stained_glass_S4E01.png/revision/latest?cb=20131125152812',
@@ -2212,6 +2329,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                        "Everfree Forest's "
                                                        'invasion.',
                                         'episode': '2',
+                                        'episode-overall': '67',
                                         'release-date': '2010-10-22',
                                         'season': '4',
                                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a9/Twilight_looking_at_Celestia_and_Luna_with_the_Elements_of_Harmony_S4E02.png/revision/latest?cb=20131125132842',
@@ -2232,6 +2350,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'threatening to end her friendship '
                                            'with Pinkie Pie and Rarity.',
                             'episode': '19',
+                            'episode-overall': '45',
                             'release-date': '2011-03-11',
                             'season': '2',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/80/Scared_Fluttershy_2_S2E19.png/revision/latest?cb=20120313075148',
@@ -2245,6 +2364,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'and the Cloudsdale team for the Equestria '
                                   'Games.',
                    'episode': '10',
+                   'episode-overall': '75',
                    'release-date': '2010-12-17',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/56/Rainbow_Falls_S4E10.png/revision/latest?cb=20140120132239',
@@ -2259,6 +2379,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'prove Rainbow Dash innocent when she '
                                          'is accused of committing a crime.',
                           'episode': '15',
+                          'episode-overall': '106',
                           'release-date': '2011-02-11',
                           'season': '5',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e4/Rarity_looking_determined_S5E15.png/revision/latest?cb=20150923194449',
@@ -2281,8 +2402,9 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             'specifically refers to the '
                                             'fashion industry; the name is not '
                                             'a reference to the 1989 slasher '
-                                            'film Jason Takes Manhattan.[3]',
+                                            'film Jason Takes Manhattan.',
                              'episode': '8',
+                             'episode-overall': '73',
                              'release-date': '2010-12-03',
                              'season': '4',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/95/Main_cast_looking_around_Manehattan_S4E08.png/revision/latest?cb=20140107230744',
@@ -2298,6 +2420,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'friends due to her former penchant of '
                                      'mocking it as an "egghead" pursuit.',
                       'episode': '16',
+                      'episode-overall': '42',
                       'release-date': '2011-02-18',
                       'season': '2',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/65/Rainbow_Dash_holding_Daring_Do_book_S2E16.png/revision/latest?cb=20121003140014',
@@ -2315,6 +2438,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'great and powerful assistant Starlight '
                                        'Glimmer.',
                         'episode': '19',
+                        'episode-overall': '188',
                         'release-date': '2011-03-11',
                         'season': '8',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/76/Starlight_and_Trixie_trade_hammocks_S8E19.png/revision/latest?cb=20180903013856',
@@ -2331,6 +2455,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'that the town has more to offer '
                                           'than just rocks.',
                            'episode': '4',
+                           'episode-overall': '147',
                            'release-date': '2010-11-05',
                            'season': '7',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fe/Maud_and_Starlight_looking_at_Pinkie_S7E4.png/revision/latest?cb=20170505044634',
@@ -2347,6 +2472,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'fears and take part in Nightmare Night with '
                                  'her friends.',
                   'episode': '21',
+                  'episode-overall': '112',
                   'release-date': '2011-03-25',
                   'season': '5',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/74/Fluttershy_looks_out_the_window_scared_S5E21.png/revision/latest?cb=20150923202936',
@@ -2365,6 +2491,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'the Cutie Map grows bigger to '
                                          'reflect the world beyond Equestria.',
                           'episode': '1',
+                          'episode-overall': '170',
                           'release-date': '2010-10-10',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f2/Exterior_view_of_the_School_of_Friendship_S8E1.png/revision/latest?cb=20180325171039',
@@ -2382,6 +2509,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'the Equestria Educational '
                                          'Association.',
                           'episode': '2',
+                          'episode-overall': '171',
                           'release-date': '2010-10-22',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c6/School_of_Friendship_group_photo_S8E2.png/revision/latest?cb=20180328004643',
@@ -2403,6 +2531,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'open to attack from a dangerous '
                                          'mastermind.',
                           'episode': '25',
+                          'episode-overall': '194',
                           'release-date': '2011-04-29',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/12/Cozy_Glow_raising_a_makeshift_crown_S8E25.png/revision/latest?cb=20181015181420',
@@ -2419,6 +2548,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'finale. The title is a parody of the '
                                          'eighth season premiere School Daze.',
                           'episode': '26',
+                          'episode-overall': '195',
                           'release-date': '2011-05-06',
                           'season': '8',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ed/Cozy_Glow_holding_Mane_Six_puppets_S8E26.png/revision/latest?cb=20181015194827',
@@ -2434,6 +2564,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'parody of The Secret of My Success, a '
                                         '1987 film.',
                          'episode': '10',
+                         'episode-overall': '36',
                          'release-date': '2010-12-17',
                          'season': '2',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f7/Spike_grown_up_S2E10.png/revision/latest?cb=20120123140441',
@@ -2452,6 +2583,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'attempts to catch Rainbow in her web of '
                                      'lies.',
                       'episode': '23',
+                      'episode-overall': '166',
                       'release-date': '2011-04-15',
                       'season': '7',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a1/Pinkie_Pie_forcing_yet_another_pie_on_Rainbow_Dash_S7E23.png/revision/latest?cb=20171011034818',
@@ -2465,6 +2597,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'is the first part of a two-part '
                                          'season finale.',
                           'episode': '25',
+                          'episode-overall': '168',
                           'release-date': '2011-04-29',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d2/Illustration_of_Pillars_of_Old_Equestria_in_five-point_circle_S7E25.png/revision/latest?cb=20171012015338',
@@ -2479,6 +2612,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'Pony The Movie. It is the second '
                                          'part of a two-part season finale.',
                           'episode': '26',
+                          'episode-overall': '169',
                           'release-date': '2011-05-06',
                           'season': '7',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/4c/Mane_Six%2C_Starlight%2C_Spike%2C_and_Pillars_stand_together_S7E26.png/revision/latest?cb=20171012200211',
@@ -2488,13 +2622,14 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'episode of season nine of My Little '
                                        'Pony Friendship is Magic and the '
                                        "show's two hundred and fourteenth "
-                                       'episode overall.[1] The title is a '
+                                       'episode overall. The title is a '
                                        'reference to the Black Crowes song '
                                        '"She Talks to Angels". When Fluttershy '
                                        "and Angel's relationship hits the "
                                        'skids, Zecora gives them a potion to '
                                        'help them understand each other.',
                         'episode': '18',
+                        'episode-overall': '214',
                         'release-date': '2011-03-04',
                         'season': '9',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a8/Fluttershy_and_Angel_looking_at_their_reflections_S9E18.png/revision/latest?cb=20190903020032',
@@ -2503,7 +2638,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  "she's all yak": {'description': "She's All Yak is the seventh episode of "
                                   'season nine of My Little Pony Friendship is '
                                   "Magic and the show's two hundred and third "
-                                  'episode overall.[1] The title is a play on '
+                                  'episode overall. The title is a play on '
                                   'the expression "she\'s all that" and a '
                                   "reference to the 1999 film She's All That, "
                                   'which, itself, was a "modern retelling" of '
@@ -2515,6 +2650,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'serving as a follow up to The Last Problem, '
                                   "was included in Gameloft's mobile game.",
                    'episode': '7',
+                   'episode-overall': '203',
                    'release-date': '2010-11-26',
                    'season': '9',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/46/Yona_reimagined_as_a_pony_S9E7.png/revision/latest?cb=20190513005619',
@@ -2527,6 +2663,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                 'act like Applejack in order to win the heart '
                                 'of a famous travel writer.',
                  'episode': '13',
+                 'episode-overall': '78',
                  'release-date': '2011-01-28',
                  'season': '4',
                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a0/Rarity_introduces_new_festival_theme_S4E13.png/revision/latest?cb=20140210164019',
@@ -2542,6 +2679,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'encounter a crisis in their '
                                         'relationship.',
                          'episode': '5',
+                         'episode-overall': '31',
                          'release-date': '2010-11-12',
                          'season': '2',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Rarity_looking_at_Sweetie_Belle%27s_drawing_S02E05.png/revision/latest?cb=20111107080103',
@@ -2557,6 +2695,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'stories. The title is a reference '
                                            'to the film Sleepless in Seattle.',
                             'episode': '6',
+                            'episode-overall': '58',
                             'release-date': '2010-11-19',
                             'season': '3',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/20/Scootaloo_notices_something_S3E06.png/revision/latest?cb=20121213135314',
@@ -2572,6 +2711,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'busy battling a monster, the citizens of '
                                   'Ponyville try to get to a wedding on time.',
                    'episode': '9',
+                   'episode-overall': '100',
                    'release-date': '2010-12-10',
                    'season': '5',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/0a/Ponies_go_flying_from_the_DJ_station_S5E9.png/revision/latest?cb=20150615114850',
@@ -2589,6 +2729,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                               "show Applejack that she doesn't "
                                               'need to be constantly watched.',
                                'episode': '17',
+                               'episode-overall': '82',
                                'release-date': '2011-02-25',
                                'season': '4',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/01/AJ_%22and_doesn%27t_want_her_to_get_an_owie%3F%22_S4E17.png/revision/latest?cb=20140310125647',
@@ -2601,6 +2742,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'Young Flyer competition, but she pulls off '
                                    'a sonic rainboom, impressing the crowd.',
                     'episode': '16',
+                    'episode-overall': '16',
                     'release-date': '2011-02-18',
                     'season': '1',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/be/Rainbow_Dash_performing_Sonic_Rainboom_S01E16.png/revision/latest?cb=20130103074703',
@@ -2623,6 +2765,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       "feelings that they've taken a vow of "
                                       'silence.',
                        'episode': '23',
+                       'episode-overall': '192',
                        'release-date': '2011-04-15',
                        'season': '8',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ef/Fluttershy_and_AJ_arguing_among_the_Kirin_S8E23.png/revision/latest?cb=20181001024847',
@@ -2630,10 +2773,10 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                        'writer': 'Gregory Bonsignore'},
  "sparkle's seven": {'description': "Sparkle's Seven, also titled Twilight's "
                                     'Seven by some sources and in the '
-                                    "episode's script,[1] is the fourth "
+                                    "episode's script, is the fourth "
                                     'episode of season nine of My Little Pony '
                                     "Friendship is Magic and the show's two "
-                                    'hundredth episode overall,[2] celebrated '
+                                    'hundredth episode overall, celebrated '
                                     'as a milestone episode. The title is a '
                                     "reference to the 1960 film Ocean's 11, "
                                     'its 2001 remake, and/or the all-female '
@@ -2648,6 +2791,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'rivalry, but they soon discover they are '
                                     'not the only competitors.',
                      'episode': '4',
+                     'episode-overall': '200',
                      'release-date': '2010-11-05',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/49/Sparkle%27s_Seven%27s_plan_falling_apart_S9E4.png/revision/latest?cb=20190422170856',
@@ -2660,12 +2804,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'hundred and twenty-ninth overall. It '
                                        "marks season six's midseason finale. "
                                        'The title is a reference to the Spice '
-                                       'Girls song of the same name.[1] In '
+                                       'Girls song of the same name. In '
                                        'this episode, Rarity and Pinkie Pie '
                                        'are called to Canterlot by the Cutie '
                                        'Map to help a struggling '
                                        'father-daughter family restaurant.',
                         'episode': '12',
+                        'episode-overall': '129',
                         'release-date': '2011-01-07',
                         'season': '6',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/84/Pinkie_and_Rarity_singing_in_separate_tandem_S6E12.png/revision/latest?cb=20160612154148',
@@ -2681,6 +2826,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'repaying her with excessive help '
                                           'around the farm.',
                            'episode': '9',
+                           'episode-overall': '61',
                            'release-date': '2010-12-10',
                            'season': '3',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b0/Spike_%22my_honor_and_my_duty%22_S03E09.png/revision/latest?cb=20121230042627',
@@ -2699,6 +2845,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  'is a play on the American exercise machine '
                                  'company StairMaster.',
                   'episode': '17',
+                  'episode-overall': '17',
                   'release-date': '2011-02-25',
                   'season': '1',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/64/Fluttershy_staring_at_chickens_S01E17.png/revision/latest?cb=20200312150751',
@@ -2722,6 +2869,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                               'three stories as much as she '
                                               'loves them.',
                                'episode': '13',
+                               'episode-overall': '130',
                                'release-date': '2011-01-28',
                                'season': '6',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/58/Quibble_Pants_and_Rainbow_Dash_dressed_as_Daring_Do_S6E13.png/revision/latest?cb=20160731125931',
@@ -2730,7 +2878,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'student counsel': {'description': 'Student Counsel is the eleventh episode '
                                     'of season nine of My Little Pony '
                                     "Friendship is Magic and the show's two "
-                                    'hundred and seventh episode overall.[1] '
+                                    'hundred and seventh episode overall. '
                                     'The title is a wordplay on "student '
                                     'council". Starlight Glimmer relishes her '
                                     'role as school counselor and encourages '
@@ -2738,6 +2886,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'anything, but always being available '
                                     'becomes too much for her.',
                      'episode': '11',
+                     'episode-overall': '207',
                      'release-date': '2010-12-24',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a6/Starlight_awkwardly_listening_to_Silverstream_S9E11.png/revision/latest?cb=20190609193727',
@@ -2756,6 +2905,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                        'original phrase, as well as the '
                                        "meaning of 'being appropriate'.",
                         'episode': '14',
+                        'episode-overall': '14',
                         'release-date': '2011-02-04',
                         'season': '1',
                         'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/12/Rarity_being_overwhelmed_with_pressure_S1E14.png/revision/latest?cb=20200313112450',
@@ -2771,6 +2921,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'to help a young Hippogriff figure out '
                                      'where he belongs.',
                       'episode': '6',
+                      'episode-overall': '175',
                       'release-date': '2010-11-19',
                       'season': '8',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a3/Twilight_and_the_CMC_transform_into_seaponies_S8E6.png/revision/latest?cb=20180422185332',
@@ -2785,6 +2936,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'threatening to ruin Princess '
                                          "Celestia's visit to the town.",
                           'episode': '10',
+                          'episode-overall': '10',
                           'release-date': '2010-12-17',
                           'season': '1',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ef/Main_ponies_at_Fluttershy%27s_cottage_looking_nervous_S1E10.png/revision/latest?cb=20200313032202',
@@ -2806,6 +2958,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     '"ne\'er-do-well," a person who is '
                                     'completely lacking in merit.',
                      'episode': '9',
+                     'episode-overall': '35',
                      'release-date': '2010-12-10',
                      'season': '2',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/57/Canterlot_speaks_about_Rarity_S2E9.png/revision/latest?cb=20111204163048',
@@ -2814,12 +2967,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'sweet and smoky': {'description': 'Sweet and Smoky is the ninth episode of '
                                     'season nine of My Little Pony Friendship '
                                     "is Magic and the show's two hundred and "
-                                    'fifth episode overall.[1] When Spike and '
+                                    'fifth episode overall. When Spike and '
                                     'Fluttershy go with Smolder to the Dragon '
                                     'Lands to help cheer up her sensitive '
                                     'brother, they find out that the dragon '
                                     "eggs aren't hatching.",
                      'episode': '9',
+                     'episode-overall': '205',
                      'release-date': '2010-12-10',
                      'season': '9',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9b/Garble_and_Smolder_fist-bump_S9E9.png/revision/latest?cb=20190526210840',
@@ -2835,12 +2989,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'title is not a reference to the '
                                            'Fall Out Boy song, nor is it a '
                                            'reference to The Big Broadcast of '
-                                           '1938.[1] To prevent her pet '
+                                           '1938. To prevent her pet '
                                            'tortoise Tank from going into '
                                            'hibernation, Rainbow Dash tries to '
                                            'stop winter from coming to '
                                            'Ponyville.',
                             'episode': '5',
+                            'episode-overall': '96',
                             'release-date': '2010-11-12',
                             'season': '5',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3c/Rainbow_silently_cries_with_Tank_S5E5.png/revision/latest?cb=20150427170848',
@@ -2861,6 +3016,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             'the volume levels of a '
                                             'microphone.',
                              'episode': '21',
+                             'episode-overall': '86',
                              'release-date': '2011-03-25',
                              'season': '4',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/16/Twilight_%22Pinkie%2C_stop_rapping%21%22_S4E21.png/revision/latest?cb=20140407154821',
@@ -2873,7 +3029,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       'Friendship is Magic and '
                                                       'the one hundred and '
                                                       'ninety-seventh '
-                                                      'overall.[1] It is the '
+                                                      'overall. It is the '
                                                       'first part of a '
                                                       'two-part season '
                                                       'premiere. In this first '
@@ -2891,6 +3047,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       'Sombra has plans of his '
                                                       'own.',
                                        'episode': '1',
+                                       'episode-overall': '197',
                                        'release-date': '2010-10-10',
                                        'season': '9',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/77/Grogar_assembles_a_league_of_villains_S9E1.png/revision/latest?cb=20190407131754',
@@ -2906,7 +3063,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       'is Magic and the one '
                                                       'hundred and '
                                                       'ninety-eighth '
-                                                      'overall.[1] It is the '
+                                                      'overall. It is the '
                                                       'second part of a '
                                                       'two-part season '
                                                       'premiere. In this '
@@ -2921,6 +3078,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       'on conquering all of '
                                                       'Equestria.',
                                        'episode': '2',
+                                       'episode-overall': '198',
                                        'release-date': '2010-10-22',
                                        'season': '9',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6d/Rainbow_brings_gardening_tools_to_her_friends_S9E2.png/revision/latest?cb=20190407132745',
@@ -2938,16 +3096,17 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'expectations, much to their '
                                         'disappointment.',
                          'episode': '26',
+                         'episode-overall': '26',
                          'release-date': '2011-05-06',
                          'season': '1',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/20/Main_Six_determined_to_have_the_Best_Night_Ever_S1E26.png/revision/latest?cb=20200313041316',
                          'title': 'The Best Night Ever',
                          'writer': 'Amy Keating Rogers'},
  'the big mac question': {'description': 'The Big Mac Question is the '
-                                         'twenty-third[1][2] episode of season '
+                                         'twenty-third episode of season '
                                          'nine of My Little Pony Friendship is '
                                          "Magic and the show's two hundred and "
-                                         'nineteenth episode overall.[3] The '
+                                         'nineteenth episode overall. The '
                                          'title is a reference to the saying '
                                          '"the big question", which is often '
                                          'used as a euphemism for a marriage '
@@ -2957,6 +3116,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'do to help ends up making a mess of '
                                          'the whole thing.',
                           'episode': '23',
+                          'episode-overall': '219',
                           'release-date': '2011-04-15',
                           'season': '9',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f8/Big_Mac_gives_Sugar_Belle_an_engagement_ring_S9E23.png/revision/latest?cb=20191009170816',
@@ -2977,6 +3137,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                             'Sweetie Belle\'s "secret admirer" '
                                             'could be.',
                              'episode': '10',
+                             'episode-overall': '179',
                              'release-date': '2010-12-17',
                              'season': '8',
                              'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/1c/Mrs._Cake_%22just_be_honest_with_him%22_S8E10.png/revision/latest?cb=20180520173637',
@@ -2997,6 +3158,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                'and Rainbow Dash take over the '
                                                'competition.',
                                 'episode': '14',
+                                'episode-overall': '131',
                                 'release-date': '2011-02-04',
                                 'season': '6',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/29/Rainbow_Dash%2C_Rarity_and_AJ_ready_to_race_S6E14.png/revision/latest?cb=20160807142525',
@@ -3017,6 +3179,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'happily ever after and the '
                                                 'future of Equestria.',
                                  'episode': '1',
+                                 'episode-overall': '53',
                                  'release-date': '2010-10-10',
                                  'season': '3',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e5/King_Sombra_shadow_creeping_up_behind_main_characters_S3E1.png/revision/latest?cb=20121207202533',
@@ -3037,6 +3200,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'happily ever after and the '
                                                 'future of Equestria.',
                                  'episode': '2',
+                                 'episode-overall': '54',
                                  'release-date': '2010-10-22',
                                  'season': '3',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d4/Crystal_Empire_surrounded_by_King_Sombra_S3E2.png/revision/latest?cb=20121113070027',
@@ -3059,6 +3223,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              'Starlight Glimmer her first '
                                              'friendship lesson.',
                               'episode': '1',
+                              'episode-overall': '118',
                               'release-date': '2010-10-10',
                               'season': '6',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c3/Mane_six_shocked_to_see_Flurry_Heart%27s_wings_S06E01.png/revision/latest?cb=20160327165858',
@@ -3076,15 +3241,16 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              'struggles to reunite with her '
                                              'childhood friend.',
                               'episode': '2',
+                              'episode-overall': '119',
                               'release-date': '2010-10-22',
                               'season': '6',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/02/Flurry_Heart%27s_Crystalling_is_complete_S6E2.png/revision/latest?cb=20160328175609',
                               'title': 'The Crystalling - Part 2',
                               'writer': 'Josh Haber'},
  'the cutie map - part 1': {'description': 'The Cutie Map - Part 1, also '
-                                           'formatted The Cutie Map, Part 1[1] '
-                                           'and also called Cutie Markless[2] '
-                                           'Pt 1,[3] is the first episode of '
+                                           'formatted The Cutie Map, Part 1 '
+                                           'and also called Cutie Markless '
+                                           'Pt 1, is the first episode of '
                                            'the fifth season of My Little Pony '
                                            'Friendship is Magic and the '
                                            'ninety-second episode overall, '
@@ -3104,15 +3270,16 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'the inhabitants have given up '
                                            'their cutie marks.',
                             'episode': '1',
+                            'episode-overall': '92',
                             'release-date': '2010-10-10',
                             'season': '5',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/5a/Creepy_smiling_ponies_with_equals_sign_banner_S5E1.png/revision/latest?cb=20150406120444',
                             'title': 'The Cutie Map - Part 1',
                             'writer': 'Meghan McCarthy'},
  'the cutie map - part 2': {'description': 'The Cutie Map - Part 2, also '
-                                           'formatted The Cutie Map, Part 2[1] '
+                                           'formatted The Cutie Map, Part 2 '
                                            'and also called Cutie '
-                                           'Markless[2][3] Pt 2,[4] is the '
+                                           'Markless Pt 2, is the '
                                            'second episode of the fifth season '
                                            'of My Little Pony Friendship is '
                                            'Magic and the ninety-third episode '
@@ -3128,6 +3295,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'startling secret about the pony '
                                            'who took them away.',
                             'episode': '2',
+                            'episode-overall': '93',
                             'release-date': '2010-10-22',
                             'season': '5',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/bc/Twilight_thinking_very_hard_S5E02.png/revision/latest?cb=20150406110935',
@@ -3146,6 +3314,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                               'the leading characters have a '
                                               'speaking role.',
                                'episode': '23',
+                               'episode-overall': '23',
                                'release-date': '2011-04-15',
                                'season': '1',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/c0/Rainbow_Dash_shows_her_cutie_mark_S01E23.png/revision/latest?cb=20130103072422',
@@ -3164,6 +3333,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'archaic sense, it may refer to disease in '
                                   'general.',
                    'episode': '6',
+                   'episode-overall': '32',
                    'release-date': '2010-11-19',
                    'season': '2',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/7e/Picture_of_the_pony_with_cutie_pox_S02E06.png/revision/latest?cb=20111114060416',
@@ -3172,7 +3342,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'the cutie re-mark - part 1': {'description': 'The Cutie Re-Mark - Part 1, '
                                                'also formatted as The Cutie '
                                                'Re-Mark - Pt. 1 and The Cutie '
-                                               'Re-Mark Part I,[1] is the '
+                                               'Re-Mark Part I, is the '
                                                'twenty-fifth episode of season '
                                                'five of My Little Pony '
                                                'Friendship is Magic and the '
@@ -3190,6 +3360,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                "included in Gameloft's mobile "
                                                'game.',
                                 'episode': '25',
+                                'episode-overall': '116',
                                 'release-date': '2011-04-29',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/e9/Twilight_and_Spike_look_at_the_time_portal_S5E25.png/revision/latest?cb=20151201153429',
@@ -3198,7 +3369,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'the cutie re-mark - part 2': {'description': 'The Cutie Re-Mark - Part 2, '
                                                'also formatted as The Cutie '
                                                'Re-Mark - Pt. 2 and The Cutie '
-                                               'Re-Mark Part II,[1] is the '
+                                               'Re-Mark Part II, is the '
                                                'twenty-sixth episode of season '
                                                'five of My Little Pony '
                                                'Friendship is Magic and the '
@@ -3215,6 +3386,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                '"Lunaverse"-were included in '
                                                "Gameloft's mobile game.",
                                 'episode': '26',
+                                'episode-overall': '117',
                                 'release-date': '2011-05-06',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/53/Twilight%2C_Spike%2C_and_Starlight_on_the_barren_landscape_S5E26.png/revision/latest?cb=20151201142820',
@@ -3229,6 +3401,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       "when they can't find anything they both "
                                       'like to do together.',
                        'episode': '17',
+                       'episode-overall': '186',
                        'release-date': '2011-02-25',
                        'season': '8',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/59/Rarity_and_Rainbow_refuse_to_speak_to_each_other_S8E17.png/revision/latest?cb=20180819205616',
@@ -3241,7 +3414,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                    'Pony Friendship is Magic '
                                                    "and the show's two hundred "
                                                    'and twentieth episode '
-                                                   'overall.[1] It is the '
+                                                   'overall. It is the '
                                                    'first part of a two-part '
                                                    'episode, and it premiered '
                                                    'as part of the 90-minute '
@@ -3254,6 +3427,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                    'the Mane Six to save the '
                                                    'kingdom.',
                                     'episode': '24',
+                                    'episode-overall': '220',
                                     'release-date': '2011-04-22',
                                     'season': '9',
                                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/13/Legion_of_Doom_threatening_Twilight_S9E24.png/revision/latest?cb=20191017173230',
@@ -3266,7 +3440,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                    "is Magic and the show's "
                                                    'two hundred and '
                                                    'twenty-first episode '
-                                                   'overall.[1] It is the '
+                                                   'overall. It is the '
                                                    'second part of a two-part '
                                                    'episode, and it premiered '
                                                    'as part of the 90-minute '
@@ -3277,6 +3451,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                    'while Equestria is divided '
                                                    'in disharmony.',
                                     'episode': '25',
+                                    'episode-overall': '221',
                                     'release-date': '2011-04-29',
                                     'season': '9',
                                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/9b/The_cavalry_of_united_Equestria_arrives_S9E25.png/revision/latest?cb=20191022031055',
@@ -3296,6 +3471,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                  'Crusaders to help her get '
                                                  'her own cutie mark.',
                                   'episode': '19',
+                                  'episode-overall': '136',
                                   'release-date': '2011-03-11',
                                   'season': '6',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/23/CMC_moving_their_legs_and_Gabby_moving_her_body_as_the_song_begins_S6E19.png/revision/latest?cb=20160911170309',
@@ -3315,6 +3491,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                              'find the perfect gift for her '
                                              'sister Maud.',
                               'episode': '3',
+                              'episode-overall': '120',
                               'release-date': '2010-10-29',
                               'season': '6',
                               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d9/Pinkie_Pie_jumping_for_joy_S6E3.png/revision/latest?cb=20160403152239',
@@ -3341,6 +3518,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                               'Eve, Hearthbreakers, and A '
                                               "Hearth's Warming Tail.",
                                'episode': '15',
+                               'episode-overall': '184',
                                'release-date': '2011-02-11',
                                'season': '8',
                                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/14/Twilight_tells_Young_Six_to_clean_up_the_mess_S8E16.png/revision/latest?cb=20180807002007',
@@ -3363,6 +3541,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                "remember why they're fighting "
                                                'against each other.',
                                 'episode': '23',
+                                'episode-overall': '114',
                                 'release-date': '2011-04-15',
                                 'season': '5',
                                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/66/Twilight_and_Fluttershy_hovering_between_two_hills_S5E23.png/revision/latest?cb=20151116181211',
@@ -3371,28 +3550,30 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'the last crusade': {'description': 'The Last Crusade is the twelfth episode '
                                      'of season nine of My Little Pony '
                                      "Friendship is Magic and the show's two "
-                                     'hundred and eighth episode overall.[1] '
+                                     'hundred and eighth episode overall. '
                                      'The title is a reference to the 1989 '
                                      'film Indiana Jones and the Last Crusade. '
                                      'In this episode, unexpected visitors to '
                                      'Ponyville threaten to break up the Cutie '
                                      'Mark Crusaders forever.',
                       'episode': '12',
+                      'episode-overall': '208',
                       'release-date': '2011-01-07',
                       'season': '9',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/31/Mane_Allgood_%22We%27re_all_moving_to_Shire_Lanka%21%22_S9E12.png/revision/latest?cb=20190616221646',
                       'title': 'The Last Crusade',
                       'writer': 'Nicole Dubuc'},
- 'the last laugh': {'description': 'The Last Laugh, incorrectly[1] titled as '
+ 'the last laugh': {'description': 'The Last Laugh, incorrectly titled as '
                                    "That's a Laugh by some sources, is the "
                                    'fourteenth episode of season nine of My '
                                    'Little Pony Friendship is Magic and the '
                                    "show's two hundred and tenth episode "
-                                   'overall.[2] When Pinkie Pie seeks help '
+                                   'overall. When Pinkie Pie seeks help '
                                    'from her old friend Cheese Sandwich in '
                                    "finding her life's purpose, she discovers "
                                    'the unimaginable has happened.',
                     'episode': '14',
+                    'episode-overall': '210',
                     'release-date': '2011-02-04',
                     'season': '9',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/48/Pinkie_shocks_Sans_Smirk_with_joy_buzzer_S9E14.png/revision/latest?cb=20190805011850',
@@ -3402,7 +3583,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'episode of season nine of My Little Pony '
                                      "Friendship is Magic and the show's two "
                                      'hundred and twenty-second episode '
-                                     'overall.[1] It premiered as the final '
+                                     'overall. It premiered as the final '
                                      'episode of the series, as part of the '
                                      '90-minute finale with The Ending of the '
                                      'End - Part 1 and The Ending of the End - '
@@ -3413,6 +3594,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'solve it, she looks back on the times '
                                      'she and her friends spent together.',
                       'episode': '26',
+                      'episode-overall': '222',
                       'release-date': '2011-05-06',
                       'season': '9',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fe/Future_Mane_Six_and_Spike_in_Ponyville_S9E26.png/revision/latest?cb=20191103195212',
@@ -3429,6 +3611,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      'Canterlot, her friends decide to find '
                                      'her and understand her motives.',
                       'episode': '14',
+                      'episode-overall': '40',
                       'release-date': '2011-02-04',
                       'season': '2',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/65/Meeting_Cherry_Jubilee_S02E14.png/revision/latest?cb=20120326235917',
@@ -3450,6 +3633,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                       'Cutie Map to the city '
                                                       'of Griffonstone.',
                                        'episode': '8',
+                                       'episode-overall': '99',
                                        'release-date': '2010-12-03',
                                        'season': '5',
                                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3b/King_Grover_presents_the_Idol_of_Boreas_S5E8.png/revision/latest?cb=20150525091601',
@@ -3471,6 +3655,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         "that the singer's manager does not "
                                         'have her best interests at heart.',
                          'episode': '24',
+                         'episode-overall': '115',
                          'release-date': '2011-04-22',
                          'season': '5',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/6f/Applejack_on_stage_with_Coloratura_and_the_CMC_S5E24.png/revision/latest?cb=20151123141319',
@@ -3488,6 +3673,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'is challenged when Maud gets a boyfriend '
                                     "that Pinkie can't stand.",
                      'episode': '3',
+                     'episode-overall': '172',
                      'release-date': '2010-10-29',
                      'season': '8',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/71/Pinkie_Pie_looks_at_Maud_Pie_and_Mudbriar_S8E3.png/revision/latest?cb=20180401223124',
@@ -3503,6 +3689,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'Chrysalis returns to exact her revenge on '
                                'Starlight Glimmer and the Mane Six.',
                 'episode': '13',
+                'episode-overall': '182',
                 'release-date': '2011-01-28',
                 'season': '8',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/41/Chrysalis%27_clones_rising_from_their_shells_S8E13.png/revision/latest?cb=20180610133624',
@@ -3530,6 +3717,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'who is completely lacking in '
                                                 'merit.',
                                  'episode': '8',
+                                 'episode-overall': '34',
                                  'release-date': '2010-12-03',
                                  'season': '2',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/93/The_Mysterious_Mare_Do_Well_S02E08.png/revision/latest?cb=20120911200936',
@@ -3553,6 +3741,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                    'it a difficult secret to '
                                                    'keep from her friends.',
                                     'episode': '19',
+                                    'episode-overall': '110',
                                     'release-date': '2011-03-11',
                                     'season': '5',
                                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2b/Pinkie_feeling_pressured_by_her_friends_S5E19.png/revision/latest?cb=20151019110359',
@@ -3568,6 +3757,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    "hometown of Sire's Hollow to solve a "
                                    'friendship problem with their parents.',
                     'episode': '8',
+                    'episode-overall': '177',
                     'release-date': '2010-12-03',
                     'season': '8',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a8/Starlight_and_Sunburst%27s_parents_face_off_S8E8.png/revision/latest?cb=20180506145652',
@@ -3583,6 +3773,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      "learn about their parents' love story "
                                      'and discover that they are half-Pear.',
                       'episode': '13',
+                      'episode-overall': '156',
                       'release-date': '2011-01-28',
                       'season': '7',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/15/Bright_Mac_teasing_Pear_Butter_S7E13.png/revision/latest?cb=20170807212749',
@@ -3592,13 +3783,14 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'fifth episode of season nine of My '
                                            'Little Pony Friendship is Magic '
                                            "and the show's two hundred and "
-                                           'first episode overall.[1] In this '
+                                           'first episode overall. In this '
                                            'episode, Twilight Sparkle realizes '
                                            'she never returned a book to the '
                                            'Canterlot Library and may have '
                                            'caused her favorite librarian '
                                            'Dusty Pages to lose her job.',
                             'episode': '5',
+                            'episode-overall': '201',
                             'release-date': '2010-11-12',
                             'season': '9',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2f/Twilight_sees_how_overdue_her_book_is_S9E5.png/revision/latest?cb=20190428134810',
@@ -3619,6 +3811,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                  'games. It is the first half '
                                                  'of a two-part episode.',
                                   'episode': '1',
+                                  'episode-overall': '27',
                                   'release-date': '2010-10-10',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f4/Statue_of_Discord_cracking_S2E01.png/revision/latest?cb=20130101195722',
@@ -3637,14 +3830,15 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                  'Discord. It is the second '
                                                  'half of a two-part episode.',
                                   'episode': '2',
+                                  'episode-overall': '28',
                                   'release-date': '2010-10-22',
                                   'season': '2',
                                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/88/Discord%2C_%22First_changes_of_Ponyville%22_S02E02.png/revision/latest?cb=20120601221808',
                                   'title': 'The Return of Harmony Part 2',
                                   'writer': 'M. A. Larson'},
  'the saddle row review': {'description': 'The Saddle Row Review, early title '
-                                          'Saddle Row & Rec[1] used by some '
-                                          'sources,[2] is the ninth episode of '
+                                          'Saddle Row & Rec used by some '
+                                          'sources, is the ninth episode of '
                                           'season six of My Little Pony '
                                           'Friendship is Magic and the one '
                                           'hundred and twenty-sixth overall. '
@@ -3654,6 +3848,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                           'friends almost ruined the grand '
                                           'opening.',
                            'episode': '9',
+                           'episode-overall': '126',
                            'release-date': '2010-12-10',
                            'season': '6',
                            'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/4e/Rarity%27s_friends_looking_worried_of_Rarity_about_to_read_the_article_S6E9.png/revision/latest?cb=20160522113555',
@@ -3678,6 +3873,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'all other activities until it can be '
                                       'resolved.',
                        'episode': '18',
+                       'episode-overall': '18',
                        'release-date': '2011-03-04',
                        'season': '1',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/b3/Cutie_Mark_Crusaders_song_S1E18.png/revision/latest?cb=20200310155020',
@@ -3687,13 +3883,14 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            'seventeenth episode of season nine '
                                            'of My Little Pony Friendship is '
                                            "Magic and the show's two hundred "
-                                           'and thirteenth episode overall.[1] '
+                                           'and thirteenth episode overall. '
                                            'In this episode, Twilight is '
                                            'determined to make Celestia and '
                                            "Luna's last Summer Sun Celebration "
                                            'memorable, but things start going '
                                            'horribly wrong.',
                             'episode': '17',
+                            'episode-overall': '213',
                             'release-date': '2011-02-25',
                             'season': '9',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/fc/Twilight_successfully_raises_the_sun_S9E17.png/revision/latest?cb=20190829013401',
@@ -3719,6 +3916,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                         'fable about manpower '
                                                         'beating machine.',
                                          'episode': '15',
+                                         'episode-overall': '41',
                                          'release-date': '2011-02-11',
                                          'season': '2',
                                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/49/Crowd_looking_at_the_Super_Speedy_Cider_Squeezy_6000_S2E15.png/revision/latest?cb=20120205041329',
@@ -3733,6 +3931,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'of Twilight’s friends want to attend '
                                       'the gala.',
                        'episode': '3',
+                       'episode-overall': '3',
                        'release-date': '2010-10-29',
                        'season': '1',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/37/Twilight_Sparkle_overjoyed_about_tickets_S1E03.png/revision/latest?cb=20130103015746',
@@ -3765,6 +3964,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                     'possibility of a '
                                                     'changeling spy.',
                                      'episode': '16',
+                                     'episode-overall': '133',
                                      'release-date': '2011-02-18',
                                      'season': '6',
                                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d3/Spike_introducing_Thorax_as_his_friend_S6E16.png/revision/latest?cb=20160821162845',
@@ -3781,6 +3981,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                  "Scootaloo's days as her number one fan are "
                                  'over.',
                   'episode': '20',
+                  'episode-overall': '189',
                   'release-date': '2011-03-18',
                   'season': '8',
                   'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/f/f5/Rainbow_vs._Lightning%3B_Scootaloo_in_the_middle_S8E20.png/revision/latest?cb=20180909224639',
@@ -3797,6 +3998,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                     'third person spoils the ideal combination '
                                     'of a couple.',
                      'episode': '11',
+                     'episode-overall': '76',
                      'release-date': '2010-12-24',
                      'season': '4',
                      'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/30/Discord_holding_a_glass_S4E11.png/revision/latest?cb=20140127102339',
@@ -3812,6 +4014,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                            "accept the changelings' new way of "
                                            'sharing love.',
                             'episode': '17',
+                            'episode-overall': '160',
                             'release-date': '2011-02-25',
                             'season': '7',
                             'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/6/67/Pharynx_stomping_on_flowers_S7E17.png/revision/latest?cb=20170903220406',
@@ -3820,9 +4023,9 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'to where and back again - part 1': {'description': 'To Where and Back Again '
                                                      '- Part 1, also formatted '
                                                      'as To Where and Back '
-                                                     'Again: Part 1[1] and To '
+                                                     'Again: Part 1 and To '
                                                      'Where and Back Again Pt. '
-                                                     '1,[2][3] is the '
+                                                     '1, is the '
                                                      'twenty-fifth episode of '
                                                      'season six of My Little '
                                                      'Pony Friendship is Magic '
@@ -3844,6 +4047,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                      'team of heroes to save '
                                                      'her friends.',
                                       'episode': '25',
+                                      'episode-overall': '142',
                                       'release-date': '2011-04-29',
                                       'season': '6',
                                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/1/11/Trixie%2C_Thorax%2C_and_Discord_look_at_Starlight_Glimmer_S6E25.png/revision/latest?cb=20161023202808',
@@ -3855,7 +4059,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                      'as To Where and Back '
                                                      'Again: Part 2 and To '
                                                      'Where and Back Again Pt. '
-                                                     '2,[1][2] is the '
+                                                     '2, is the '
                                                      'twenty-sixth episode of '
                                                      'season six of My Little '
                                                      'Pony Friendship is Magic '
@@ -3872,6 +4076,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                      'friends and all of '
                                                      'Equestria.',
                                       'episode': '26',
+                                      'episode-overall': '143',
                                       'release-date': '2011-05-06',
                                       'season': '6',
                                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/4/44/Chrysalis_%22...or_what_it_takes_to_be_their_queen%21%22_S6E26.png/revision/latest?cb=20161024144045',
@@ -3888,6 +4093,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          'magic mirror pond to clone herself, '
                                          'with chaotic results.',
                           'episode': '3',
+                          'episode-overall': '55',
                           'release-date': '2010-10-29',
                           'season': '3',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/a/a9/A_lot_of_Pinkie_clones_S3E03.png/revision/latest?cb=20121118093440',
@@ -3903,6 +4109,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                              'hopefuls Sky Stinger and Vapor Trail with a '
                              'friendship problem.',
               'episode': '24',
+              'episode-overall': '141',
               'release-date': '2011-04-22',
               'season': '6',
               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/94/Spitfire_%22Wonderbolts_don%27t_get_winded%22_S6E24.png/revision/latest?cb=20161016132322',
@@ -3915,6 +4122,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                               'episode, friendships are tested when a trip to '
                               'the Rainbow Falls Traders Exchange goes wrong.',
                'episode': '22',
+               'episode-overall': '87',
                'release-date': '2011-04-08',
                'season': '4',
                'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/b/ba/The_ponies_celebrating_Twilight%27s_arrival_S4E22.png/revision/latest?cb=20140421130504',
@@ -3929,6 +4137,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   "won't get along and tries to keep them "
                                   'apart.',
                    'episode': '15',
+                   'episode-overall': '158',
                    'release-date': '2011-02-11',
                    'season': '7',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ea/Spike_watching_Thorax_and_Ember_fight_S7E15.png/revision/latest?cb=20170820225345',
@@ -3947,6 +4156,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'their concerts, but also using other '
                                   'singers for their music releases.',
                    'episode': '15',
+                   'episode-overall': '80',
                    'release-date': '2011-02-11',
                    'season': '4',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/99/Twilight_with_Diamond_Tiara_and_Silver_Spoon_S4E15.png/revision/latest?cb=20140224191231',
@@ -3974,6 +4184,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'villain who has escaped from '
                                                 'Tartarus.',
                                  'episode': '25',
+                                 'episode-overall': '90',
                                  'release-date': '2011-04-29',
                                  'season': '4',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/e/ec/Twilight%2C_Celestia%2C_Luna%2C_and_Cadance_on_the_balcony_S4E25.png/revision/latest?cb=20140512101439',
@@ -4003,6 +4214,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                                 'from the diabolical Lord '
                                                 'Tirek.',
                                  'episode': '26',
+                                 'episode-overall': '91',
                                  'release-date': '2011-05-06',
                                  'season': '4',
                                  'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/0/05/Twilight_and_Tirek_face-to-face_S4E26.png/revision/latest?cb=20140512143808',
@@ -4011,7 +4223,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
  'uncommon bond': {'description': 'Uncommon Bond is the twenty-fourth episode '
                                   'of season seven of My Little Pony '
                                   'Friendship is Magic and the one hundred and '
-                                  'sixty-seventh overall.[1] The title is a '
+                                  'sixty-seventh overall. The title is a '
                                   'play on the phrase "common bond". In this '
                                   'episode, Starlight Glimmer gets a visit '
                                   'from Sunburst and discovers he has a lot in '
@@ -4019,6 +4231,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                   'wonder if he still has anything in common '
                                   'with her.',
                    'episode': '24',
+                   'episode-overall': '167',
                    'release-date': '2011-04-22',
                    'season': '7',
                    'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/33/Starlight_Glimmer_feeling_left_out_S7E24.png/revision/latest?cb=20171011192826',
@@ -4026,12 +4239,13 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                    'writer': 'Josh Haber and Kevin Lappin'},
  'uprooted': {'description': 'Uprooted is the third episode of season nine of '
                              'My Little Pony Friendship is Magic and the one '
-                             'hundred and ninety-ninth overall.[1] In this '
+                             'hundred and ninety-ninth overall. In this '
                              'episode, the Young Six respond to a magical '
                              'summons from the Tree of Harmony, only to learn '
                              'it has been destroyed, and it is up to them to '
                              'figure out the best way to memorialize it.',
               'episode': '3',
+              'episode-overall': '199',
               'release-date': '2010-10-29',
               'season': '9',
               'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/5/59/Young_Six_behold_the_destroyed_Tree_S9E3.png/revision/latest?cb=20190414200305',
@@ -4049,6 +4263,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                      "suspicious goings-on at Gladmane's "
                                      'resort.',
                       'episode': '20',
+                      'episode-overall': '137',
                       'release-date': '2011-03-18',
                       'season': '6',
                       'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/9/97/Las_Pegasus_S6E20.png/revision/latest?cb=20160918094158',
@@ -4056,7 +4271,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                       'writer': 'Michael Vogel,Kevin Burke, andChris "Doc" '
                                 'Wyatt'},
  'what about discord?': {'description': 'What About Discord? (titled What '
-                                        'About Discord[1] by some sources) is '
+                                        'About Discord by some sources) is '
                                         'the twenty-second episode of the '
                                         'fifth season of My Little Pony '
                                         'Friendship is Magic and the one '
@@ -4069,6 +4284,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'Discord, making her wonder if he is '
                                         'up to something.',
                          'episode': '22',
+                         'episode-overall': '113',
                          'release-date': '2011-04-08',
                          'season': '5',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/8/8e/Discord_%22no_matter_how_hard_we_try%22_S5E22.png/revision/latest?cb=20151109173841',
@@ -4084,6 +4300,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                       'part of the School of Friendship that '
                                       'no one else knows about.',
                        'episode': '22',
+                       'episode-overall': '191',
                        'release-date': '2011-04-08',
                        'season': '8',
                        'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/c/ce/Tree_of_Harmony_addressing_the_Young_Six_S8E22.png/revision/latest?cb=20180924162828',
@@ -4102,6 +4319,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                          "almost jeopardized the farm's "
                                          'livelihood.',
                           'episode': '23',
+                          'episode-overall': '140',
                           'release-date': '2011-04-15',
                           'season': '6',
                           'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/2/2f/Young_Applejack_and_Big_McIntosh_glare_at_each_other_S6E23.png/revision/latest?cb=20161009103839',
@@ -4114,6 +4332,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                    'prepares for an annual clean-up to make '
                                    'way for spring.',
                     'episode': '11',
+                    'episode-overall': '11',
                     'release-date': '2010-12-24',
                     'season': '1',
                     'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/3/3b/Spotlight_on_Twilight_Sparkle_S1E11.png/revision/latest?cb=20200313205106',
@@ -4130,6 +4349,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                         'whether or not she is Wonderbolt '
                                         'material.',
                          'episode': '7',
+                         'episode-overall': '59',
                          'release-date': '2010-11-26',
                          'season': '3',
                          'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/d/d4/Rainbow_competing_with_Lightning_S3E07.png/revision/latest?cb=20121215174623',
@@ -4147,6 +4367,7 @@ episodes = {'2, 4, 6, greaaat': {'description': '2, 4, 6, Greaaat, incorrectly[1
                                'instrument as a new hobby, but her friends get '
                                'annoyed by her inability to play it.',
                 'episode': '18',
+                'episode-overall': '187',
                 'release-date': '2011-03-04',
                 'season': '8',
                 'thumbnail': 'https://static.wikia.nocookie.net/mlp/images/7/71/Pinkie_Pie_with_yak_helmet_and_yovidaphone_S8E18.png/revision/latest?cb=20180826195309',

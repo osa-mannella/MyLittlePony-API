@@ -49,6 +49,10 @@ def episode(episode_name):
             return episodes[episode_name]
     return jsonify(_episodes())
 
+@app.route("/all_episodes/")
+def all_episodes():
+    return episodes
+
 @app.route("/character/<name>/")
 def character(name):
     for n in characters:
