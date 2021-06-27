@@ -18,8 +18,16 @@ class MyHelp(commands.HelpCommand):
                 v = " " + command.signature
             n = n + f"`{self.clean_prefix}{command.name}{v}`\n{command.description}\n\n"
         embed = discord.Embed(title="Commands", description=n, colour=client.colour)
+        embed.set_thumbnail(url=self.context.me.avatar_url)
         embed.set_footer(text=f"Requested by {self.context.author}", icon_url=self.context.author.avatar_url)
         await self.context.send(embed=embed)
+
+@client.check
+async def check_command(ctx):
+    if not ctx.me.permissions_in(ctx.channel).embed_links:
+        await ctx.send("**:no_entry_sign: No Embed Permissions**")
+        return False
+    return True
 
 client.help_command = MyHelp()
 
