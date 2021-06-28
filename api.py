@@ -62,4 +62,4 @@ def character(name):
             continue
     return jsonify(_characters())
 
-app.run()
+app.run(port="500")
