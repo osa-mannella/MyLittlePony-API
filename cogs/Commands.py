@@ -8,9 +8,9 @@ class Commands(commands.Cog):
 
     async def no_result(self, ctx, response):
         terms = ["`" + n.title() + "`, " for n in response]
-        characters = " ".join(terms)
+        c = " ".join(terms)
         embed = discord.Embed(colour=self.client.colour,
-                              description=f"**Hm, I couldn't find that {ctx.command.name}, try one listed below.**\n\n{characters[:-2]}")
+                              description=f"**Hm, I couldn't find that {ctx.command.name}, try one listed below.**\n\n{c[:-2]}")
         await ctx.send(embed=embed)
 
 
