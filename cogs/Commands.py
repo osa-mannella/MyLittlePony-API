@@ -17,7 +17,7 @@ class Commands(commands.Cog):
     @commands.command(description="Shows information in relation to the supplied character")
     async def character(self, ctx, *, character_name):
         async with aiohttp.ClientSession() as session:
-            async with session.get(f'http://127.0.0.1:5000/character/{character_name.lower()}') as response:
+            async with session.get(f'http://127.0.0.1:500/character/{character_name.lower()}') as response:
                 try:
                     response = await response.json()
                     colour = int(response['color'][1][1:], 16)
@@ -39,7 +39,7 @@ class Commands(commands.Cog):
     @commands.command(description="Shows information in relation to the supplied location")
     async def place(self, ctx, *, place_name):
         async with aiohttp.ClientSession() as session:
-            async with session.get(f'http://127.0.0.1:5000/place/{place_name.lower()}') as response:
+            async with session.get(f'http://127.0.0.1:500/place/{place_name.lower()}') as response:
                 try:
                     response = await response.json()
                     embed = discord.Embed(title=response['name'], colour=self.client.colour)
@@ -68,7 +68,7 @@ class Commands(commands.Cog):
         async with aiohttp.ClientSession() as session:
             try:
                 if int(episode_name) <= 222:
-                    async with session.get('http://127.0.0.1:5000/all_episodes/') as r:
+                    async with session.get('http://127.0.0.1:500/all_episodes/') as r:
                         response = await r.json()
                         for n in response:
                             r = response[n]['episode-overall']
@@ -79,7 +79,7 @@ class Commands(commands.Cog):
                         return await ctx.send(embed=embed)
             except ValueError:
                 pass
-            async with session.get(f'http://127.0.0.1:5000/episode/{episode_name.lower()}') as response:
+            async with session.get(f'http://127.0.0.1:500/episode/{episode_name.lower()}') as response:
                 try:
                     response = await response.json()
                     embed = await self.embed_episode(ctx, response)
