@@ -17,9 +17,6 @@ class on_command_error(commands.Cog):
             return
         if isinstance(error, commands.CheckFailure):
             return
-        else:
-            print('Ignoring exception in command {}:'.format(ctx.command), file=sys.stderr)
-            traceback.print_exception(type(error), error, error.__traceback__, file=sys.stderr)
 
 def setup(client):
     client.add_cog(on_command_error(client))
