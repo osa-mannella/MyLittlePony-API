@@ -1,6 +1,6 @@
 FROM python:alpine3.9
 COPY . /app
 WORKDIR /app
-RUN pip install -r flask
+RUN pip install flask
 EXPOSE 500
 CMD python ./api.py
