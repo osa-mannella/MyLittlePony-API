@@ -1,4 +1,1 @@
 flask
-discord
-python-dotenv
-aiohttp
