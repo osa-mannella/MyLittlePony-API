@@ -3,5 +3,5 @@ COPY . /app
 WORKDIR /app
 RUN pip install -r requirements.txt
 EXPOSE 500
-CMD sudo python ./api.py
-CMD sudo python ./bot.py
+CMD python ./api.py
+CMD python ./bot.py
