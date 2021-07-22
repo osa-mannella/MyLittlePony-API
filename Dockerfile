@@ -3,4 +3,5 @@ COPY . /app
 WORKDIR /app
 RUN pip install -r requirements.txt
 EXPOSE 500
-CMD ['api.py', 'bot.py']
+CMD ./api.py
+CMD ./bot.py
